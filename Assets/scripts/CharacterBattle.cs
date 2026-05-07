@@ -1,15 +1,20 @@
 using UnityEngine;
 
-public class battleHandler : MonoBehaviour
+public class CharacterBattle : MonoBehaviour
 {
+   
+    
+
     void Start()
     {
-
+        
     }
 
     void Update()
     {
-
+        
     }
+
+    
 
 }
