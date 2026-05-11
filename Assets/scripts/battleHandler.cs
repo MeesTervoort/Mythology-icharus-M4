@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class battleHandler : MonoBehaviour
@@ -5,6 +6,7 @@ public class battleHandler : MonoBehaviour
     [SerializeField] public Transform character;
     [SerializeField] public Transform enemy;
     [SerializeField] public Transform Rat;
+    public GameObject WinUI;
 
     void Start()
     {
@@ -15,10 +17,7 @@ public class battleHandler : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-
-        }
+        Wincondition();
     }
 
     private void SpawnEnemy(bool isRat)
@@ -40,5 +39,11 @@ public class battleHandler : MonoBehaviour
         Vector3 position = new Vector3(-4, 2, 0);
         Instantiate(character, position, Quaternion.identity);
      }
-    
+    private void Wincondition()
+    {
+        if (Enemy_combat.EnemyHealth <= 0 && Rat_combat.RatHealth <= 0)
+        {
+            WinUI.SetActive(true);
+        }
+    }
 }

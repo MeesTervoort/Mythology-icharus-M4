@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3435170531836641054}
   - component: {fileID: 185137898753888708}
+  - component: {fileID: -213626562567457818}
   m_Layer: 0
   m_Name: rat
   m_TagString: Untagged
@@ -91,3 +92,15 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &-213626562567457818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012124137915481688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9733741eda9cdf448e965af0d4cdaca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Rat_combat
