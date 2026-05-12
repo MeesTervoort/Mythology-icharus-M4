@@ -25,18 +25,18 @@ public class battleHandler : MonoBehaviour
         Vector3 position;
         if (isRat)
         {
-            position = new Vector3(7.5f, 0.5f, 0);
+            position = new Vector3(7, 1.5f, 0);
             Instantiate(Rat, position, Quaternion.identity);
         }
         else
         {
-            position = new Vector3(4, 2, 0);
+            position = new Vector3(3, 2.5f, 0);
             Instantiate(enemy, position, Quaternion.identity);
         }
     }
     private void SpawnPlayer()
     {
-        Vector3 position = new Vector3(-4, 2, 0);
+        Vector3 position = new Vector3(-5, 2.5f, 0);
         Instantiate(character, position, Quaternion.identity);
      }
     private void Wincondition()
