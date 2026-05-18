@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 
 public class Player_combat : MonoBehaviour
 {
-    public GameObject AbilityUi;
+    
     public GameObject ItemUi;
 
     public static int CombatHealth;
@@ -47,7 +47,7 @@ public class Player_combat : MonoBehaviour
     }
     private void Ability_Action()
     {
-        AbilityUi.SetActive(true);
+        battleHandler.AbilityUi.SetActive(true);
     }
     private void Item_Action()
     {

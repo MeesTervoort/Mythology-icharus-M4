@@ -1183,6 +1183,7 @@ GameObject:
   - component: {fileID: 1652869080}
   - component: {fileID: 1652869079}
   - component: {fileID: 1652869078}
+  - component: {fileID: 1652869081}
   m_Layer: 5
   m_Name: Attack
   m_TagString: Untagged
@@ -1254,13 +1255,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
+      - m_Target: {fileID: 11500000, guid: 46e597d3201d605479fe0ee9fef85da2, type: 3}
+        m_TargetAssemblyTypeName: UnityEditor.MonoScript, UnityEditor.CoreModule
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1304,6 +1305,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1652869076}
   m_CullTransparentMesh: 1
+--- !u!114 &1652869081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652869076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46e597d3201d605479fe0ee9fef85da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Attack_Action
+  PointA: {fileID: 2233425871299130882, guid: bce78769ac5fe034787b3ef84145af15, type: 3}
+  PointB: {fileID: 2064810903442698129, guid: 5b1d4f0ff315e7245ae8071eb2f31c55, type: 3}
 --- !u!1 &1745428352
 GameObject:
   m_ObjectHideFlags: 0

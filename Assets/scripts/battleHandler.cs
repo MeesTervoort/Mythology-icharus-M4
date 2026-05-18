@@ -8,6 +8,7 @@ public class battleHandler : MonoBehaviour
     [SerializeField] public Transform enemy;
     [SerializeField] public Transform Rat;
     public GameObject WinUI;
+    public static GameObject AbilityUi;
 
     void Start()
     {
