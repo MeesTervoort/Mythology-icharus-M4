@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Rat_combat : MonoBehaviour
 {
-    public static int RatHealth = 4;
+    public static int EnemyHealth = 4;
     void Start()
     {
         
@@ -11,7 +11,7 @@ public class Rat_combat : MonoBehaviour
 
     void Update()
     {
-        if (RatHealth <= 0)
+        if (EnemyHealth <= 0)
         {
             Destroy(gameObject);
         }

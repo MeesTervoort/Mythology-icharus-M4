@@ -1,9 +1,16 @@
+using JetBrains.Annotations;
+using Unity.Multiplayer.Center.Common;
 using UnityEngine;
+using UnityEngine.TextCore.Text;
+using UnityEngine.UIElements;
 
 public class Player_combat : MonoBehaviour
 {
-    public int CombatHealth;
-    public int CombatEnergy;
+    public GameObject AbilityUi;
+    public GameObject ItemUi;
+
+    public static int CombatHealth;
+    public static int CombatEnergy;
     void Start()
     {
         CombatHealth = 10;
@@ -26,8 +33,26 @@ public class Player_combat : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.R))
         {
-            Rat_combat.RatHealth--;
-            Debug.Log("Rat health: " + Rat_combat.RatHealth);
+            Rat_combat.EnemyHealth -= 2;
+            Debug.Log("Rat health: " + Rat_combat.EnemyHealth);
         }
     }
+
+    
+    
+    private void Attack_action()
+    {
+        Enemy_combat.EnemyHealth -= 2;
+        Rat_combat.EnemyHealth -= 2;
+    }
+    private void Ability_Action()
+    {
+        AbilityUi.SetActive(true);
+    }
+    private void Item_Action()
+    {
+        ItemUi.SetActive(true);
+    }
+    
+    
 }
