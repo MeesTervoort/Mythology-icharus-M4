@@ -3,18 +3,22 @@ using UnityEngine;
 
 public class battleHandler : MonoBehaviour
 {
-    [SerializeField] public static GameObject Choice_arrow;
+    [SerializeField] public static GameObject Choice;
     [SerializeField] public Transform character;
     [SerializeField] public Transform enemy;
     [SerializeField] public Transform Rat;
     public GameObject WinUI;
     public static GameObject AbilityUi;
+    
+
+    
 
     void Start()
     {
         SpawnPlayer();
         SpawnEnemy(true);
         SpawnEnemy(false);
+        
     }
 
     void Update()
@@ -35,6 +39,7 @@ public class battleHandler : MonoBehaviour
             Rat_combat.EnemyHealth--;
             Debug.Log("Rat health: " + Rat_combat.EnemyHealth);
         }
+        
     }
 
     private void SpawnEnemy(bool isRat)
@@ -63,4 +68,5 @@ public class battleHandler : MonoBehaviour
             WinUI.SetActive(true);
         }
     }
+    
 }

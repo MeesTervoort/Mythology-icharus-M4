@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1486906531488808069}
   - component: {fileID: 5819506887411733638}
   m_Layer: 0
-  m_Name: ChoiceThingy
+  m_Name: Choice
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
