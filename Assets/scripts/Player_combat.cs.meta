@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1b6a90e68a808b94fa22a8bc69af1aa2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Choice_arrow: {fileID: 5762272605208872485, guid: 628077ee8d930cc4e8e21c222c32d567, type: 3}
+  - AbilityUi: {instanceID: 0}
+  - ItemUi: {instanceID: 0}
+  - PointA: {fileID: 2233425871299130882, guid: bce78769ac5fe034787b3ef84145af15, type: 3}
+  - PointB: {fileID: 2064810903442698129, guid: 5b1d4f0ff315e7245ae8071eb2f31c55, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
