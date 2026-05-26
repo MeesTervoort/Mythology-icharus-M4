@@ -7,32 +7,26 @@ public class CollectScript : MonoBehaviour
     public float respawnTime = 3f;
     public TextMeshProUGUI feedbackText;
     public TextMeshProUGUI coinsText;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public int coinsToGive = 1;
 
-    // Update is called once per frame
+    private void Start()
+    {
+        coinsText = GameObject.FindWithTag("CoinText").GetComponent<TextMeshProUGUI>();
+    }
     void Update()
     {
         
     }
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter(Collider collision)
     {
-        if (other.CompareTag("Player"))
-        {
         
-            gameObject.SetActive(false);
-            // we willen de coin even onzichtbaar maken
-            Invoke(nameof(Respawn), 3f);
+        if(collision.gameObject.tag == "Player")
+        {
+            Player player = collision.gameObject.GetComponent<Player>();
+            Player.Coins += coinsToGive;
+            coinsText.text = Player.Coins.ToString();
+            Destroy(gameObject);
         }
-    }
-
-    void Respawn()
-    {
-        // We maken het gameobject weer zichtbaar
-        gameObject.SetActive(true);
     }
 }
