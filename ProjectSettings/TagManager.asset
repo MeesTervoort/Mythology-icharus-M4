@@ -4,9 +4,12 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - ground
+  - Ground
+  - CoinText
+  - Coin
   - Enemy
-  - DialogueBox
-  - DialogueText
+  - HealthText
   layers:
   - Default
   - TransparentFX
