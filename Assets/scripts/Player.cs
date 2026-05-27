@@ -1,9 +1,12 @@
 using UnityEngine;
 
-public class Movement : MonoBehaviour
+
+public class Player : MonoBehaviour
 {
-    public float speed = 5f;
-    public float jumpForce = 5f;
+    public static float speed = 5f;
+    public static float jumpForce = 5f;
+    public static int Coins = 0;
+    public static int Health = 10;
 
     private Rigidbody rb;
     private bool isGrounded;
