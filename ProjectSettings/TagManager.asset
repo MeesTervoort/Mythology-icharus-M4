@@ -6,6 +6,10 @@ TagManager:
   tags:
   - ground
   - Ground
+  - CoinText
+  - Coin
+  - Enemy
+  - HealthText
   layers:
   - Default
   - TransparentFX
