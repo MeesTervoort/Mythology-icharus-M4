@@ -1,16 +1,13 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class Player : MonoBehaviour
+public class InputPlayer : MonoBehaviour
 {
     [SerializeField]private InputActionAsset input;
     [SerializeField]private string actionMapName = "Player";
-    [SerializeField] public static float Speed = 5f;
+    [SerializeField] private float walkSpeed = 5f;
     [SerializeField] private float turnSpeed = 150f;
-    [SerializeField] public static float jumpForce = 5f;
-
-    public static int Coins = 0;
-    public static int Health = 10;
+    [SerializeField] private float jumpForce = 5f;
     private InputAction moveAction;
     private InputAction jumpAction;
     private InputAction sprintAction;
@@ -49,7 +46,7 @@ public class Player : MonoBehaviour
         Vector2 moveInput = moveAction.ReadValue<Vector2>();
 
          //bepalen wat de snelheid is
-        float speed = Speed * moveInput.y;
+        float speed = walkSpeed * moveInput.y;
 
         //sprinten
         if (sprintAction.IsPressed())
@@ -102,3 +99,4 @@ public class Player : MonoBehaviour
             isGrounded = false;
     }
 }
+

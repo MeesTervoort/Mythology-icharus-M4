@@ -22,7 +22,7 @@ public class ChooseMenu : MonoBehaviour
      public void SpeedButton()
     {
         Player.Coins -= 1;
-        Player.speed += 1f;
+        Player.Speed += 1f;
         container.SetActive(false);
         Time.timeScale = 1f;
     }

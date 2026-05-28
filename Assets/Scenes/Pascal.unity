@@ -690,6 +690,11 @@ Transform:
   - {fileID: 1450180265}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &422556648 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6843493518645485920, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
+  m_PrefabInstance: {fileID: 1358858935113706497}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &461290090
 GameObject:
   m_ObjectHideFlags: 0
@@ -4557,6 +4562,23 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 432654468790902103, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
   m_PrefabInstance: {fileID: 1358858935113706497}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2077500979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 422556648}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c37fc85d92b76a4f84216f7647f75ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InputPlayer
+  input: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  actionMapName: Player
+  walkSpeed: 5
+  turnSpeed: 150
+  jumpForce: 5
 --- !u!1 &2139080513
 GameObject:
   m_ObjectHideFlags: 0
@@ -4750,6 +4772,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1639926714879269122, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
+      propertyPath: input
+      value: 
+      objectReference: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    - target: {fileID: 1639926714879269122, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -4768,7 +4794,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6843493518645485920, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2077500979}
   m_SourcePrefab: {fileID: 100100000, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
 --- !u!1001 &3905645685568287291
 PrefabInstance:
