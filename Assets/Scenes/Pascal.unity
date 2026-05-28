@@ -182,7 +182,6 @@ GameObject:
   - component: {fileID: 147446535}
   - component: {fileID: 147446534}
   - component: {fileID: 147446533}
-  - component: {fileID: 147446537}
   m_Layer: 0
   m_Name: Coin (4)
   m_TagString: Coin
@@ -198,13 +197,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 147446531}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: 6.08, y: -1.15, z: 6.54}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 6.08, y: 0, z: 6.54}
   m_LocalScale: {x: 1, y: 0.10000001, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1066194390}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: -90}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!114 &147446533
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -218,6 +217,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CollectScript
   respawnTime: 3
+  feedbackText: {fileID: 0}
+  coinsText: {fileID: 1581212612}
   coinsToGive: 1
 --- !u!136 &147446534
 CapsuleCollider:
@@ -299,20 +300,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 147446531}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &147446537
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 147446531}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d60ed2474976da54a80a95787f4882e6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FloatUpAndDown
-  amplitude: 0.5
-  frequency: 1
 --- !u!1 &225851293
 GameObject:
   m_ObjectHideFlags: 0
@@ -447,11 +434,11 @@ Transform:
   m_GameObject: {fileID: 225851293}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.9999791, z: -0, w: -0.0064732404}
-  m_LocalPosition: {x: -0.61934376, y: 0, z: 9.165918}
+  m_LocalPosition: {x: 1.1706562, y: 6.72, z: 22.915918}
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 374735630}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -180.742, z: 0}
 --- !u!1 &225898253
 GameObject:
@@ -481,7 +468,7 @@ Transform:
   m_GameObject: {fileID: 225898253}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.61, y: 1.96, z: -5.65}
+  m_LocalPosition: {x: 0.35357, y: 1.96, z: -5.65}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -565,42 +552,6 @@ MonoBehaviour:
     RotationDamping: {x: 1, y: 1, z: 1}
     QuaternionDamping: 1
   FollowOffset: {x: 0, y: 1, z: -6}
---- !u!1 &374735629
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 374735630}
-  m_Layer: 0
-  m_Name: blocks
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &374735630
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 374735629}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.3, y: 6.72, z: 20}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1631509000}
-  - {fileID: 1689481500}
-  - {fileID: 225851298}
-  - {fileID: 853435717}
-  - {fileID: 1450180265}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &461290090
 GameObject:
   m_ObjectHideFlags: 0
@@ -1393,149 +1344,12 @@ Transform:
   m_GameObject: {fileID: 853435712}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.7116699, z: -0, w: 0.7025141}
-  m_LocalPosition: {x: 5.08, y: 0, z: 4.5699997}
+  m_LocalPosition: {x: 6.87, y: 6.72, z: 18.32}
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 374735630}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -90.742, z: 0}
---- !u!1 &878154661
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 878154662}
-  - component: {fileID: 878154664}
-  - component: {fileID: 878154663}
-  m_Layer: 5
-  m_Name: coinsText
-  m_TagString: CoinText
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &878154662
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 878154661}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1623139512}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -673, y: -491}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &878154663
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 878154661}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 0
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
-  m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_characterHorizontalScale: 1
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &878154664
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 878154661}
-  m_CullTransparentMesh: 1
 --- !u!1 &884814712
 GameObject:
   m_ObjectHideFlags: 0
@@ -1981,7 +1795,6 @@ GameObject:
   - component: {fileID: 1328751537}
   - component: {fileID: 1328751536}
   - component: {fileID: 1328751535}
-  - component: {fileID: 1328751539}
   m_Layer: 0
   m_Name: Coin (1)
   m_TagString: Coin
@@ -1997,13 +1810,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1328751533}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -0.00000007995337, y: -1.15, z: 0}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 0.10000001, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1066194390}
-  m_LocalEulerAnglesHint: {x: 0, y: -90, z: -90}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!114 &1328751535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2017,6 +1830,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CollectScript
   respawnTime: 3
+  feedbackText: {fileID: 0}
+  coinsText: {fileID: 1581212612}
   coinsToGive: 1
 --- !u!136 &1328751536
 CapsuleCollider:
@@ -2098,20 +1913,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1328751533}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1328751539
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1328751533}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d60ed2474976da54a80a95787f4882e6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FloatUpAndDown
-  amplitude: 0.5
-  frequency: 1
 --- !u!1 &1358304538
 GameObject:
   m_ObjectHideFlags: 0
@@ -2125,7 +1926,6 @@ GameObject:
   - component: {fileID: 1358304542}
   - component: {fileID: 1358304541}
   - component: {fileID: 1358304540}
-  - component: {fileID: 1358304544}
   m_Layer: 0
   m_Name: Coin (2)
   m_TagString: Coin
@@ -2141,13 +1941,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1358304538}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: 2.34, y: -1.15, z: 2.81}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 2.34, y: 0, z: 2.81}
   m_LocalScale: {x: 1, y: 0.10000001, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1066194390}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: -90}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!114 &1358304540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2161,6 +1961,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CollectScript
   respawnTime: 3
+  feedbackText: {fileID: 0}
+  coinsText: {fileID: 1581212612}
   coinsToGive: 1
 --- !u!136 &1358304541
 CapsuleCollider:
@@ -2242,20 +2044,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1358304538}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1358304544
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1358304538}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d60ed2474976da54a80a95787f4882e6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FloatUpAndDown
-  amplitude: 0.5
-  frequency: 1
 --- !u!1 &1362269618
 GameObject:
   m_ObjectHideFlags: 0
@@ -2269,7 +2057,6 @@ GameObject:
   - component: {fileID: 1362269622}
   - component: {fileID: 1362269621}
   - component: {fileID: 1362269620}
-  - component: {fileID: 1362269624}
   m_Layer: 0
   m_Name: Coin (3)
   m_TagString: Coin
@@ -2285,13 +2072,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1362269618}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -2.39, y: -1.15, z: 2.48}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -2.39, y: 0, z: 2.48}
   m_LocalScale: {x: 1, y: 0.10000001, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1066194390}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: -90}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!114 &1362269620
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2305,6 +2092,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CollectScript
   respawnTime: 3
+  feedbackText: {fileID: 0}
+  coinsText: {fileID: 1581212612}
   coinsToGive: 1
 --- !u!136 &1362269621
 CapsuleCollider:
@@ -2386,20 +2175,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1362269618}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1362269624
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1362269618}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d60ed2474976da54a80a95787f4882e6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FloatUpAndDown
-  amplitude: 0.5
-  frequency: 1
 --- !u!1 &1450180260
 GameObject:
   m_ObjectHideFlags: 0
@@ -2534,11 +2309,11 @@ Transform:
   m_GameObject: {fileID: 1450180260}
   serializedVersion: 2
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: 0.44000006, y: 5.9900002, z: 4.5699997}
+  m_LocalPosition: {x: 2.23, y: 12.71, z: 18.32}
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 374735630}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 90, y: 90, z: 0}
 --- !u!1 &1518236271
 GameObject:
@@ -2689,8 +2464,8 @@ GameObject:
   - component: {fileID: 1581212613}
   - component: {fileID: 1581212612}
   m_Layer: 5
-  m_Name: HealtText
-  m_TagString: HealthText
+  m_Name: CoinText
+  m_TagString: CoinText
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2827,7 +2602,6 @@ GameObject:
   - component: {fileID: 1604849251}
   - component: {fileID: 1604849250}
   - component: {fileID: 1604849249}
-  - component: {fileID: 1604849253}
   m_Layer: 0
   m_Name: Coin (5)
   m_TagString: Coin
@@ -2843,13 +2617,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1604849247}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -4.52, y: -1.15, z: 6.6900005}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -4.52, y: 0, z: 6.69}
   m_LocalScale: {x: 1, y: 0.10000001, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1066194390}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: -90}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!114 &1604849249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2863,6 +2637,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CollectScript
   respawnTime: 3
+  feedbackText: {fileID: 0}
+  coinsText: {fileID: 1581212612}
   coinsToGive: 1
 --- !u!136 &1604849250
 CapsuleCollider:
@@ -2944,20 +2720,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1604849247}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1604849253
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1604849247}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d60ed2474976da54a80a95787f4882e6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FloatUpAndDown
-  amplitude: 0.5
-  frequency: 1
 --- !u!1 &1623139508
 GameObject:
   m_ObjectHideFlags: 0
@@ -2970,7 +2732,6 @@ GameObject:
   - component: {fileID: 1623139511}
   - component: {fileID: 1623139510}
   - component: {fileID: 1623139509}
-  - component: {fileID: 1623139513}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -3054,7 +2815,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1581212611}
-  - {fileID: 878154662}
   - {fileID: 66374288}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3063,20 +2823,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &1623139513
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1623139508}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 14de8e7dc5c116a499f32482e27fc5c3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::uiScript
-  healthText: {fileID: 1581212612}
-  coinsText: {fileID: 878154663}
 --- !u!1 &1631508996
 GameObject:
   m_ObjectHideFlags: 0
@@ -3183,12 +2929,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1631508996}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.79, y: 6.72, z: 13.75}
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 374735630}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &1631509001
 Rigidbody:
@@ -3350,12 +3096,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1689481495}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -5.66, y: 0, z: 4.67}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -3.87, y: 6.72, z: 18.42}
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 374735630}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1915314976
 GameObject:
@@ -3585,7 +3331,7 @@ Transform:
   m_GameObject: {fileID: 1937152914}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.61, y: 1.96, z: -5.65}
+  m_LocalPosition: {x: 0.35357, y: 1.96, z: -5.65}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3870,7 +3616,6 @@ GameObject:
   - component: {fileID: 2139080517}
   - component: {fileID: 2139080516}
   - component: {fileID: 2139080515}
-  - component: {fileID: 2139080519}
   m_Layer: 0
   m_Name: Coin (6)
   m_TagString: Coin
@@ -3886,13 +3631,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2139080513}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: 0.000000055310906, y: -1.15, z: 6.5}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 6.5}
   m_LocalScale: {x: 1, y: 0.10000001, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1066194390}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: -90}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!114 &2139080515
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3906,6 +3651,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CollectScript
   respawnTime: 3
+  feedbackText: {fileID: 0}
+  coinsText: {fileID: 1581212612}
   coinsToGive: 1
 --- !u!136 &2139080516
 CapsuleCollider:
@@ -3987,20 +3734,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2139080513}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &2139080519
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2139080513}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d60ed2474976da54a80a95787f4882e6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FloatUpAndDown
-  amplitude: 0.5
-  frequency: 1
 --- !u!1001 &1358858935113706497
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4011,7 +3744,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 432654468790902103, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.61
+      value: 0.35357
       objectReference: {fileID: 0}
     - target: {fileID: 432654468790902103, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4081,7 +3814,11 @@ SceneRoots:
   - {fileID: 1915314980}
   - {fileID: 2058089795}
   - {fileID: 1101537280}
-  - {fileID: 374735630}
+  - {fileID: 1631509000}
+  - {fileID: 225851298}
+  - {fileID: 1689481500}
+  - {fileID: 853435717}
+  - {fileID: 1450180265}
   - {fileID: 1066194390}
   - {fileID: 1623139512}
   - {fileID: 670399407}
