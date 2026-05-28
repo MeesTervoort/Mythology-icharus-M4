@@ -9,7 +9,6 @@ TagManager:
   - CoinText
   - Coin
   - Enemy
-  - HealthText
   layers:
   - Default
   - TransparentFX

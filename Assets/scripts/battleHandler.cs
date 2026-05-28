@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class battleHandler : MonoBehaviour
 {
-    
+    [SerializeField] public static GameObject Choice;
     [SerializeField] public Transform character;
     [SerializeField] public Transform enemy;
     [SerializeField] public Transform Rat;
