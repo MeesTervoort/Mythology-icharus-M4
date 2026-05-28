@@ -6,25 +6,36 @@ public class NPCDialogue : MonoBehaviour
 {
     public List<string> DialogueLines = new List<string>();
 
-    public GameObject dialogueBox;
-    public TextMeshProUGUI dialogueText;
+    public GameObject DialogueBox;
+    public TextMeshProUGUI DialogueText;
+    public GameObject InteractArrow;
 
     private int currentline = 0;
     private bool playerInRange = false;
     private bool talking = false;
     void Start()
     {
-        dialogueBox = GameObject.FindWithTag("dialogueBox");
-        dialogueText = GameObject.FindWithTag("dialogueText").GetComponent<TextMeshProUGUI>();
+        DialogueBox = GameObject.FindWithTag("dialogueBox");
+        DialogueText = GameObject.FindWithTag("dialogueText").GetComponent<TextMeshProUGUI>();
 
-        dialogueBox.SetActive(false);
+        DialogueBox.SetActive(false);
     }
 
     void Update()
     {
+
+        if (!playerInRange)
+        {
+            InteractArrow.SetActive(false);
+        }
+        else
+        {
+            InteractArrow.SetActive(true);
+        }
+
         if (playerInRange && Input.GetKeyDown(KeyCode.Space))
         {
-            if (talking)
+            if (!talking)
             {
                 StartDialogue();
             }
@@ -41,8 +52,8 @@ public class NPCDialogue : MonoBehaviour
         talking = true;
         currentline = 0;
 
-        dialogueBox.SetActive(true);
-        dialogueText.text = DialogueLines[currentline];
+        DialogueBox.SetActive(true);
+        DialogueText.text = DialogueLines[currentline];
     }
 
     void NextLine()
@@ -55,14 +66,14 @@ public class NPCDialogue : MonoBehaviour
         }
         else
         {
-            dialogueText.text = DialogueLines[currentline];
+            DialogueText.text = DialogueLines[currentline];
         }
 
-        void EndDialogue()
-        {
-            talking = false;
-            dialogueBox.SetActive(false);
-        }
+    }
+    void EndDialogue()
+    { 
+       talking = false;
+       DialogueBox.SetActive(false);
     }
 
     private void OnTriggerEnter(Collider other)
@@ -77,6 +88,6 @@ public class NPCDialogue : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerInRange = false;
-        }
+        } 
     }
 }
