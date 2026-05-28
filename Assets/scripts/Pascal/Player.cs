@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
 
     public static int Coins = 0;
     public static int Health = 10;
+
     private InputAction moveAction;
     private InputAction jumpAction;
     private InputAction sprintAction;

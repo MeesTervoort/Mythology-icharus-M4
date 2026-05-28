@@ -1,7 +1,7 @@
-using Unity.Mathematics;
 using UnityEngine;
+using Unity.Mathematics;
 
-public class FloatUpAndDown : MonoBehaviour
+public class FloatRotate : MonoBehaviour
 {
     public float amplitude = 0.5f;
     public float frequency = 1f;
