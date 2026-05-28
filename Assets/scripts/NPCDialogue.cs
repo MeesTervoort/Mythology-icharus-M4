@@ -6,8 +6,8 @@ public class NPCDialogue : MonoBehaviour
 {
     public List<string> DialogueLines = new List<string>();
 
-    public GameObject DialogueBox;
-    public TextMeshProUGUI DialogueText;
+    private GameObject DialogueBox;
+    private TextMeshProUGUI DialogueText;
     public GameObject InteractArrow;
 
     private int currentline = 0;
@@ -15,8 +15,8 @@ public class NPCDialogue : MonoBehaviour
     private bool talking = false;
     void Start()
     {
-        DialogueBox = GameObject.FindWithTag("dialogueBox");
-        DialogueText = GameObject.FindWithTag("dialogueText").GetComponent<TextMeshProUGUI>();
+        DialogueBox = GameObject.FindWithTag("DialogueBox");
+        DialogueText = GameObject.FindWithTag("DialogueText").GetComponent<TextMeshProUGUI>();
 
         DialogueBox.SetActive(false);
     }
@@ -27,6 +27,7 @@ public class NPCDialogue : MonoBehaviour
         if (!playerInRange)
         {
             InteractArrow.SetActive(false);
+            EndDialogue();
         }
         else
         {
@@ -44,7 +45,6 @@ public class NPCDialogue : MonoBehaviour
                 NextLine();
             }
         }
-
     }
 
     void StartDialogue()

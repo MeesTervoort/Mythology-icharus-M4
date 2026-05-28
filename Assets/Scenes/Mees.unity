@@ -2498,8 +2498,6 @@ MonoBehaviour:
   - Woahthis actually works!
   - i cant belive it
   - dang im smart
-  DialogueBox: {fileID: 1355617866}
-  DialogueText: {fileID: 1684685916}
   InteractArrow: {fileID: 1777447441}
 --- !u!136 &2072443337
 CapsuleCollider:
@@ -2628,7 +2626,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4760264397337452497, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
       propertyPath: m_Name
-      value: InteractionIcon
+      value: InteractionArrow
       objectReference: {fileID: 0}
     - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
       propertyPath: m_LocalPosition.x

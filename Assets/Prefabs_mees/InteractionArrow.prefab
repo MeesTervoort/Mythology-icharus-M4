@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7628835772051368352}
   - component: {fileID: 159428347311186702}
   m_Layer: 0
-  m_Name: InteractionIcon
+  m_Name: InteractionArrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
