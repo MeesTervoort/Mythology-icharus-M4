@@ -172,7 +172,8 @@ PrefabInstance:
       value: Blender blockout map
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -8086021726189504352, guid: 3cba76ef34125ee48a06e28b8a6aaa96, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3cba76ef34125ee48a06e28b8a6aaa96, type: 3}
@@ -409,7 +410,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 114.2
+      value: 118.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
       propertyPath: m_LocalPosition.z
