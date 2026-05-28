@@ -8,6 +8,8 @@ public class Player : MonoBehaviour
     public static int Coins = 0;
 <<<<<<< Updated upstream:Assets/scripts/Pascal/Player.cs
     public static int Health = 10;
+=======
+>>>>>>> Stashed changes:Assets/scripts/Player.cs
 
     private Rigidbody rb;
     private bool isGrounded;
