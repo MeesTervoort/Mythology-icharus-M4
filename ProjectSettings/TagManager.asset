@@ -4,6 +4,10 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - ground
+  - Ground
+  - CoinText
+  - Coin
   - Enemy
   layers:
   - Default
