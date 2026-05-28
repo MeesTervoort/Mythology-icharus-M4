@@ -105,8 +105,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a795130f236b45459214d5f2e8828b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Movement
-  speed: 5
-  jumpForce: 5
 --- !u!136 &6556288043749205901
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -155,5 +153,5 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
