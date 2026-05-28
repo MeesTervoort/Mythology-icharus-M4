@@ -6,7 +6,6 @@ public class Player : MonoBehaviour
     public static float speed = 5f;
     public static float jumpForce = 5f;
     public static int Coins = 0;
-<<<<<<< Updated upstream:Assets/scripts/Pascal/Player.cs
     public static int Health = 10;
 
     private Rigidbody rb;
