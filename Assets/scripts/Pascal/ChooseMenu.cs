@@ -12,19 +12,19 @@ public class ChooseMenu : MonoBehaviour
     void Update()
     {
         
-    }
-    private void OnCollisionEnter(Collision collision)
-    {
         if (Player.Coins > 0)
         {
             container.SetActive(true);
             Time.timeScale = 0f;
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
         }
     }
+
      public void SpeedButton()
     {
         Player.Coins -= 1;
-        Player.Speed += 1f;
+        Player.WalkSpeed += 1f;
         container.SetActive(false);
         Time.timeScale = 1f;
     }

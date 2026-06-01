@@ -5,12 +5,10 @@ public class Player : MonoBehaviour
 {
     [SerializeField]private InputActionAsset input;
     [SerializeField]private string actionMapName = "Player";
-    [SerializeField] public static float Speed = 5f;
+    [SerializeField] public static float WalkSpeed = 5f;
     [SerializeField] private float turnSpeed = 150f;
     [SerializeField] public static float jumpForce = 5f;
 
-    public static int Coins = 0;
-    public static int Health = 10;
 
     private InputAction moveAction;
     private InputAction jumpAction;
@@ -19,6 +17,9 @@ public class Player : MonoBehaviour
 
     private Rigidbody rb;
     private bool isGrounded = false;
+    
+    public static int Coins = 0;
+    public static int Health = 10;
 
     private void Awake()
     {
@@ -50,7 +51,7 @@ public class Player : MonoBehaviour
         Vector2 moveInput = moveAction.ReadValue<Vector2>();
 
          //bepalen wat de snelheid is
-        float speed = Speed * moveInput.y;
+        float speed = WalkSpeed * moveInput.y;
 
         //sprinten
         if (sprintAction.IsPressed())
