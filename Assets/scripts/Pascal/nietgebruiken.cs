@@ -1,7 +1,7 @@
 using UnityEngine;
 
 
-public class Player : MonoBehaviour
+public class nietgebruiken : MonoBehaviour
 {
     public static float speed = 5f;
     public static float jumpForce = 5f;
