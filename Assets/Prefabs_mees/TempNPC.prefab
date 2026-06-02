@@ -34,7 +34,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 8251471739700399828}
+  - {fileID: 2662711758343877341}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2340984799925097463
@@ -133,7 +133,7 @@ MonoBehaviour:
   - Woahthis actually works!
   - i cant belive it
   - dang im smart
-  InteractArrow: {fileID: 5079911930166637298}
+  InteractArrow: {fileID: 6689820366208331186}
 --- !u!65 &595704082699387389
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -155,7 +155,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0000001, y: 2, z: 1.0000002}
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
---- !u!1001 &319935635750464803
+--- !u!1001 &1140537554852993468
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -163,62 +163,62 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7284620472572183863}
     m_Modifications:
-    - target: {fileID: 4760264397337452497, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
-      propertyPath: m_Name
-      value: InteractionArrow
-      objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalPosition.y
       value: 1.5
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
+    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5981630162289308686, guid: 26cb27d683d15354481788d94d280789, type: 3}
+      propertyPath: m_Name
+      value: InteractionArrow
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
---- !u!1 &5079911930166637298 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4760264397337452497, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
-  m_PrefabInstance: {fileID: 319935635750464803}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &8251471739700399828 stripped
+  m_SourcePrefab: {fileID: 100100000, guid: 26cb27d683d15354481788d94d280789, type: 3}
+--- !u!4 &2662711758343877341 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 8571403525045707767, guid: da2c6e420465ccf45b23b94f30b18c7d, type: 3}
-  m_PrefabInstance: {fileID: 319935635750464803}
+  m_CorrespondingSourceObject: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
+  m_PrefabInstance: {fileID: 1140537554852993468}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6689820366208331186 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5981630162289308686, guid: 26cb27d683d15354481788d94d280789, type: 3}
+  m_PrefabInstance: {fileID: 1140537554852993468}
   m_PrefabAsset: {fileID: 0}

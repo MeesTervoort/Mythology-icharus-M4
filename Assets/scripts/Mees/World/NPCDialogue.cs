@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 using TMPro;
+using UnityEngine.UIElements;
 
 public class NPCDialogue : MonoBehaviour
 {
@@ -13,6 +14,7 @@ public class NPCDialogue : MonoBehaviour
     private int currentline = 0;
     private bool playerInRange = false;
     private bool talking = false;
+
     void Start()
     {
         DialogueBox = GameObject.FindWithTag("DialogueBox");
