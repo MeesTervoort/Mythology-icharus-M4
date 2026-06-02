@@ -34,7 +34,7 @@ public class NPCDialogue : MonoBehaviour
             InteractArrow.SetActive(true);
         }
 
-        if (playerInRange && Input.GetKeyDown(KeyCode.Space))
+        if (playerInRange && Input.GetKeyDown(KeyCode.E))
         {
             if (!talking)
             {
