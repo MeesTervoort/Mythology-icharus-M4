@@ -105,6 +105,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a795130f236b45459214d5f2e8828b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Movement
+  input: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  actionMapName: Player
+  turnSpeed: 150
 --- !u!136 &6556288043749205901
 CapsuleCollider:
   m_ObjectHideFlags: 0

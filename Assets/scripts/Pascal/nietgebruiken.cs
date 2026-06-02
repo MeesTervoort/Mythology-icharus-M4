@@ -1,15 +1,12 @@
 using UnityEngine;
 
 
-public class Player : MonoBehaviour
+public class nietgebruiken : MonoBehaviour
 {
     public static float speed = 5f;
     public static float jumpForce = 5f;
     public static int Coins = 0;
-<<<<<<< Updated upstream:Assets/scripts/Pascal/Player.cs
     public static int Health = 10;
-=======
->>>>>>> Stashed changes:Assets/scripts/Player.cs
 
     private Rigidbody rb;
     private bool isGrounded;
