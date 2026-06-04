@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2340984799925097463}
   - component: {fileID: 7241345845548077483}
   - component: {fileID: 7337650684833719629}
-  - component: {fileID: 5507463174359796028}
+  - component: {fileID: 8166210344723503398}
   - component: {fileID: 595704082699387389}
   m_Layer: 0
   m_Name: TempNPC
@@ -33,8 +33,7 @@ Transform:
   m_LocalPosition: {x: 0.6, y: 1.5, z: -3.55}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 2662711758343877341}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2340984799925097463
@@ -117,7 +116,7 @@ CapsuleCollider:
   m_Height: 4
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &5507463174359796028
+--- !u!114 &8166210344723503398
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -126,14 +125,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 7725229494984379696}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f73c7fc13d2f54d4b9836adc76300d50, type: 3}
+  m_Script: {fileID: 11500000, guid: 5bb908f3dc3df6d428d02c668799f8aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
   DialogueLines:
   - Woahthis actually works!
   - i cant belive it
   - dang im smart
-  InteractArrow: {fileID: 6689820366208331186}
+  InteractArrow: {fileID: 2497557048505232311, guid: 628077ee8d930cc4e8e21c222c32d567, type: 3}
 --- !u!65 &595704082699387389
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -155,70 +154,3 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0000001, y: 2, z: 1.0000002}
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
---- !u!1001 &1140537554852993468
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 7284620472572183863}
-    m_Modifications:
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5981630162289308686, guid: 26cb27d683d15354481788d94d280789, type: 3}
-      propertyPath: m_Name
-      value: InteractionArrow
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 26cb27d683d15354481788d94d280789, type: 3}
---- !u!4 &2662711758343877341 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3109694729996397409, guid: 26cb27d683d15354481788d94d280789, type: 3}
-  m_PrefabInstance: {fileID: 1140537554852993468}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &6689820366208331186 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5981630162289308686, guid: 26cb27d683d15354481788d94d280789, type: 3}
-  m_PrefabInstance: {fileID: 1140537554852993468}
-  m_PrefabAsset: {fileID: 0}
