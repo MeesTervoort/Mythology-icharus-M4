@@ -13,28 +13,48 @@ public class PatrolScript : MonoBehaviour
     private float waitTimer = 0f;
     private bool waiting = false;
 
+    private bool playerSpotted = false;
+    [SerializeField] Vector3 Player;
+
+
     void Update()
     {
-        if (waiting)
+        if (playerSpotted == false)
         {
-            waitTimer += Time.deltaTime;
-            if (waitTimer < waitTime)
-                return;
-            waiting = false;
-        }
-        Transform wp = waypoints[currentWaypointIndex];
-        if (Vector3.Distance(transform.position, wp.position) < 0.1f)
-        {
-            transform.position = wp.position;
-            waitTimer = 0f;
-            waiting = true;
+            if (waiting)
+            {
+                waitTimer += Time.deltaTime;
+                if (waitTimer < waitTime)
+                    return;
+                waiting = false;
+            }
+            Transform wp = waypoints[currentWaypointIndex];
+            if (Vector3.Distance(transform.position, wp.position) < 0.1f)
+            {
+                transform.position = wp.position;
+                waitTimer = 0f;
+                waiting = true;
 
-            currentWaypointIndex = (currentWaypointIndex + 1) % waypoints.Length;
+                currentWaypointIndex = (currentWaypointIndex + 1) % waypoints.Length;
+            }
+            else
+            {
+                transform.position = Vector3.MoveTowards(transform.position, wp.position, speed * Time.deltaTime);
+                transform.LookAt(wp.position);
+            }
         }
-        else
+
+        
+        
+
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player"))
         {
-            transform.position = Vector3.MoveTowards(transform.position, wp.position, speed * Time.deltaTime);
-            transform.LookAt(wp.position);
-        }   
+            playerSpotted = true;
+            transform.position = Vector3.MoveTowards(transform.position, Player, speed * Time.deltaTime);
+        }
+
     }
 }
