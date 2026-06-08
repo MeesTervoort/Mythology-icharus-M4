@@ -5905,6 +5905,7 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1032157655
 GameObject:
   m_ObjectHideFlags: 0
@@ -5963,6 +5964,8 @@ BoxCollider:
 --- !u!23 &1032157658
 MeshRenderer:
 =======
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 --- !u!1001 &998356851
@@ -6124,10 +6127,13 @@ Transform:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 --- !u!1 &1032157655
@@ -6270,6 +6276,9 @@ Transform:
   m_GameObject: {fileID: 1035832060}
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
@@ -7846,7 +7855,10 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 --- !u!1001 &1222824831
@@ -7907,11 +7919,14 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 --- !u!1 &1232188465 stripped
@@ -8367,6 +8382,7 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
@@ -8438,6 +8454,8 @@ PrefabInstance:
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 --- !u!1 &1333476940 stripped
@@ -9803,7 +9821,10 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 --- !u!1001 &1540923574
@@ -10420,6 +10441,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 1.29
 =======
       value: 1.05
@@ -10430,6 +10452,9 @@ PrefabInstance:
 =======
       value: 1.29
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+      value: 1.05
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
       value: 1.05
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
@@ -12246,6 +12271,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
       value: -11.8
@@ -12278,6 +12304,17 @@ PrefabInstance:
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+      value: -24.366444
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -89.19
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.162879
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
       value: -24.366444
       objectReference: {fileID: 0}
@@ -12588,6 +12625,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
@@ -12661,6 +12699,8 @@ PrefabInstance:
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 --- !u!4 &1986688488 stripped
@@ -13293,6 +13333,7 @@ SceneRoots:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1079078679}
   - {fileID: 1861373357}
   - {fileID: 1915697064}
@@ -13301,6 +13342,8 @@ SceneRoots:
   - {fileID: 1280969974}
   - {fileID: 1977215160}
 =======
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
   - {fileID: 1861373357}
@@ -13310,6 +13353,7 @@ SceneRoots:
   - {fileID: 1247350072}
   - {fileID: 998356851}
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
   - {fileID: 1079078679}
@@ -13327,5 +13371,7 @@ SceneRoots:
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 14e6a7d (Merge branch 'Development' into Pascal)
