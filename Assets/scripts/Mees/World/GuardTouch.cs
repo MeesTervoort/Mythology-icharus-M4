@@ -17,19 +17,13 @@ public class GuardTouch : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Debug.Log("ya got touched " + Player.Health);
-            Player.Health -= 1;
-            if (Player.Health <= 0)
-            {
-                Die();
-            }
+            SceneManager.LoadScene("Mees");
         }
     }
 
-    public void Die()
-    {
-        SceneManager.LoadScene("DeathScreen");
-    }
+
+
+
 }
 
         
