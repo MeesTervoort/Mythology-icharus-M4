@@ -2,7 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &223962472328945190
+=======
+--- !u!1 &293813509702801395
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!1 &293813509702801395
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -18,9 +22,15 @@ GameObject:
   m_Component:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 176758767184895367}
   m_Layer: 5
   m_Name: SettingsMenu
+=======
+  - component: {fileID: 4435513617671208098}
+  m_Layer: 5
+  m_Name: Container
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   - component: {fileID: 4435513617671208098}
   m_Layer: 5
@@ -38,7 +48,11 @@ GameObject:
   m_IsActive: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &176758767184895367
+=======
+--- !u!224 &4435513617671208098
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &4435513617671208098
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -52,7 +66,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 223962472328945190}
+=======
+  m_GameObject: {fileID: 293813509702801395}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 293813509702801395}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -64,6 +82,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 2866761875851257895}
@@ -111,12 +130,17 @@ RectTransform:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   - {fileID: 1461529026744949999}
   - {fileID: 1179570589097454}
   - {fileID: 454242701504244173}
   - {fileID: 3979980700679332922}
   m_Father: {fileID: 7508164960323236399}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -126,6 +150,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &5973900150123717406
@@ -148,6 +173,9 @@ MonoBehaviour:
 =======
 --- !u!1 &468658021445408442
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+--- !u!1 &468658021445408442
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -155,6 +183,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4183501947661690783}
@@ -165,6 +194,8 @@ GameObject:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   - component: {fileID: 3792952816570578504}
   - component: {fileID: 3423243028787748841}
   - component: {fileID: 7496234902234866003}
@@ -172,6 +203,9 @@ GameObject:
   m_Layer: 5
   m_Name: SpeedBtn
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -182,7 +216,11 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &4183501947661690783
+=======
+--- !u!224 &3792952816570578504
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &3792952816570578504
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -194,6 +232,7 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 610597462307336020}
@@ -213,6 +252,8 @@ RectTransform:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_GameObject: {fileID: 468658021445408442}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -229,6 +270,9 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3423243028787748841
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -239,9 +283,15 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 610597462307336020}
   m_CullTransparentMesh: 1
 --- !u!114 &4606213601707523552
+=======
+  m_GameObject: {fileID: 468658021445408442}
+  m_CullTransparentMesh: 1
+--- !u!114 &7496234902234866003
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 468658021445408442}
   m_CullTransparentMesh: 1
@@ -259,6 +309,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 610597462307336020}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -268,6 +319,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_GameObject: {fileID: 468658021445408442}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -275,6 +328,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -286,6 +342,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_text: Health + 2
@@ -364,6 +421,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -432,6 +491,9 @@ MonoBehaviour:
         m_CallState: 2
 --- !u!1 &1351038616736382221
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -444,6 +506,7 @@ GameObject:
   m_Component:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 6830539445823041834}
   - component: {fileID: 1596490785006408926}
   - component: {fileID: 442777546690933786}
@@ -452,12 +515,17 @@ GameObject:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   - component: {fileID: 2369315354134242360}
   - component: {fileID: 39687585134619372}
   - component: {fileID: 6216451825896474155}
   m_Layer: 5
   m_Name: HealtText
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -468,7 +536,11 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &6830539445823041834
+=======
+--- !u!224 &2369315354134242360
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &2369315354134242360
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -482,7 +554,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1307474786285425193}
+=======
+  m_GameObject: {fileID: 1351038616736382221}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 1351038616736382221}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -496,7 +572,11 @@ RectTransform:
   m_Children: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 8004091069248327237}
+=======
+  m_Father: {fileID: 6563559392384186756}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_Father: {fileID: 6563559392384186756}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -511,7 +591,11 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!222 &1596490785006408926
+=======
+--- !u!222 &39687585134619372
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!222 &39687585134619372
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -523,6 +607,7 @@ CanvasRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1307474786285425193}
@@ -538,11 +623,17 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &6216451825896474155
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 1351038616736382221}
+  m_CullTransparentMesh: 1
+--- !u!114 &6216451825896474155
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1307474786285425193}
@@ -689,6 +780,9 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 1351038616736382221}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 1351038616736382221}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -776,7 +870,11 @@ MonoBehaviour:
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2504459861316656565
+=======
+--- !u!1 &1411004602725833979
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!1 &1411004602725833979
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -792,6 +890,7 @@ GameObject:
   m_Component:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 2137631791130937056}
   - component: {fileID: 9014150571253773644}
   - component: {fileID: 3581938710174325911}
@@ -801,12 +900,17 @@ GameObject:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   - component: {fileID: 1461529026744949999}
   - component: {fileID: 3460994418855850793}
   - component: {fileID: 7979111718060490633}
   m_Layer: 5
   m_Name: RawImage
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -817,7 +921,11 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &2137631791130937056
+=======
+--- !u!224 &1461529026744949999
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &1461529026744949999
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -831,7 +939,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2504459861316656565}
+=======
+  m_GameObject: {fileID: 1411004602725833979}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 1411004602725833979}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -842,6 +954,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Children:
@@ -857,6 +970,8 @@ RectTransform:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Children: []
   m_Father: {fileID: 4435513617671208098}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -867,6 +982,9 @@ RectTransform:
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &3460994418855850793
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -877,9 +995,15 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2504459861316656565}
   m_CullTransparentMesh: 1
 --- !u!114 &3581938710174325911
+=======
+  m_GameObject: {fileID: 1411004602725833979}
+  m_CullTransparentMesh: 1
+--- !u!114 &7979111718060490633
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 1411004602725833979}
   m_CullTransparentMesh: 1
@@ -897,8 +1021,11 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2504459861316656565}
 =======
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_GameObject: {fileID: 1411004602725833979}
@@ -977,6 +1104,9 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1571412705686107244}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1005,7 +1135,11 @@ MonoBehaviour:
   m_PixelsPerUnitMultiplier: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &6023584394110013565
+=======
+--- !u!114 &1457653297112808855
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!114 &1457653297112808855
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1019,7 +1153,11 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2504459861316656565}
+=======
+  m_GameObject: {fileID: 1571412705686107244}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 1571412705686107244}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1061,12 +1199,15 @@ MonoBehaviour:
   m_Interactable: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetGraphic: {fileID: 3581938710174325911}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 5973900150123717406}
 =======
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_TargetGraphic: {fileID: 9153257246722738395}
@@ -1395,6 +1536,9 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 6888341063094191097}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1411,7 +1555,11 @@ MonoBehaviour:
         m_CallState: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2595435340139092085
+=======
+--- !u!1 &3237215994042714269
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!1 &3237215994042714269
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1427,9 +1575,15 @@ GameObject:
   m_Component:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 8893888456093125372}
   - component: {fileID: 6004203435426083545}
   - component: {fileID: 8015997582761171813}
+=======
+  - component: {fileID: 5378664841333866155}
+  - component: {fileID: 5370290682791495361}
+  - component: {fileID: 2661980679861964864}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   - component: {fileID: 5378664841333866155}
   - component: {fileID: 5370290682791495361}
@@ -1449,7 +1603,11 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &8893888456093125372
+=======
+--- !u!224 &5378664841333866155
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &5378664841333866155
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1463,7 +1621,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2595435340139092085}
+=======
+  m_GameObject: {fileID: 3237215994042714269}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 3237215994042714269}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1477,7 +1639,11 @@ RectTransform:
   m_Children: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 5968377161954058683}
+=======
+  m_Father: {fileID: 1179570589097454}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_Father: {fileID: 1179570589097454}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1492,7 +1658,11 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!222 &6004203435426083545
+=======
+--- !u!222 &5370290682791495361
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!222 &5370290682791495361
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1504,6 +1674,7 @@ CanvasRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2595435340139092085}
@@ -2677,6 +2848,17 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 3237215994042714269}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 3237215994042714269}
+  m_CullTransparentMesh: 1
+--- !u!114 &2661980679861964864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3237215994042714269}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -2764,7 +2946,11 @@ MonoBehaviour:
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &6350757980929807189
+=======
+--- !u!1 &4180096141869028321
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!1 &4180096141869028321
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -2778,6 +2964,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4802291022917397538}
@@ -2926,6 +3113,11 @@ GameObject:
   - component: {fileID: 7934452344832776935}
   - component: {fileID: 8688356112166940313}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  - component: {fileID: 4866371829222822363}
+  - component: {fileID: 7934452344832776935}
+  - component: {fileID: 8688356112166940313}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -2935,7 +3127,11 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &9114537774072890332
+=======
+--- !u!224 &4866371829222822363
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &4866371829222822363
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -2949,7 +3145,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 6400468880538028413}
+=======
+  m_GameObject: {fileID: 4180096141869028321}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4180096141869028321}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -2963,7 +3163,11 @@ RectTransform:
   m_Children: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 7584988047642946655}
+=======
+  m_Father: {fileID: 3792952816570578504}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_Father: {fileID: 3792952816570578504}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -2978,7 +3182,11 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!222 &5415936417805488067
+=======
+--- !u!222 &7934452344832776935
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!222 &7934452344832776935
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -2992,9 +3200,15 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 6400468880538028413}
   m_CullTransparentMesh: 1
 --- !u!114 &3545141497922702065
+=======
+  m_GameObject: {fileID: 4180096141869028321}
+  m_CullTransparentMesh: 1
+--- !u!114 &8688356112166940313
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4180096141869028321}
   m_CullTransparentMesh: 1
@@ -3012,7 +3226,11 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 6400468880538028413}
+=======
+  m_GameObject: {fileID: 4180096141869028321}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4180096141869028321}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3034,7 +3252,11 @@ MonoBehaviour:
       m_Calls: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_text: Volume
+=======
+  m_text: Speed + 1
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_text: Speed + 1
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3069,8 +3291,13 @@ MonoBehaviour:
     rgba: 4294967295
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_fontSize: 24
   m_fontSizeBase: 24
+=======
+  m_fontSize: 100
+  m_fontSizeBase: 100
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_fontSize: 100
   m_fontSizeBase: 100
@@ -3124,7 +3351,11 @@ MonoBehaviour:
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &6538658117298404545
+=======
+--- !u!1 &4248578787918675997
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!1 &4248578787918675997
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3140,6 +3371,7 @@ GameObject:
   m_Component:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 3394214818144213794}
   - component: {fileID: 8864635173499606188}
   - component: {fileID: 5288183881260611197}
@@ -3150,6 +3382,8 @@ GameObject:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   - component: {fileID: 3616899142835770600}
   - component: {fileID: 6925378967667613836}
   - component: {fileID: 3076910555049861938}
@@ -3157,6 +3391,9 @@ GameObject:
   m_Name: coinsText
   m_TagString: CoinText
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3166,7 +3403,11 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &3394214818144213794
+=======
+--- !u!224 &3616899142835770600
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &3616899142835770600
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3178,6 +3419,7 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 6538658117298404545}
@@ -3452,11 +3694,15 @@ RectTransform:
 =======
   m_GameObject: {fileID: 4248578787918675997}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 4248578787918675997}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 5883238425844232468}
@@ -3542,6 +3788,8 @@ RectTransform:
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Father: {fileID: 6563559392384186756}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -3551,6 +3799,9 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6925378967667613836
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3561,9 +3812,15 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 7026267733373654923}
   m_CullTransparentMesh: 1
 --- !u!114 &3306209338287855801
+=======
+  m_GameObject: {fileID: 4248578787918675997}
+  m_CullTransparentMesh: 1
+--- !u!114 &3076910555049861938
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4248578787918675997}
   m_CullTransparentMesh: 1
@@ -3581,7 +3838,11 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 7026267733373654923}
+=======
+  m_GameObject: {fileID: 4248578787918675997}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4248578787918675997}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3603,7 +3864,11 @@ MonoBehaviour:
       m_Calls: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_text: /6
+=======
+  m_text: 0
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_text: 0
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3683,7 +3948,11 @@ MonoBehaviour:
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &7279020706031998990
+=======
+--- !u!1 &4296280591353785448
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!1 &4296280591353785448
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3697,6 +3966,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 7158884067147798239}
@@ -3751,6 +4021,11 @@ GameObject:
   - component: {fileID: 4902356920664432672}
   - component: {fileID: 8762665492962166646}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  - component: {fileID: 785355789718297416}
+  - component: {fileID: 4902356920664432672}
+  - component: {fileID: 8762665492962166646}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -3760,7 +4035,11 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &786405264665479471
+=======
+--- !u!224 &785355789718297416
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &785355789718297416
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3774,7 +4053,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 7476322862865457491}
+=======
+  m_GameObject: {fileID: 4296280591353785448}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4296280591353785448}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3788,7 +4071,11 @@ RectTransform:
   m_Children: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 3394214818144213794}
+=======
+  m_Father: {fileID: 454242701504244173}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_Father: {fileID: 454242701504244173}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3803,7 +4090,11 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!222 &2282562392877420664
+=======
+--- !u!222 &4902356920664432672
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!222 &4902356920664432672
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3817,9 +4108,15 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 7476322862865457491}
   m_CullTransparentMesh: 1
 --- !u!114 &6433750747799852864
+=======
+  m_GameObject: {fileID: 4296280591353785448}
+  m_CullTransparentMesh: 1
+--- !u!114 &8762665492962166646
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4296280591353785448}
   m_CullTransparentMesh: 1
@@ -3837,7 +4134,11 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 7476322862865457491}
+=======
+  m_GameObject: {fileID: 4296280591353785448}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4296280591353785448}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3931,7 +4232,11 @@ MonoBehaviour:
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &7557315336423787679
+=======
+--- !u!1 &4382920340691597089
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!1 &4382920340691597089
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3945,6 +4250,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 2149551968710595512}
@@ -4438,6 +4744,11 @@ GameObject:
   - component: {fileID: 8499880734843039070}
   - component: {fileID: 1991014710142145619}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  - component: {fileID: 1265082255514442042}
+  - component: {fileID: 8499880734843039070}
+  - component: {fileID: 1991014710142145619}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -4447,7 +4758,11 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &2742148060230899322
+=======
+--- !u!224 &1265082255514442042
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!224 &1265082255514442042
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -4461,7 +4776,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 8598963617185994311}
+=======
+  m_GameObject: {fileID: 4382920340691597089}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_GameObject: {fileID: 4382920340691597089}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -4475,7 +4794,11 @@ RectTransform:
   m_Children: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 6396790433311030239}
+=======
+  m_Father: {fileID: 6482589446339513408}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
   m_Father: {fileID: 6482589446339513408}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -4490,7 +4813,11 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!222 &83256939093603571
+=======
+--- !u!222 &8499880734843039070
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 --- !u!222 &8499880734843039070
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -4502,6 +4829,7 @@ CanvasRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 8598963617185994311}
@@ -4517,11 +4845,17 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &1991014710142145619
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 4382920340691597089}
+  m_CullTransparentMesh: 1
+--- !u!114 &1991014710142145619
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 8598963617185994311}
@@ -4668,6 +5002,9 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 4382920340691597089}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 4382920340691597089}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -4755,7 +5092,10 @@ MonoBehaviour:
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &4673205444331899200
@@ -5566,6 +5906,9 @@ MonoBehaviour:
     width: 1
     height: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
