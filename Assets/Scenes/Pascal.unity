@@ -224,11 +224,14 @@ MonoBehaviour:
   container: {fileID: 716187836}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 82af202 (Settings)
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1001 &143063247
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -291,6 +294,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 188229370478770993, guid: 6bef00b1e69d11c4285872fa60b231f3, type: 3}
   m_PrefabInstance: {fileID: 143063247}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -482,6 +486,8 @@ Transform:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &147446531
 GameObject:
   m_ObjectHideFlags: 0
@@ -963,6 +969,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -977,6 +984,8 @@ Transform:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &428171407
 GameObject:
   m_ObjectHideFlags: 0
@@ -1120,6 +1129,7 @@ CanvasRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1133,6 +1143,8 @@ CanvasRenderer:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &461290090
 GameObject:
   m_ObjectHideFlags: 0
@@ -3364,6 +3376,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
@@ -3376,6 +3389,8 @@ Transform:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1001 &1492042229
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3464,6 +3479,7 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -3476,6 +3492,8 @@ GameObject:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3498,6 +3516,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -3511,6 +3530,8 @@ MonoBehaviour:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &1518236271
 GameObject:
   m_ObjectHideFlags: 0
@@ -5118,6 +5139,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
@@ -5130,6 +5152,8 @@ MonoBehaviour:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1001 &1965499540
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5199,6 +5223,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -5214,6 +5239,8 @@ Transform:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &2001462238
 GameObject:
   m_ObjectHideFlags: 0

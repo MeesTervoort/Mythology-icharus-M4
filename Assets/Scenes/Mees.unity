@@ -472,6 +472,7 @@ PrefabInstance:
       value: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 1443588006}
     - target: {fileID: 1405556847078458976, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
       propertyPath: Player
@@ -484,6 +485,8 @@ PrefabInstance:
 =======
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
       objectReference: {fileID: 658865198}
     - target: {fileID: 1405556847078458976, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
       propertyPath: Player
@@ -494,9 +497,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1073834024}
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
     - target: {fileID: 2314867801520853119, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -580,6 +586,7 @@ PrefabInstance:
       insertIndex: -1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       addedObject: {fileID: 1641964282}
 =======
       addedObject: {fileID: 1073834024}
@@ -587,6 +594,9 @@ PrefabInstance:
 =======
       addedObject: {fileID: 1073834024}
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+      addedObject: {fileID: 1073834024}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
 --- !u!54 &658865198 stripped
@@ -2654,6 +2664,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 628077ee8d930cc4e8e21c222c32d567, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2011441907 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8403869422011412883, guid: 2004fedb3fb029a429b1cbdcf9569f67, type: 3}
@@ -2675,6 +2686,8 @@ MonoBehaviour:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &2062901730
 GameObject:
   m_ObjectHideFlags: 0
@@ -3342,6 +3355,7 @@ SceneRoots:
   - {fileID: 3017287522067354801}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 6992140595719236740}
 =======
   - {fileID: 2389890219488700659}
@@ -3349,5 +3363,8 @@ SceneRoots:
 =======
   - {fileID: 2389890219488700659}
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
+=======
+  - {fileID: 2389890219488700659}
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   - {fileID: 613745826}
   - {fileID: 1024970077}
