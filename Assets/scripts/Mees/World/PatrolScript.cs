@@ -9,7 +9,7 @@ public class PatrolScript : MonoBehaviour
     private int currentWaypointIndex = 0;
     private float speed = 2f;
 
-    private float waitTime = 2f;
+    private float waitTime = 1f;
     private float waitTimer = 0f;
     private bool waiting = false;
 
@@ -18,7 +18,7 @@ public class PatrolScript : MonoBehaviour
         if (waiting)
         {
             waitTimer += Time.deltaTime;
-            if (waitTimer >= waitTime)
+            if (waitTimer < waitTime)
                 return;
             waiting = false;
         }
