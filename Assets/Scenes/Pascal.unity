@@ -284,8 +284,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ChooseMenu
   container: {fileID: 716187836}
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 14e6a7d6cb3db061361ffc2718fac8d0181e6f56
 =======
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1001 &143063247
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -348,6 +351,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 188229370478770993, guid: 6bef00b1e69d11c4285872fa60b231f3, type: 3}
   m_PrefabInstance: {fileID: 143063247}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &147446531
 GameObject:
@@ -785,8 +791,11 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &428171407
 GameObject:
   m_ObjectHideFlags: 0
@@ -924,6 +933,9 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 428171407}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &461290090
 GameObject:
@@ -2563,6 +2575,9 @@ Transform:
   m_LocalEulerAnglesHint: {x: 90, y: 90, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1001 &1492042229
@@ -2648,8 +2663,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1492042231
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2666,6 +2684,9 @@ MonoBehaviour:
   - {fileID: 1965499541}
   - {fileID: 2144479409}
   - {fileID: 143063248}
+<<<<<<< HEAD
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
+=======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &1518236271
 GameObject:
@@ -4049,6 +4070,9 @@ MonoBehaviour:
   CustomBlends: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1001 &1965499540
@@ -4114,7 +4138,10 @@ Transform:
   m_PrefabInstance: {fileID: 1965499540}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 --- !u!1 &2001462238
