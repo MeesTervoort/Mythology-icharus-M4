@@ -17,7 +17,7 @@ public class GuardTouch : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            SceneManager.LoadScene("Mees");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 
