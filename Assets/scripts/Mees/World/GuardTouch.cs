@@ -10,17 +10,22 @@ public class GuardTouch : MonoBehaviour
 
     void Update()
     {
-
+        //if (Player.Health => 0)
+        //{
+        //    Die();
+        //}
     }
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
-        }
+        Player.Health =- 2;
     }
 
+    private void Die()
+    {
+
+            UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
+    }
 
 
 

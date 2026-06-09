@@ -14,7 +14,7 @@ public class PatrolScript : MonoBehaviour
     private bool waiting = false;
 
     private bool playerSpotted = false;
-    [SerializeField] Vector3 Player;
+    [SerializeField] public Transform Player;
 
 
     void Update()
@@ -42,19 +42,20 @@ public class PatrolScript : MonoBehaviour
                 transform.position = Vector3.MoveTowards(transform.position, wp.position, speed * Time.deltaTime);
                 transform.LookAt(wp.position);
             }
+
+            if (CompareTag("Player"))
+            {
+                playerSpotted = true;
+                if (Player != null)
+                {
+                    Vector3 direction = (Player.position - transform.position).normalized;
+                    transform.position += direction * speed * Time.deltaTime;
+                }
+            }
         }
 
         
         
-
-    }
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            playerSpotted = true;
-            transform.position = Vector3.MoveTowards(transform.position, Player, speed * Time.deltaTime);
-        }
 
     }
 }
