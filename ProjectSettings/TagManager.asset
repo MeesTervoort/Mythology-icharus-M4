@@ -9,6 +9,11 @@ TagManager:
   - CoinText
   - Coin
   - Enemy
+  - HealthText
+  - SpeedText
+  - JumpText
+  - Damage
+  - StrenghtText
   layers:
   - Default
   - TransparentFX
