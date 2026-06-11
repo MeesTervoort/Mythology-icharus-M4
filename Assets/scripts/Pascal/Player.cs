@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -18,13 +17,9 @@ public class Player : MonoBehaviour
 
     private Rigidbody rb;
     private bool isGrounded = false;
-
-
-    public Image healthBar;
-    public static int Feathers = 0;
+    
     public static int Coins = 0;
     public static int Health = 10;
-    public static int Strength = 5;
 
     private void Awake()
     {
@@ -83,19 +78,24 @@ public class Player : MonoBehaviour
         Debug.Log("Move: " + JoystickInput.x);
         Debug.Log("Move: " + JoystickInput.y);
 
-        healthBar.fillAmount = (float)Health / 10f;
+        if(jumpAction.WasPressedThisFrame())
+        {
+            Debug.Log("Jump!");
+        }
+        if(jumpAction.WasReleasedThisFrame())
+        {
+            Debug.Log("Stop Jumping!");
+        }
+        if(sprintAction.IsInProgress())
+        {
+            Debug.Log("Sprint holding");
+        }
     }
 
     void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true; 
-        }
-        if (collision.gameObject.CompareTag("Damage"))
-        {
-            Health -= 2;
-        }
+            isGrounded = true;
     }
 
     void OnCollisionExit(Collision collision)

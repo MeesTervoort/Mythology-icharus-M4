@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 5057485709429386937}
   - component: {fileID: 7395265005180291289}
   - component: {fileID: 2148828856910781328}
-  - component: {fileID: 3970425913999159215}
   - component: {fileID: 3373721701444766290}
+  - component: {fileID: 2792624974016613953}
   m_Layer: 0
   m_Name: PatrolEnemy
   m_TagString: Untagged
@@ -144,7 +144,24 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 88
   m_CollisionDetection: 0
---- !u!65 &3970425913999159215
+--- !u!114 &3373721701444766290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5597596829900019060}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86e22084aca767a47a9c749e21211d48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PatrolScript
+  waypoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!65 &2792624974016613953
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -163,22 +180,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 3.0492458, y: 2.225521, z: 3.050531}
-  m_Center: {x: 0.12912941, y: 0.22907048, z: 0.0021948814}
---- !u!114 &3373721701444766290
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5597596829900019060}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86e22084aca767a47a9c749e21211d48, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PatrolScript
-  waypoints:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  m_Size: {x: 6.447066, y: 2, z: 10.532389}
+  m_Center: {x: 0.3580544, y: 0, z: 4.7661943}
