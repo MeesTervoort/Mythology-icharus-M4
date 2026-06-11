@@ -7,7 +7,7 @@ public class NPCDialogue : MonoBehaviour
 {
     public List<string> DialogueLines = new List<string>();
 
-    private GameObject DialogueBox;
+    [SerializeField] private GameObject DialogueBox;
     private TextMeshProUGUI DialogueText;
     public GameObject InteractArrow;
 
