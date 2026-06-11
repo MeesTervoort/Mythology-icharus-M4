@@ -75,21 +75,21 @@ public class Player : MonoBehaviour
 
 
         Vector2 JoystickInput = moveAction.ReadValue<Vector2>();
-        Debug.Log("Move: " + JoystickInput.x);
-        Debug.Log("Move: " + JoystickInput.y);
+        //Debug.Log("Move: " + JoystickInput.x);
+        //Debug.Log("Move: " + JoystickInput.y);
 
-        if(jumpAction.WasPressedThisFrame())
-        {
-            Debug.Log("Jump!");
-        }
-        if(jumpAction.WasReleasedThisFrame())
-        {
-            Debug.Log("Stop Jumping!");
-        }
-        if(sprintAction.IsInProgress())
-        {
-            Debug.Log("Sprint holding");
-        }
+        //if(jumpAction.WasPressedThisFrame())
+        //{
+        //    Debug.Log("Jump!");
+        //}
+        //if(jumpAction.WasReleasedThisFrame())
+        //{
+        //    Debug.Log("Stop Jumping!");
+        //}
+        //if(sprintAction.IsInProgress())
+        //{
+        //    Debug.Log("Sprint holding");
+        //}
     }
 
     void OnCollisionEnter(Collision collision)
