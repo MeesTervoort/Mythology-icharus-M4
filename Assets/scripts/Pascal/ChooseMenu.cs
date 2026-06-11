@@ -24,6 +24,7 @@ public class ChooseMenu : MonoBehaviour
      public void SpeedButton()
     {
         Player.Coins -= 1;
+        Player.Feathers += 1;
         Player.WalkSpeed += 1f;
         container.SetActive(false);
         Time.timeScale = 1f;
@@ -31,14 +32,16 @@ public class ChooseMenu : MonoBehaviour
      public void JumpButton()
     {
         Player.Coins -= 1;
+        Player.Feathers += 1;
         Player.jumpForce += 1f;
         container.SetActive(false);
         Time.timeScale = 1f;
     }
-     public void HealthButton()
+     public void StrenghtButton()
     {
         Player.Coins -= 1;
-        Player.Health += 2;
+        Player.Feathers += 1;
+        Player.Strength += 2;
         container.SetActive(false);
         Time.timeScale = 1f;
     }
