@@ -998,7 +998,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 23e1fdf6d649c534fb820781b2cb4e8b, type: 3}
-<<<<<<< HEAD
 --- !u!1001 &1278709024
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1185,8 +1184,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
-=======
->>>>>>> Pascal
 --- !u!1001 &1497424331
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1729,9 +1726,6 @@ SceneRoots:
   - {fileID: 1628983340}
   - {fileID: 1652036925}
   - {fileID: 858293182}
-<<<<<<< HEAD
   - {fileID: 1293819182}
   - {fileID: 1278709024}
   - {fileID: 664018888}
-=======
->>>>>>> Pascal

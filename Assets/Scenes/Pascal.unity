@@ -121,11 +121,14 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> Pascal
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &23888293
 GameObject:
 =======
@@ -287,6 +290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ChooseMenu
   container: {fileID: 716187836}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -558,6 +562,8 @@ Transform:
 >>>>>>> Pascal
 =======
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &147446531
 GameObject:
   m_ObjectHideFlags: 0
@@ -914,7 +920,7 @@ MonoBehaviour:
   m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
-    TrackingTarget: {fileID: 0}
+    TrackingTarget: {fileID: 2077500973}
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
@@ -992,6 +998,7 @@ Transform:
   - {fileID: 1450180265}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1180,6 +1187,8 @@ CanvasRenderer:
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 >>>>>>> Pascal
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &461290090
 GameObject:
   m_ObjectHideFlags: 0
@@ -1588,6 +1597,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 614798507}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 14e6a7d6cb3db061361ffc2718fac8d0181e6f56
@@ -1596,6 +1606,8 @@ CanvasRenderer:
 >>>>>>> Pascal
 =======
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &670399404
 GameObject:
   m_ObjectHideFlags: 0
@@ -1817,6 +1829,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: -90.742, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1824,6 +1837,8 @@ Transform:
 =======
 >>>>>>> parent of 82af202 (Settings)
 >>>>>>> Pascal
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &878154661
 GameObject:
   m_ObjectHideFlags: 0
@@ -1881,7 +1896,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0
+  m_text: 0/6
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -2095,6 +2110,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 884814712}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 14e6a7d6cb3db061361ffc2718fac8d0181e6f56
@@ -2103,6 +2119,8 @@ CanvasRenderer:
 >>>>>>> Pascal
 =======
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &930936452
 GameObject:
   m_ObjectHideFlags: 0
@@ -2841,6 +2859,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 90, y: 90, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3009,6 +3028,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 >>>>>>> Pascal
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &1518236271
 =======
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
@@ -3050,6 +3071,7 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1518236273
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 14e6a7d6cb3db061361ffc2718fac8d0181e6f56
@@ -3059,11 +3081,14 @@ RectTransform:
 =======
 --- !u!114 &1492042231
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
+=======
+>>>>>>> parent of e01e42f (help)
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3084,6 +3109,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of 82af202 (Settings)
 >>>>>>> Pascal
+=======
+>>>>>>> parent of e01e42f (help)
   m_GameObject: {fileID: 1518236271}
 =======
   m_GameObject: {fileID: 1492042230}
@@ -3320,6 +3347,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 1581212610}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 14e6a7d6cb3db061361ffc2718fac8d0181e6f56
@@ -3334,6 +3362,8 @@ CanvasRenderer:
   - {fileID: 2144479409}
   - {fileID: 143063248}
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &1604849247
 GameObject:
   m_ObjectHideFlags: 0
@@ -3482,6 +3512,7 @@ MonoBehaviour:
   frequency: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3489,6 +3520,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of 82af202 (Settings)
 >>>>>>> Pascal
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &1614678548
 GameObject:
   m_ObjectHideFlags: 0
@@ -3723,7 +3756,6 @@ RectTransform:
   m_Children:
   - {fileID: 1581212611}
   - {fileID: 878154662}
-  - {fileID: 428171408}
   - {fileID: 66374288}
   - {fileID: 23888294}
   m_Father: {fileID: 0}
@@ -3748,6 +3780,7 @@ MonoBehaviour:
   CoinText: {fileID: 878154663}
   HealthText: {fileID: 1581212612}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 14e6a7d6cb3db061361ffc2718fac8d0181e6f56
@@ -3756,6 +3789,8 @@ MonoBehaviour:
 >>>>>>> Pascal
 =======
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &1631508996
 GameObject:
   m_ObjectHideFlags: 0
@@ -4068,6 +4103,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 374735630}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+<<<<<<< HEAD
 --- !u!1001 &1729170776
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4144,6 +4180,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &1915314976
 GameObject:
   m_ObjectHideFlags: 0
@@ -4456,6 +4494,7 @@ MonoBehaviour:
   CustomBlends: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4567,6 +4606,8 @@ Transform:
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
 >>>>>>> Pascal
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &2001462238
 GameObject:
 =======
@@ -4701,6 +4742,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 2001462238}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 14e6a7d6cb3db061361ffc2718fac8d0181e6f56
@@ -4709,6 +4751,8 @@ CanvasRenderer:
 >>>>>>> Pascal
 =======
 >>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
+=======
+>>>>>>> parent of e01e42f (help)
 --- !u!1 &2023448222 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8938316610364521534, guid: 314cefad84db46948bae521b3cefa923, type: 3}
@@ -4844,6 +4888,11 @@ Transform:
 --- !u!4 &2077500973 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 432654468790902103, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
+  m_PrefabInstance: {fileID: 1358858935113706497}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &2077500974 stripped
+Rigidbody:
+  m_CorrespondingSourceObject: {fileID: 3715424392683085046, guid: 974ccbc2eb5a66f4897f89dec562cb5c, type: 3}
   m_PrefabInstance: {fileID: 1358858935113706497}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &2139080513
@@ -4992,68 +5041,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FloatRotate
   amplitude: 0.5
   frequency: 1
---- !u!1001 &2144479408
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -16.27607
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.8025746
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9114332230461634100, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-      propertyPath: m_Name
-      value: Waypoint 3
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 81cff15a1e375564687b6326e5739758, type: 3}
---- !u!4 &2144479409 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8795922888830266495, guid: 81cff15a1e375564687b6326e5739758, type: 3}
-  m_PrefabInstance: {fileID: 2144479408}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &237186207880881014
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5065,14 +5052,15 @@ PrefabInstance:
     - target: {fileID: 1405556847078458976, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
       propertyPath: rb
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2077500974}
     - target: {fileID: 1405556847078458976, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
       propertyPath: Player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1667821735}
     - target: {fileID: 1405556847078458976, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
       propertyPath: PlayerObj
       value: 
+<<<<<<< HEAD
       objectReference: {fileID: 0}
 <<<<<<< HEAD
 =======
@@ -5085,6 +5073,9 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+=======
+      objectReference: {fileID: 2077500973}
+>>>>>>> parent of e01e42f (help)
     - target: {fileID: 4940140692068441280, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
       propertyPath: m_Name
       value: Player (1)
@@ -5393,8 +5384,3 @@ SceneRoots:
   - {fileID: 2397920113088458418}
   - {fileID: 670399407}
   - {fileID: 237186207880881014}
-  - {fileID: 1492042229}
-  - {fileID: 1729170776}
-  - {fileID: 1965499540}
-  - {fileID: 2144479408}
-  - {fileID: 143063247}
