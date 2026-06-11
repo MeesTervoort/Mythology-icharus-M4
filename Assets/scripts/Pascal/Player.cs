@@ -83,7 +83,7 @@ public class Player : MonoBehaviour
         Debug.Log("Move: " + JoystickInput.x);
         Debug.Log("Move: " + JoystickInput.y);
 
-        healthBar.fillAmount = (float)Health / 10f;
+        healthBar.fillAmount = Health / 10f;
     }
 
     void OnCollisionEnter(Collision collision)
