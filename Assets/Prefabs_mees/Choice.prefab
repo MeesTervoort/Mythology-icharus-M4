@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2018501276949737200}
   - component: {fileID: 6099021207004353763}
   m_Layer: 0
-  m_Name: InteractionArrow
+  m_Name: Choice
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PaseMenu : MonoBehaviour
+public class PauseMenu : MonoBehaviour
 {
    public GameObject container;
         void Update()
@@ -9,6 +9,8 @@ public class PaseMenu : MonoBehaviour
         {
             container.SetActive(true);
             Time.timeScale = 0f;
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
         }
     }
 
