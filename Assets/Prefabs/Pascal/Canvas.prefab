@@ -8,7 +8,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1 &223962472328945190
 =======
 --- !u!1 &293813509702801395
@@ -34,9 +33,6 @@
 =======
 --- !u!1 &293813509702801395
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!1 &223962472328945190
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -52,7 +48,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - component: {fileID: 176758767184895367}
   m_Layer: 5
   m_Name: SettingsMenu
@@ -96,11 +91,6 @@ GameObject:
   m_Layer: 5
   m_Name: Container
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  - component: {fileID: 176758767184895367}
-  m_Layer: 5
-  m_Name: SettingsMenu
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -114,7 +104,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!224 &176758767184895367
 =======
 --- !u!224 &4435513617671208098
@@ -140,9 +129,6 @@ GameObject:
 =======
 --- !u!224 &4435513617671208098
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!224 &176758767184895367
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -156,7 +142,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 223962472328945190}
 =======
   m_GameObject: {fileID: 293813509702801395}
@@ -182,9 +167,6 @@ RectTransform:
 =======
   m_GameObject: {fileID: 293813509702801395}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 223962472328945190}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -198,9 +180,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - {fileID: 2866761875851257895}
   - {fileID: 6396790433311030239}
   - {fileID: 7584988047642946655}
@@ -243,7 +222,6 @@ RectTransform:
   m_Children:
   - {fileID: 5883238425844232468}
   m_Father: {fileID: 8004091069248327237}
-<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -286,8 +264,6 @@ RectTransform:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -302,9 +278,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!114 &5973900150123717406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -319,7 +292,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ChooseMenu
   container: {fileID: 7563812864630731929}
 --- !u!1 &610597462307336020
-<<<<<<< HEAD
 =======
 --- !u!1 &468658021445408442
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -344,8 +316,6 @@ MonoBehaviour:
 =======
 --- !u!1 &468658021445408442
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -361,15 +331,11 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - component: {fileID: 4183501947661690783}
   - component: {fileID: 8144169215413770363}
   - component: {fileID: 4606213601707523552}
   m_Layer: 5
   m_Name: Text (TMP)
-<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -416,8 +382,6 @@ GameObject:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -431,7 +395,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!224 &4183501947661690783
 =======
 --- !u!224 &3792952816570578504
@@ -457,9 +420,6 @@ GameObject:
 =======
 --- !u!224 &3792952816570578504
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!224 &4183501947661690783
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -473,7 +433,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 610597462307336020}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 =======
@@ -544,22 +503,6 @@ RectTransform:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 610597462307336020}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2137631791130937056}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &8144169215413770363
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -573,7 +516,6 @@ CanvasRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 610597462307336020}
   m_CullTransparentMesh: 1
 --- !u!114 &4606213601707523552
@@ -617,11 +559,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &7496234902234866003
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 610597462307336020}
-  m_CullTransparentMesh: 1
---- !u!114 &4606213601707523552
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -635,7 +572,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 610597462307336020}
 =======
   m_GameObject: {fileID: 468658021445408442}
@@ -687,14 +623,6 @@ MonoBehaviour:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 610597462307336020}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
@@ -711,15 +639,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_text: Health + 2
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_text: Strength + 2
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -786,7 +708,6 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-<<<<<<< HEAD
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
@@ -895,12 +816,6 @@ MonoBehaviour:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!1 &1307474786285425193
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -916,14 +831,10 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - component: {fileID: 6830539445823041834}
   - component: {fileID: 1596490785006408926}
   - component: {fileID: 442777546690933786}
   m_Layer: 5
-<<<<<<< HEAD
   m_Name: HealthText
 =======
 =======
@@ -970,15 +881,10 @@ GameObject:
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
   m_TagString: HealthText
-=======
-  m_Name: StrengthText
-  m_TagString: StrenghtText
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1012,15 +918,11 @@ GameObject:
 =======
 --- !u!224 &2369315354134242360
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!224 &6830539445823041834
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1131,28 +1033,11 @@ RectTransform:
 =======
 --- !u!222 &39687585134619372
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 1307474786285425193}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
-  m_ConstrainProportionsScale: 1
-  m_Children: []
-  m_Father: {fileID: 8004091069248327237}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 97, y: 380}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &1596490785006408926
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1204,11 +1089,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &6216451825896474155
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 1307474786285425193}
-  m_CullTransparentMesh: 1
---- !u!114 &442777546690933786
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1222,9 +1102,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_GameObject: {fileID: 1307474786285425193}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -1241,162 +1118,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 10
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_sharedMaterial: {fileID: 8237124516952989308, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-<<<<<<< HEAD
     rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-=======
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_characterHorizontalScale: 1
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!1 &1540437238730907549
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8110593224731317335}
-  - component: {fileID: 9034439502960084186}
-  - component: {fileID: 168651346410613232}
-  m_Layer: 5
-  m_Name: SpeedText
-  m_TagString: SpeedText
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &8110593224731317335
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1540437238730907549}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
-  m_ConstrainProportionsScale: 1
-  m_Children: []
-  m_Father: {fileID: 8004091069248327237}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -72, y: 378.1}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &9034439502960084186
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1540437238730907549}
-  m_CullTransparentMesh: 1
---- !u!114 &168651346410613232
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1540437238730907549}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 5
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_sharedMaterial: {fileID: 8237124516952989308, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1485,23 +1215,14 @@ RectTransform:
   m_GameObject: {fileID: 1835354585477321104}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-=======
-  m_LocalScale: {x: 0.74999994, y: 0.74999994, z: 0.74999994}
-  m_ConstrainProportionsScale: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Children: []
   m_Father: {fileID: 8004091069248327237}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: -673, y: -491}
-=======
-  m_AnchoredPosition: {x: -901.9, y: 448}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8946373305401947930
@@ -1519,7 +1240,6 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1835354585477321104}
-<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 1351038616736382221}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1544,8 +1264,6 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 1351038616736382221}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -1561,25 +1279,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_sharedMaterial: {fileID: 8237124516952989308, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-<<<<<<< HEAD
     rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-=======
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1649,7 +1357,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1 &2504459861316656565
 =======
 --- !u!1 &1411004602725833979
@@ -1675,9 +1382,6 @@ MonoBehaviour:
 =======
 --- !u!1 &1411004602725833979
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!1 &2504459861316656565
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1693,15 +1397,11 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - component: {fileID: 2137631791130937056}
   - component: {fileID: 9014150571253773644}
   - component: {fileID: 3581938710174325911}
   - component: {fileID: 6023584394110013565}
   m_Layer: 5
-<<<<<<< HEAD
   m_Name: HealthBtn
 =======
 =======
@@ -1747,9 +1447,6 @@ GameObject:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_Name: StrengthBtn
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1763,7 +1460,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!224 &2137631791130937056
 =======
 --- !u!224 &1461529026744949999
@@ -1789,9 +1485,6 @@ GameObject:
 =======
 --- !u!224 &1461529026744949999
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!224 &2137631791130937056
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1805,7 +1498,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 2504459861316656565}
 =======
   m_GameObject: {fileID: 1411004602725833979}
@@ -1831,9 +1523,6 @@ RectTransform:
 =======
   m_GameObject: {fileID: 1411004602725833979}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 2504459861316656565}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -1846,9 +1535,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Children:
   - {fileID: 4183501947661690783}
   m_Father: {fileID: 5883238425844232468}
@@ -1859,7 +1545,6 @@ RectTransform:
   m_SizeDelta: {x: 385.4982, y: 236.1005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &9014150571253773644
-<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -1918,14 +1603,11 @@ RectTransform:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1977,17 +1659,11 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &7979111718060490633
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 2504459861316656565}
-  m_CullTransparentMesh: 1
---- !u!114 &3581938710174325911
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2109,9 +1785,6 @@ MonoBehaviour:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 2504459861316656565}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -2143,7 +1816,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!114 &6023584394110013565
 =======
 --- !u!114 &1457653297112808855
@@ -2169,9 +1841,6 @@ MonoBehaviour:
 =======
 --- !u!114 &1457653297112808855
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!114 &6023584394110013565
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2185,7 +1854,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 2504459861316656565}
 =======
   m_GameObject: {fileID: 1571412705686107244}
@@ -2211,9 +1879,6 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 1571412705686107244}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 2504459861316656565}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -2255,15 +1920,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_TargetGraphic: {fileID: 3581938710174325911}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 5973900150123717406}
-<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -2641,10 +2302,6 @@ MonoBehaviour:
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
         m_TargetAssemblyTypeName: ChooseMenu, Assembly-CSharp
         m_MethodName: HealthButton
-=======
-        m_TargetAssemblyTypeName: ChooseMenu, Assembly-CSharp
-        m_MethodName: StrenghtButton
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2662,7 +2319,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1 &2595435340139092085
 =======
 --- !u!1 &3237215994042714269
@@ -2688,9 +2344,6 @@ MonoBehaviour:
 =======
 --- !u!1 &3237215994042714269
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!1 &2595435340139092085
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2706,7 +2359,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   - component: {fileID: 8893888456093125372}
   - component: {fileID: 6004203435426083545}
   - component: {fileID: 8015997582761171813}
@@ -2750,18 +2402,12 @@ GameObject:
   - component: {fileID: 5370290682791495361}
   - component: {fileID: 2661980679861964864}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  - component: {fileID: 8893888456093125372}
-  - component: {fileID: 6004203435426083545}
-  - component: {fileID: 8015997582761171813}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-<<<<<<< HEAD
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2796,10 +2442,6 @@ GameObject:
 =======
 --- !u!224 &5378664841333866155
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_IsActive: 0
---- !u!224 &8893888456093125372
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2813,7 +2455,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 2595435340139092085}
 =======
   m_GameObject: {fileID: 3237215994042714269}
@@ -2839,9 +2480,6 @@ RectTransform:
 =======
   m_GameObject: {fileID: 3237215994042714269}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 2595435340139092085}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -2855,7 +2493,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_Father: {fileID: 5968377161954058683}
 =======
   m_Father: {fileID: 1179570589097454}
@@ -2881,9 +2518,6 @@ RectTransform:
 =======
   m_Father: {fileID: 1179570589097454}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_Father: {fileID: 5968377161954058683}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2898,7 +2532,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!222 &6004203435426083545
 =======
 --- !u!222 &5370290682791495361
@@ -2924,9 +2557,6 @@ RectTransform:
 =======
 --- !u!222 &5370290682791495361
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!222 &6004203435426083545
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2940,7 +2570,6 @@ CanvasRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 2595435340139092085}
   m_CullTransparentMesh: 1
 --- !u!114 &8015997582761171813
@@ -2959,11 +2588,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &2661980679861964864
 >>>>>>> parent of 82af202 (Settings)
-=======
-  m_GameObject: {fileID: 2595435340139092085}
-  m_CullTransparentMesh: 1
---- !u!114 &8015997582761171813
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2972,9 +2596,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_GameObject: {fileID: 2595435340139092085}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -2991,11 +2612,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Settings
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3062,11 +2679,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-<<<<<<< HEAD
   m_hasFontAssetChanged: 0
-=======
-  m_hasFontAssetChanged: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &2769837770336346060
@@ -3079,13 +2692,8 @@ GameObject:
   m_Component:
   - component: {fileID: 5968377161954058683}
   - component: {fileID: 720807693402212788}
-<<<<<<< HEAD
   - component: {fileID: 8754585224749572301}
   - component: {fileID: 4723859578371990254}
-=======
-  - component: {fileID: 4723859578371990254}
-  - component: {fileID: 6739598561349135478}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Layer: 5
   m_Name: Settings
   m_TagString: Untagged
@@ -3102,11 +2710,7 @@ RectTransform:
   m_GameObject: {fileID: 2769837770336346060}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
   m_LocalScale: {x: 2, y: 2, z: 2}
-=======
-  m_LocalScale: {x: 1, y: 4.6666665, z: 4.6666665}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8893888456093125372}
@@ -3114,11 +2718,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 0, y: 0}
-=======
-  m_AnchoredPosition: {x: -14, y: -1}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &720807693402212788
@@ -3129,7 +2729,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2769837770336346060}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!114 &8754585224749572301
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3160,8 +2759,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!114 &4723859578371990254
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3202,11 +2799,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-<<<<<<< HEAD
   m_TargetGraphic: {fileID: 8754585224749572301}
-=======
-  m_TargetGraphic: {fileID: 6739598561349135478}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -3222,39 +2815,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
-=======
---- !u!114 &6739598561349135478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2769837770336346060}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 798314573, guid: d422843da7337f84f89cef05195d5361, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &2775852343004446992
 GameObject:
   m_ObjectHideFlags: 0
@@ -3322,13 +2882,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Brightness
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_sharedMaterial: {fileID: 8237124516952989308, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3397,83 +2952,6 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
-<<<<<<< HEAD
-=======
---- !u!1 &3280838936135378615
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 7343534572390209308}
-  - component: {fileID: 4397256750124864446}
-  - component: {fileID: 8230408130741351041}
-  m_Layer: 5
-  m_Name: Background
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &7343534572390209308
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3280838936135378615}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 5104438570699248396}
-  - {fileID: 4408073659067410055}
-  m_Father: {fileID: 8004091069248327237}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &4397256750124864446
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3280838936135378615}
-  m_CullTransparentMesh: 1
---- !u!114 &8230408130741351041
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3280838936135378615}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RawImage
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Texture: {fileID: 2800000, guid: da69cd2e595dfc54e86e65c264515cb7, type: 3}
-  m_UVRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &3604956362955054696
 GameObject:
   m_ObjectHideFlags: 0
@@ -3541,11 +3019,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Speed + 1
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3612,11 +3086,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-<<<<<<< HEAD
   m_hasFontAssetChanged: 0
-=======
-  m_hasFontAssetChanged: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &3678949830774300383
@@ -3752,146 +3222,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
-=======
---- !u!1 &4093374024825721043
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3938542397533760528}
-  - component: {fileID: 3854438767846712087}
-  - component: {fileID: 5746272969944095001}
-  m_Layer: 5
-  m_Name: JumpText
-  m_TagString: JumpText
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &3938542397533760528
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4093374024825721043}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
-  m_ConstrainProportionsScale: 1
-  m_Children: []
-  m_Father: {fileID: 8004091069248327237}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 266, y: 378.1}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &3854438767846712087
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4093374024825721043}
-  m_CullTransparentMesh: 1
---- !u!114 &5746272969944095001
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4093374024825721043}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 5
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_sharedMaterial: {fileID: 8237124516952989308, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_characterHorizontalScale: 1
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &5550700102872959388
 GameObject:
   m_ObjectHideFlags: 0
@@ -3959,11 +3289,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: PauseMenu
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4030,90 +3356,9 @@ MonoBehaviour:
   m_margin: {x: -155.00824, y: 0, z: -235.49341, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-<<<<<<< HEAD
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
-=======
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!1 &5649783685380622836
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6527934939837608655}
-  - component: {fileID: 5405947553572986709}
-  - component: {fileID: 8323588892011937983}
-  m_Layer: 5
-  m_Name: Image (3)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &6527934939837608655
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5649783685380622836}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.4, y: 0.04, z: 0.1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 8207689025803966717}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 74, y: 471.4}
-  m_SizeDelta: {x: 1920, y: 1080}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &5405947553572986709
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5649783685380622836}
-  m_CullTransparentMesh: 1
---- !u!114 &8323588892011937983
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5649783685380622836}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: -1298331862, guid: 9a25917b9219cb04db859319364bbe8a, type: 3}
-  m_Type: 3
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 0
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &5705573488605958442
 GameObject:
   m_ObjectHideFlags: 0
@@ -4247,46 +3492,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
-=======
---- !u!1 &5809718348968154268
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8207689025803966717}
-  m_Layer: 5
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &8207689025803966717
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5809718348968154268}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 6880260756876005064}
-  - {fileID: 6527934939837608655}
-  m_Father: {fileID: 8004091069248327237}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
-  m_Pivot: {x: 0.5, y: 0.5}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &6110883398488136985
 GameObject:
   m_ObjectHideFlags: 0
@@ -4319,24 +3524,12 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-<<<<<<< HEAD
   - {fileID: 6830539445823041834}
-=======
-  - {fileID: 8207689025803966717}
-  - {fileID: 7343534572390209308}
-  - {fileID: 2149551968710595512}
-  - {fileID: 6830539445823041834}
-  - {fileID: 8110593224731317335}
-  - {fileID: 3938542397533760528}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - {fileID: 6212542968795964626}
   - {fileID: 7227237256227592903}
   - {fileID: 3430207949345923438}
   - {fileID: 102438882651878446}
-<<<<<<< HEAD
   - {fileID: 2149551968710595512}
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -4420,13 +3613,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIScript
   CoinText: {fileID: 9027509238693250333}
-<<<<<<< HEAD
   HealthText: {fileID: 442777546690933786}
-=======
-  StrengthText: {fileID: 442777546690933786}
-  SpeedText: {fileID: 168651346410613232}
-  JumpText: {fileID: 5746272969944095001}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &6223252214525187177
 GameObject:
   m_ObjectHideFlags: 0
@@ -4461,11 +3648,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 50, y: 75}
-=======
-  m_AnchoredPosition: {x: 0, y: 121}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8946441087092816820
@@ -4558,7 +3741,6 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6275627160406441889}
-<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 3237215994042714269}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -4599,8 +3781,6 @@ MonoBehaviour:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -4616,11 +3796,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Resume
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4687,7 +3863,6 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-<<<<<<< HEAD
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
@@ -4724,12 +3899,6 @@ MonoBehaviour:
 =======
 --- !u!1 &4180096141869028321
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!1 &6350757980929807189
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4745,9 +3914,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - component: {fileID: 4802291022917397538}
   - component: {fileID: 3027891417580209117}
   - component: {fileID: 4633535826734300319}
@@ -4884,7 +4050,6 @@ GameObject:
   - component: {fileID: 9114537774072890332}
   - component: {fileID: 5415936417805488067}
   - component: {fileID: 3545141497922702065}
-<<<<<<< HEAD
 =======
   - component: {fileID: 4866371829222822363}
   - component: {fileID: 7934452344832776935}
@@ -4925,8 +4090,6 @@ GameObject:
   - component: {fileID: 7934452344832776935}
   - component: {fileID: 8688356112166940313}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -4942,7 +4105,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!224 &9114537774072890332
 =======
 --- !u!224 &4866371829222822363
@@ -4968,9 +4130,6 @@ GameObject:
 =======
 --- !u!224 &4866371829222822363
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!224 &9114537774072890332
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4984,7 +4143,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 6400468880538028413}
 =======
   m_GameObject: {fileID: 4180096141869028321}
@@ -5010,9 +4168,6 @@ RectTransform:
 =======
   m_GameObject: {fileID: 4180096141869028321}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 6400468880538028413}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -5026,7 +4181,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_Father: {fileID: 7584988047642946655}
 =======
   m_Father: {fileID: 3792952816570578504}
@@ -5052,9 +4206,6 @@ RectTransform:
 =======
   m_Father: {fileID: 3792952816570578504}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_Father: {fileID: 7584988047642946655}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -5069,7 +4220,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!222 &5415936417805488067
 =======
 --- !u!222 &7934452344832776935
@@ -5095,9 +4245,6 @@ RectTransform:
 =======
 --- !u!222 &7934452344832776935
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!222 &5415936417805488067
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5111,7 +4258,6 @@ CanvasRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 6400468880538028413}
   m_CullTransparentMesh: 1
 --- !u!114 &3545141497922702065
@@ -5155,11 +4301,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &8688356112166940313
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 6400468880538028413}
-  m_CullTransparentMesh: 1
---- !u!114 &3545141497922702065
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5173,7 +4314,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 6400468880538028413}
 =======
   m_GameObject: {fileID: 4180096141869028321}
@@ -5199,9 +4339,6 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 4180096141869028321}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 6400468880538028413}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -5215,7 +4352,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5252,12 +4388,6 @@ MonoBehaviour:
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_text: Volume
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_sharedMaterial: {fileID: 8237124516952989308, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5281,7 +4411,6 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5324,10 +4453,6 @@ MonoBehaviour:
   m_fontSize: 100
   m_fontSizeBase: 100
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_fontSize: 24
-  m_fontSizeBase: 24
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5379,7 +4504,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1 &6538658117298404545
 =======
 --- !u!1 &4248578787918675997
@@ -5405,9 +4529,6 @@ MonoBehaviour:
 =======
 --- !u!1 &4248578787918675997
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!1 &6538658117298404545
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5423,9 +4544,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - component: {fileID: 3394214818144213794}
   - component: {fileID: 8864635173499606188}
   - component: {fileID: 5288183881260611197}
@@ -5433,7 +4551,6 @@ GameObject:
   m_Layer: 5
   m_Name: MainMenuBtn (1)
   m_TagString: Untagged
-<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -5480,8 +4597,6 @@ GameObject:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5494,7 +4609,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!224 &3394214818144213794
 =======
 --- !u!224 &3616899142835770600
@@ -5520,9 +4634,6 @@ GameObject:
 =======
 --- !u!224 &3616899142835770600
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!224 &3394214818144213794
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5536,9 +4647,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_GameObject: {fileID: 6538658117298404545}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -5647,81 +4755,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
-=======
---- !u!1 &6641305309045407108
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6880260756876005064}
-  - component: {fileID: 1025629455546164688}
-  - component: {fileID: 5385225970549931053}
-  m_Layer: 5
-  m_Name: Image (2)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &6880260756876005064
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6641305309045407108}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 8207689025803966717}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &1025629455546164688
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6641305309045407108}
-  m_CullTransparentMesh: 1
---- !u!114 &5385225970549931053
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6641305309045407108}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RawImage
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 486afcacc0b64454991ee4c34ba954b9, type: 3}
-  m_UVRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &6681418577439819571
 GameObject:
   m_ObjectHideFlags: 0
@@ -5855,81 +4888,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
-=======
---- !u!1 &6740468872558792429
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 5104438570699248396}
-  - component: {fileID: 7129696945158318477}
-  - component: {fileID: 7185106532321770759}
-  m_Layer: 5
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &5104438570699248396
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6740468872558792429}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 7343534572390209308}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &7129696945158318477
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6740468872558792429}
-  m_CullTransparentMesh: 1
---- !u!114 &7185106532321770759
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6740468872558792429}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RawImage
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 8035e236a65b4aa45a8a4aa116cebe8e, type: 3}
-  m_UVRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &6769752195864753690
 GameObject:
   m_ObjectHideFlags: 0
@@ -5955,7 +4913,6 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6769752195864753690}
-<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 4248578787918675997}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -5980,8 +4937,6 @@ RectTransform:
 =======
   m_GameObject: {fileID: 4248578787918675997}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -5995,9 +4950,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Father: {fileID: 5883238425844232468}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
@@ -6067,7 +5019,6 @@ RectTransform:
   m_GameObject: {fileID: 7026267733373654923}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6126,19 +5077,6 @@ RectTransform:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_LocalScale: {x: 0.74999994, y: 0.74999994, z: 0.74999994}
-  m_ConstrainProportionsScale: 1
-  m_Children: []
-  m_Father: {fileID: 8004091069248327237}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -845.5, y: 448}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &5121003431762827483
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6152,7 +5090,6 @@ CanvasRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 7026267733373654923}
   m_CullTransparentMesh: 1
 --- !u!114 &3306209338287855801
@@ -6196,11 +5133,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &3076910555049861938
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 7026267733373654923}
-  m_CullTransparentMesh: 1
---- !u!114 &3306209338287855801
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6214,7 +5146,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 7026267733373654923}
 =======
   m_GameObject: {fileID: 4248578787918675997}
@@ -6240,9 +5171,6 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 4248578787918675997}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 7026267733373654923}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -6256,7 +5184,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6293,24 +5220,13 @@ MonoBehaviour:
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
-=======
-  m_text: /6
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_sharedMaterial: {fileID: 8237124516952989308, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-<<<<<<< HEAD
     rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-=======
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -6380,7 +5296,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1 &7279020706031998990
 =======
 --- !u!1 &4296280591353785448
@@ -6406,9 +5321,6 @@ MonoBehaviour:
 =======
 --- !u!1 &4296280591353785448
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!1 &7279020706031998990
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6424,9 +5336,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - component: {fileID: 7158884067147798239}
   m_Layer: 5
   m_Name: Container
@@ -6469,7 +5378,6 @@ GameObject:
   - component: {fileID: 786405264665479471}
   - component: {fileID: 2282562392877420664}
   - component: {fileID: 6433750747799852864}
-<<<<<<< HEAD
 =======
   - component: {fileID: 785355789718297416}
   - component: {fileID: 4902356920664432672}
@@ -6510,8 +5418,6 @@ GameObject:
   - component: {fileID: 4902356920664432672}
   - component: {fileID: 8762665492962166646}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -6527,7 +5433,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!224 &786405264665479471
 =======
 --- !u!224 &785355789718297416
@@ -6553,9 +5458,6 @@ GameObject:
 =======
 --- !u!224 &785355789718297416
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!224 &786405264665479471
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6569,7 +5471,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 7476322862865457491}
 =======
   m_GameObject: {fileID: 4296280591353785448}
@@ -6595,9 +5496,6 @@ RectTransform:
 =======
   m_GameObject: {fileID: 4296280591353785448}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 7476322862865457491}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -6611,7 +5509,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_Father: {fileID: 3394214818144213794}
 =======
   m_Father: {fileID: 454242701504244173}
@@ -6637,9 +5534,6 @@ RectTransform:
 =======
   m_Father: {fileID: 454242701504244173}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_Father: {fileID: 3394214818144213794}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -6654,7 +5548,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!222 &2282562392877420664
 =======
 --- !u!222 &4902356920664432672
@@ -6680,9 +5573,6 @@ RectTransform:
 =======
 --- !u!222 &4902356920664432672
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!222 &2282562392877420664
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6696,7 +5586,6 @@ CanvasRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 7476322862865457491}
   m_CullTransparentMesh: 1
 --- !u!114 &6433750747799852864
@@ -6740,11 +5629,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &8762665492962166646
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 7476322862865457491}
-  m_CullTransparentMesh: 1
---- !u!114 &6433750747799852864
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6758,7 +5642,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 7476322862865457491}
 =======
   m_GameObject: {fileID: 4296280591353785448}
@@ -6784,9 +5667,6 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 4296280591353785448}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 7476322862865457491}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -6802,11 +5682,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Main Menu
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -6873,7 +5749,6 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-<<<<<<< HEAD
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
@@ -6910,12 +5785,6 @@ MonoBehaviour:
 =======
 --- !u!1 &4382920340691597089
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!1 &7557315336423787679
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6931,9 +5800,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   - component: {fileID: 2149551968710595512}
   - component: {fileID: 2189106997394550864}
   m_Layer: 5
@@ -6961,11 +5827,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 790, y: 490}
-=======
-  m_AnchoredPosition: {x: 842.8, y: 445.4}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_SizeDelta: {x: 320, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2189106997394550864
@@ -7153,81 +6015,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
-=======
---- !u!1 &7853793046568128900
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4408073659067410055}
-  - component: {fileID: 5630058867345275012}
-  - component: {fileID: 4444896927794997016}
-  m_Layer: 5
-  m_Name: Image (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &4408073659067410055
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7853793046568128900}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 7343534572390209308}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &5630058867345275012
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7853793046568128900}
-  m_CullTransparentMesh: 1
---- !u!114 &4444896927794997016
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7853793046568128900}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RawImage
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 9baf52a1e8960a24f87d89cfa6f38c3e, type: 3}
-  m_UVRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 --- !u!1 &8010964742740993412
 GameObject:
   m_ObjectHideFlags: 0
@@ -7494,7 +6281,6 @@ GameObject:
   - component: {fileID: 2742148060230899322}
   - component: {fileID: 83256939093603571}
   - component: {fileID: 6995000838332285805}
-<<<<<<< HEAD
 =======
   - component: {fileID: 1265082255514442042}
   - component: {fileID: 8499880734843039070}
@@ -7535,8 +6321,6 @@ GameObject:
   - component: {fileID: 8499880734843039070}
   - component: {fileID: 1991014710142145619}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -7552,7 +6336,6 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!224 &2742148060230899322
 =======
 --- !u!224 &1265082255514442042
@@ -7578,9 +6361,6 @@ GameObject:
 =======
 --- !u!224 &1265082255514442042
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!224 &2742148060230899322
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7594,7 +6374,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 8598963617185994311}
 =======
   m_GameObject: {fileID: 4382920340691597089}
@@ -7620,9 +6399,6 @@ RectTransform:
 =======
   m_GameObject: {fileID: 4382920340691597089}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 8598963617185994311}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -7636,7 +6412,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_Father: {fileID: 6396790433311030239}
 =======
   m_Father: {fileID: 6482589446339513408}
@@ -7662,9 +6437,6 @@ RectTransform:
 =======
   m_Father: {fileID: 6482589446339513408}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_Father: {fileID: 6396790433311030239}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -7679,7 +6451,6 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!222 &83256939093603571
 =======
 --- !u!222 &8499880734843039070
@@ -7705,9 +6476,6 @@ RectTransform:
 =======
 --- !u!222 &8499880734843039070
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
---- !u!222 &83256939093603571
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7721,7 +6489,6 @@ CanvasRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_GameObject: {fileID: 8598963617185994311}
   m_CullTransparentMesh: 1
 --- !u!114 &6995000838332285805
@@ -7765,11 +6532,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!114 &1991014710142145619
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_GameObject: {fileID: 8598963617185994311}
-  m_CullTransparentMesh: 1
---- !u!114 &6995000838332285805
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7783,9 +6545,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_GameObject: {fileID: 8598963617185994311}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -7802,25 +6561,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Exit
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
-  m_sharedMaterial: {fileID: 8237124516952989308, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-<<<<<<< HEAD
     rgba: 4281479730
   m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-=======
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -7934,7 +6683,6 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9206995012084921741}
-<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 4382920340691597089}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
@@ -7959,8 +6707,6 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 4382920340691597089}
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -7976,11 +6722,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Jump  + 1
   m_isRightToLeft: 0
-<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: c17f1ad6a8c899346b24dbafcc93f63e, type: 2}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -8047,7 +6789,6 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-<<<<<<< HEAD
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
@@ -8903,8 +7644,3 @@ MonoBehaviour:
 >>>>>>> parent of 0fd7864 (Revert "Merge branch 'Development' into Valerie")
 =======
 >>>>>>> parent of c190598 (Merge branch 'Development' into Pascal)
-=======
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
->>>>>>> parent of d71e288 (Revert "Merge remote-tracking branch 'origin/pascal' into Valerie")
