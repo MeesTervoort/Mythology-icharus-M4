@@ -168,6 +168,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1026995632136015755, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!64 &12186914
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -190,6 +191,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8998893779124827485, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &13530127
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -806,6 +809,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5495902117074765545, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &33165470 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1861373357}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &33165474
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 33165470}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &39844571
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1033,6 +1066,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8552134717624371188, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &60568352
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1077,6 +1111,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3925360246919112806, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &62542521
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1816,6 +1852,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1879900250216117662, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &129516582 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1247350072}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &129516586
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 129516582}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &130910821
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2103,6 +2169,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8678823145569952518, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &162277899
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2125,6 +2192,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -554992355478085690, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &164549721 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2576021064111563508, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -2827,6 +2896,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3934692187413270984, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &218966170
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2990,6 +3060,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &223433843 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2181743766629440291, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -3070,7 +3142,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: 3688387683569199778, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+  m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &234431544 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2178253527174597848, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -3353,6 +3429,10 @@ Transform:
   - {fileID: 111212236}
   - {fileID: 1315321104}
   - {fileID: 1287971747}
+<<<<<<< HEAD
+=======
+  - {fileID: 84184005}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
   - {fileID: 339602049}
   - {fileID: 1283983543}
   - {fileID: 899420200}
@@ -3364,6 +3444,7 @@ Transform:
   - {fileID: 995526289}
   - {fileID: 660909961}
   - {fileID: 1158499653}
+<<<<<<< HEAD
   - {fileID: 1734368254}
   - {fileID: 1086738093}
   - {fileID: 2111316871}
@@ -3383,6 +3464,8 @@ Transform:
   - {fileID: 911056998}
   - {fileID: 1066555098}
   - {fileID: 1682298133}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &268544241 stripped
@@ -3943,13 +4026,26 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7037428754162372731, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &291041905
+=======
+--- !u!1 &288481149 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &288481153
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 525128663}
+=======
+  m_GameObject: {fileID: 288481149}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -3964,7 +4060,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -7396129288610326617, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+  m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &291322315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4361,7 +4461,38 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -1955250334344427881, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+  m_Mesh: {fileID: -8998893779124827485, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+--- !u!1 &312168426 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &312168430
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 312168426}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &312632964 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4356877828898064976, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -4531,6 +4662,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5129110042813977296, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &320328151 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 26844662620191305, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &320328155
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320328151}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3874432442672741690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &327375794
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4827,6 +4988,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5657061598516138428, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &336297841
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4849,6 +5011,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2088970726989647527, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!4 &339602049 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -5464,6 +5628,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8552134717624371188, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &361635205 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &361635209
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361635205}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &363758391 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -5513,6 +5707,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &367820051 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5623969286492013067, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1540923574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &367820055
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 367820051}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &370488751 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4933914631476903451, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -6418,6 +6642,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &404663162
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6440,6 +6665,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &405816110 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3455292422214010178, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -6499,6 +6726,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
+<<<<<<< HEAD
 --- !u!4 &417156015 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
@@ -6509,6 +6737,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
   m_PrefabInstance: {fileID: 2078042892}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &430104486
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6665,6 +6895,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 11.068, z: 0}
+<<<<<<< HEAD
 --- !u!64 &438549118
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6687,6 +6918,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1026995632136015755, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &439210971
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6763,6 +6996,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7518959883787107871, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &441768439
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6905,6 +7139,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &445552109
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7174,6 +7410,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!4 &454329588 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
@@ -7201,6 +7438,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &458947420
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8904,6 +9143,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -924150478991432722, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!64 &514296241
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8926,6 +9166,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3688387683569199778, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &516316875 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1446005020687538181, guid: ecfc688227674de42ad9a34edf39f3ac, type: 3}
@@ -9558,6 +9800,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: 2212009239438826721, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
 --- !u!64 &525128683
 MeshCollider:
@@ -9669,6 +9912,9 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+  m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &543783562
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9990,6 +10236,31 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!64 &561825531
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100005738}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2422667701605555428, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &573548587 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5981722475187972325, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -10867,6 +11138,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7037428754162372731, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &602748993
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10889,6 +11161,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &606427279
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10960,6 +11234,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4940276715182978170, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &609300601
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10982,6 +11257,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3874432442672741690, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &609693678
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11093,6 +11370,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2865104911859505335, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
+<<<<<<< HEAD
 --- !u!64 &626116643
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11115,6 +11393,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3329902420748629119, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &631489468
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11282,6 +11562,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8994988200701156568, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!64 &636983315
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11304,6 +11585,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5140531814272895464, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &645978971 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -11671,6 +11954,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8330597847695362845, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &668973837
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11693,6 +11977,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1589274349101557545, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &677780201
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11737,6 +12023,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &684151908 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1861373357}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &684151912
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 684151908}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &692572918 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7146521406498821007, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -11764,6 +12080,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8678823145569952518, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &697147485
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11808,6 +12125,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238408657503670587, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &711592288 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8826385435969320149, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -11835,6 +12154,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7518959883787107871, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &722256503 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1247350072}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &722256507
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722256503}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &722451597 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -12039,6 +12388,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4159156471665841774, guid: ecfc688227674de42ad9a34edf39f3ac, type: 3}
+<<<<<<< HEAD
 --- !u!64 &734171092
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12061,6 +12411,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8003059199577345462, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &734461043 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -208595431880416365, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -12115,6 +12467,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1879900250216117662, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &739268799 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1247350072}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &739268803
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739268799}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &739547153
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13960,6 +14342,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< HEAD
     m_TransformParent: {fileID: 267588411}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
@@ -13973,6 +14356,21 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
       propertyPath: m_LocalPosition.z
       value: -53.69
+=======
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.04
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -89.56
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -51.85
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -14237,11 +14635,14 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!4 &880503518 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
   m_PrefabInstance: {fileID: 1778605125}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &880932021
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15229,6 +15630,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!64 &918114012
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15251,6 +15653,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &918772400
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15644,13 +16048,26 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1249566291824353287, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!64 &977609432
+=======
+--- !u!1 &984045492 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7648502956408741331, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1540923574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &984045496
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1302348161}
+=======
+  m_GameObject: {fileID: 984045492}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -15665,7 +16082,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: 1192423352174412749, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+  m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &991264726
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16128,6 +16549,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5657061598516138428, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &1027673214 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1540923574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1027673218
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027673214}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1032339785
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16513,6 +16964,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3590327658315046744, guid: 628077ee8d930cc4e8e21c222c32d567, type: 3}
   m_PrefabInstance: {fileID: 758513565}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!64 &1063725530
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16539,6 +16991,12 @@ MeshCollider:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
   m_PrefabInstance: {fileID: 489757585}
+=======
+--- !u!1 &1071218925 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1071595705
 MeshCollider:
@@ -16840,13 +17298,26 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -153830957423991239, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1096641093
+=======
+--- !u!1 &1096948605 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8947803200616961874, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1861373357}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1096948609
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1220572284}
+=======
+  m_GameObject: {fileID: 1096948605}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -16861,7 +17332,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: 3874432442672741690, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+  m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1102277612
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16906,6 +17381,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -924150478991432722, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1110583130
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16928,6 +17404,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1026995632136015755, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1117281334 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -208595431880416365, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -18313,6 +18791,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1190433419
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18357,6 +18836,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7798368160509152756, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1196183331
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18813,6 +19294,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8393883867462108715, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1213239455
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18835,6 +19317,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4277242549075389340, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1217441753
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19271,6 +19755,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -257278029260952120, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 --- !u!64 &1220572293
 MeshCollider:
@@ -19295,6 +19780,15 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -7771613508976059695, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 --- !u!64 &1220572294
+=======
+  m_Mesh: {fileID: 0}
+--- !u!1 &1223378558 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1540923574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1223378562
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -21230,6 +21724,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3329902420748629119, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &1302348150
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21641,6 +22136,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4493585093827132993, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1310005209
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22012,6 +22509,31 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1879900250216117662, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!64 &1320014361
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100005739}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -1955250334344427881, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1326065552
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22034,6 +22556,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -924150478991432722, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!4 &1329836525 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
@@ -22105,6 +22628,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2205851368675907929, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1333476940 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6763858364670572316, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -22181,6 +22706,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1353746659569323740, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &1337755617 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1247350072}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1337755621
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1337755617}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1341251851
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22433,6 +22988,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4940276715182978170, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1354530362
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22477,6 +23033,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1370504212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22892,6 +23450,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2746142260806068395, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &1405259966 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1405259970
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1405259966}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1408371038
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22941,13 +23529,21 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5657061598516138428, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1419904751
+=======
+--- !u!64 &1423556589
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1539750287}
+=======
+  m_GameObject: {fileID: 100005747}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -22962,7 +23558,60 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: 2205851368675907929, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+  m_Mesh: {fileID: 1589274349101557545, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+--- !u!64 &1429651380
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100005742}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5140531814272895464, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+--- !u!1 &1436248679 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1436248683
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1436248679}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1436671608 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4391526179608513852, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -23658,6 +24307,31 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5053925668127403250, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!64 &1491074845
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100005744}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -924150478991432722, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1494496213 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4555fd5e06e086146bf6a88f53f6413c, type: 3}
@@ -23751,6 +24425,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5140531814272895464, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1515711799
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -23773,6 +24448,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238408657503670587, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1518572793
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23955,6 +24632,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5495902117074765545, guid: b56125479c3eedb418c41ab8a1b4ded2, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &1527218437 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1527218441
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1527218437}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1531490248 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9141816029861474070, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -24147,6 +24854,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &1533265772 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1247350072}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1533265776
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533265772}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1534362503
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24270,6 +25007,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5053925668127403250, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &1539750280
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24625,6 +25363,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2124705421725058983, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1540847573 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6217272446109910477, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -25029,6 +25769,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1192423352174412749, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1546165542
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -25051,6 +25792,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7798368160509152756, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1547590173
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -25210,6 +25953,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4277242549075389340, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &1571006159 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1571006163
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571006159}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1575392533 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ecfc688227674de42ad9a34edf39f3ac, type: 3}
@@ -25302,7 +26075,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -7396129288610326617, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+  m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1594345628 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -26651,6 +27428,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1026995632136015755, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &1688706001 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1861373357}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1688706005
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688706001}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1689717093
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26768,7 +27575,38 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -8003059199577345462, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+  m_Mesh: {fileID: -2088970726989647527, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+--- !u!1 &1699253095 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7648502956408741331, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1699253099
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699253095}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1708318446
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26875,6 +27713,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8330597847695362845, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1713645617
 GameObject:
   m_ObjectHideFlags: 0
@@ -26930,6 +27769,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8003059199577345462, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1720838642 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -27147,7 +27988,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -7798368160509152756, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+  m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1732263166 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5335380687693457104, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -27633,6 +28478,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3329902420748629119, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1766423037
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27655,6 +28501,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7978969065813625844, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1766829342
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28706,6 +29554,63 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7037428754162372731, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &1788483423 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1788483427
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788483423}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+--- !u!1 &1793129218 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1793129222
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793129218}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1799351606
 GameObject:
   m_ObjectHideFlags: 0
@@ -28822,6 +29727,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1812269291
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28844,6 +29750,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -554992355478085690, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1821367495 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 281855664364225751, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -28871,6 +29779,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8552134717624371188, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1828143196
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28915,6 +29824,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7798368160509152756, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1832246826
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29693,6 +30604,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8678823145569952518, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &1853157753
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29856,6 +30768,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3753059313503682963, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &1857118969 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4933914631476903451, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -30167,6 +31081,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5741174448488666723, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1 &1889093668 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1889093672
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889093668}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &1895817508
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -30287,6 +31231,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5053925668127403250, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1908446399
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -30310,6 +31255,14 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
 --- !u!64 &1916968607
+=======
+--- !u!1 &1910565155 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1910565159
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -30518,13 +31471,26 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4940276715182978170, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1928479978
+=======
+--- !u!1 &1935203771 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3173062973112833046, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1935203775
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1220572278}
+=======
+  m_GameObject: {fileID: 1935203771}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -30539,7 +31505,33 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -8003059199577345462, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+  m_Mesh: {fileID: -7798368160509152756, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+--- !u!64 &1935246716
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100005748}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7978969065813625844, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1001 &1936566924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32071,6 +33063,36 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4976767106935774103, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
   m_PrefabInstance: {fileID: 2110422934}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &1993447253 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1861373357}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1993447257
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1993447253}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &2001682543 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -208595431880416365, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -32125,6 +33147,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!64 &2002413489
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -32147,6 +33170,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5140531814272895464, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &2003433800 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7640558969779515294, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -32305,7 +33330,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: 3925360246919112806, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+=======
+  m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &2031678322
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -32661,6 +33690,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4277242549075389340, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &2078042892
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32802,6 +33832,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!64 &2086250486
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -33625,11 +34657,14 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5495902117074765545, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!4 &2113106620 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
   m_PrefabInstance: {fileID: 2141624673}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 --- !u!1 &2114796408 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -34225,6 +35260,7 @@ SceneRoots:
   - {fileID: 609693678}
   - {fileID: 1713645618}
   - {fileID: 1217441753}
+<<<<<<< HEAD
   - {fileID: 525128661}
   - {fileID: 1302348150}
   - {fileID: 272301373}
@@ -34234,3 +35270,16 @@ SceneRoots:
   - {fileID: 1542583292}
   - {fileID: 1291164174}
   - {fileID: 1220572276}
+=======
+  - {fileID: 879084095}
+  - {fileID: 1936566924}
+  - {fileID: 2111957847}
+  - {fileID: 502420315}
+  - {fileID: 1686534409}
+  - {fileID: 1844569787}
+  - {fileID: 100005736}
+  - {fileID: 30683017}
+  - {fileID: 1778605125}
+  - {fileID: 458947420}
+  - {fileID: 878883835}
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
