@@ -6,6 +6,7 @@ using UnityEngine.UIElements;
 public class NPCDialogue : MonoBehaviour
 {
     //UI References
+    [SerializeField] private GameObject Canvas;
     [SerializeField] private GameObject InteractArrow;
     [SerializeField] private TMP_Text speakerText;
     [SerializeField] private TMP_Text dialogueText;
@@ -13,19 +14,42 @@ public class NPCDialogue : MonoBehaviour
 
     //Dialogue content
     [SerializeField] private string[] speaker;
-    [SerializeField] private string[] dialogueWords;
-    [SerializeField] private Sprite portait;
+    [SerializeField][TextArea] private string[] dialogueWords;
+    [SerializeField] private Sprite[] portait;
 
-    private void Start()
-    {
-
-    }
+    private bool dialogueActive;
 
     private void Update()
     {
+        if (Input.GetButtonDown("Interact") && dialogueActive)
+        {
+            Canvas.SetActive(true);
+            speakerText.text = speaker[0];
+            dialogueText.text = dialogueWords[0];
+            portaitImage.sprite = portait[0];
+        }
+    }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "Player")
+        {
+            InteractArrow.SetActive(true);
+            dialogueActive = true;
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.tag == "Player")
+        {
+            dialogueActive = false;
+            InteractArrow.SetActive(false);
+            Canvas.SetActive(false);
+        }
     }
 }
+
 
 
 
