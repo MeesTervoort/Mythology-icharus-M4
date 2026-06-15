@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 using TMPro;
-using UnityEngine.UIElements;
+using UnityEngine.UI;
 
 public class NPCDialogue : MonoBehaviour
 {
@@ -18,15 +18,26 @@ public class NPCDialogue : MonoBehaviour
     [SerializeField] private Sprite[] portait;
 
     private bool dialogueActive;
+    private int step;
 
     private void Update()
     {
-        if (Input.GetButtonDown("Interact") && dialogueActive)
+        if (Input.GetKeyDown(KeyCode.E) && dialogueActive)
         {
-            Canvas.SetActive(true);
-            speakerText.text = speaker[0];
-            dialogueText.text = dialogueWords[0];
-            portaitImage.sprite = portait[0];
+            if(step >= dialogueWords.Length)
+            {
+                Canvas.SetActive(false);
+                step = 0;
+            }
+            else
+            {
+                Canvas.SetActive(true);
+                speakerText.text = speaker[step];
+                dialogueText.text = dialogueWords[step];
+                portaitImage.sprite = portait[step];
+                step++;
+            }
+            
         }
     }
 

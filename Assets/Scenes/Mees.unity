@@ -1760,7 +1760,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.1882353}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1999,6 +1999,10 @@ PrefabInstance:
       propertyPath: dialogueText
       value: 
       objectReference: {fileID: 1194260273}
+    - target: {fileID: 8166210344723503398, guid: a6b7a812b2f3eb44ab6433ee503c138e, type: 3}
+      propertyPath: portaitImage
+      value: 
+      objectReference: {fileID: 1994641022}
     - target: {fileID: 8166210344723503398, guid: a6b7a812b2f3eb44ab6433ee503c138e, type: 3}
       propertyPath: InteractArrow
       value: 
