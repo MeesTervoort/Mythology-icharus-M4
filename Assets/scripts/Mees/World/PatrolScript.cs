@@ -27,7 +27,7 @@ public class PatrolScript : MonoBehaviour
     [SerializeField] private float losePlayerTime = 3f;
 
     private NavMeshAgent agent;
-    private Animator animator;
+    //private Animator animator;
     private int currentWaypointIndex = 0;
     private bool waiting = false;
     private EnemyState state = EnemyState.Patrolling;
@@ -36,7 +36,7 @@ public class PatrolScript : MonoBehaviour
     private void Awake()
     {
         agent = GetComponent<NavMeshAgent>();
-        animator = GetComponent<Animator>();
+        //animator = GetComponent<Animator>();
     }
 
     private void Start()
@@ -144,7 +144,7 @@ public class PatrolScript : MonoBehaviour
     private void UpdateAnimations()
     {
         var isMoving = agent.velocity.sqrMagnitude > 0.01f;
-        animator.SetBool("IsWalking", isMoving);
+        //animator.SetBool("IsWalking", isMoving);
     }
 
     private bool CanSeePlayer()
