@@ -16,7 +16,7 @@ public class Player : MonoBehaviour
     private InputActionMap map; 
 
     private Rigidbody rb;
-    private bool isGrounded = false;
+    //private bool isGrounded = false;
     
     public static int Coins = 0;
     public static int Health = 10;
