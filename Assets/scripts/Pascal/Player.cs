@@ -9,7 +9,6 @@ public class Player : MonoBehaviour
     [SerializeField] private float turnSpeed = 150f;
     [SerializeField] public static float jumpForce = 5f;
 
-
     private InputAction moveAction;
     private InputAction jumpAction;
     private InputAction sprintAction;
