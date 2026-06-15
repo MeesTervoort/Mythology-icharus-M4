@@ -225,6 +225,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &12186914
 =======
 --- !u!64 &11460681
@@ -283,6 +284,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -5335131643501212912, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &13530127
@@ -970,9 +973,12 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &33165470 stripped
@@ -1002,6 +1008,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -1034,6 +1041,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -9164078702302496517, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &39844571
@@ -1222,6 +1231,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &60568352
 =======
 --- !u!1 &51294904 stripped
@@ -1280,6 +1290,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -7396129288610326617, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &62542521
@@ -1514,10 +1526,14 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!4 &84184005 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1247350072}
+<<<<<<< HEAD
   m_PrefabAsset: {fileID: 0}
 =======
 --- !u!64 &79509616
@@ -1548,6 +1564,9 @@ Transform:
   m_PrefabInstance: {fileID: 1247350072}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &90301125
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2494,6 +2513,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &121119824 stripped
@@ -2604,6 +2624,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &129516582 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -2634,6 +2656,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -2641,6 +2664,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &130910821
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2986,6 +3011,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &162277899
 =======
 --- !u!1 &162556264 stripped
@@ -3026,6 +3052,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &164549721 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2576021064111563508, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -3768,6 +3796,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &218966170
 =======
 --- !u!1 &220389879 stripped
@@ -3947,6 +3976,8 @@ PrefabInstance:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &223433843 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2181743766629440291, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -4034,6 +4065,7 @@ GameObject:
   m_PrefabInstance: {fileID: 1920939218}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &227037426 stripped
 GameObject:
@@ -4041,6 +4073,8 @@ GameObject:
   m_PrefabInstance: {fileID: 1920939218}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &227037430
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4062,6 +4096,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4106,6 +4141,9 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &234431544 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2178253527174597848, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -4279,6 +4317,7 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &245413494 stripped
 Transform:
@@ -4308,6 +4347,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -7798368160509152756, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &255914716 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5623969286492013067, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -4392,10 +4433,15 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 725041923}
   - {fileID: 1145146385}
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  - {fileID: 725041923}
+  - {fileID: 1145146385}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   - {fileID: 957090038}
   - {fileID: 1228720015}
   - {fileID: 1204231756}
@@ -4404,6 +4450,7 @@ Transform:
   - {fileID: 111212236}
   - {fileID: 1315321104}
   - {fileID: 1287971747}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4421,6 +4468,9 @@ Transform:
 =======
   - {fileID: 84184005}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  - {fileID: 84184005}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   - {fileID: 339602049}
   - {fileID: 1283983543}
   - {fileID: 899420200}
@@ -4436,6 +4486,7 @@ Transform:
   - {fileID: 1797428661}
   - {fileID: 554875177}
   - {fileID: 1158499653}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4469,6 +4520,8 @@ Transform:
   - {fileID: 1051077047}
   - {fileID: 989048853}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Father: {fileID: 0}
@@ -4602,7 +4655,10 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &288481149 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -4630,6 +4686,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 >>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &291041905
 =======
@@ -4724,6 +4781,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &291322315
 PrefabInstance:
@@ -4983,6 +5042,9 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &300121018 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2040254050740271484, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -5010,8 +5072,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &303800560
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5132,6 +5197,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: -1955250334344427881, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
 <<<<<<< HEAD
 =======
@@ -5171,6 +5237,9 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_Mesh: {fileID: -8998893779124827485, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &312168426 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -5201,6 +5270,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -5208,6 +5278,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &312632964 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4356877828898064976, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -5285,10 +5357,14 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -3329902420748629119, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &318470162 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2040254050740271484, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1861373357}
+<<<<<<< HEAD
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &318470166
 =======
@@ -5304,6 +5380,16 @@ MeshCollider:
 =======
   m_GameObject: {fileID: 272301384}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &318470166
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318470162}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -5319,10 +5405,14 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 =======
   m_Mesh: {fileID: 1192423352174412749, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &320012169 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6544207043104339812, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -5354,6 +5444,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -5361,6 +5452,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &320328151 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 26844662620191305, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -5388,6 +5481,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3874432442672741690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5425,6 +5519,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &327375794
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5724,6 +5820,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &336297841
 =======
 --- !u!1 &336640969 stripped
@@ -5760,6 +5857,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: 6352814887653882489, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!4 &339602049 stripped
@@ -6435,6 +6534,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &361153580 stripped
@@ -6469,6 +6569,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &361635205 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -6499,6 +6601,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -6506,6 +6609,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &363758391 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -6559,6 +6664,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &367451272 stripped
@@ -6593,6 +6699,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &367820051 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5623969286492013067, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -6623,6 +6731,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -6630,6 +6739,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &370488751 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4933914631476903451, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -6793,12 +6904,16 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -3537709356157935800, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &379162848 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1145146384}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &379162852
+<<<<<<< HEAD
 =======
 --- !u!1 &380479745 stripped
 GameObject:
@@ -6807,16 +6922,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &380479749
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 379162848}
 =======
   m_GameObject: {fileID: 380479745}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_GameObject: {fileID: 379162848}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -6832,6 +6953,9 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!1 &380479745 stripped
 GameObject:
@@ -6859,8 +6983,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!1 &383582838 stripped
 GameObject:
@@ -7613,6 +7740,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &404663162
 =======
 --- !u!1001 &405113031
@@ -7952,6 +8080,8 @@ MeshCollider:
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &405816110 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3455292422214010178, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -8011,6 +8141,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8106,6 +8237,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -5741174448488666723, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &430104486
@@ -8294,6 +8427,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &438549118
 =======
 --- !u!1 &433761787 stripped
@@ -8330,6 +8464,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: 8337932074288156480, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &439210971
@@ -8435,6 +8571,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7518959883787107871, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8611,6 +8748,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -2846491144723510242, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &445552109
@@ -8961,6 +9100,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &454329588 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
@@ -8997,6 +9137,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &458947420
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9537,6 +9679,7 @@ GameObject:
 MeshCollider:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   serializedVersion: 2
   m_Modification:
@@ -9685,6 +9828,8 @@ GameObject:
 MeshCollider:
   m_ObjectHideFlags: 0
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9705,6 +9850,9 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &492885576
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9727,8 +9875,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4277242549075389340, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &494877469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10819,6 +10970,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &514296241
 =======
 --- !u!1 &513185502 stripped
@@ -10904,6 +11056,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -5928785198427282456, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &516316875 stripped
@@ -11109,6 +11263,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: 2212009239438826721, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
 --- !u!64 &525128683
 =======
@@ -11248,6 +11403,9 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &543783562
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11368,6 +11526,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_Mesh: {fileID: 7978969065813625844, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
 --- !u!1 &550384161 stripped
@@ -11397,6 +11556,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!64 &550809766
 MeshCollider:
@@ -11761,9 +11922,12 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &561825531
@@ -11788,6 +11952,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2422667701605555428, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -11815,6 +11980,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -5335131643501212912, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &573548587 stripped
@@ -11943,6 +12110,7 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &579683721 stripped
 Transform:
@@ -11972,6 +12140,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 3688387683569199778, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &586502176
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12373,6 +12543,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &602748993
 =======
 --- !u!64 &600260400
@@ -12408,6 +12579,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &606427279
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12482,6 +12655,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &609300601
 =======
 --- !u!1 &609045854 stripped
@@ -12518,6 +12692,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -3541629673168548286, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &609693678
@@ -12834,6 +13010,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2865104911859505335, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13229,6 +13406,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &631489468
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13426,6 +13605,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &636983315
 =======
 --- !u!1 &636467343 stripped
@@ -13511,6 +13691,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 8337932074288156480, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &645978971 stripped
@@ -13905,6 +14087,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &668973837
 =======
 --- !u!64 &664852622
@@ -13936,6 +14119,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -7513367144353359745, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &677780201
@@ -13985,9 +14170,12 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &684151908 stripped
@@ -14017,6 +14205,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -14051,6 +14240,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &692572918 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7146521406498821007, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -14078,6 +14269,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8678823145569952518, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14139,6 +14331,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &711592288 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8826385435969320149, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -14166,6 +14360,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7518959883787107871, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14199,6 +14394,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &722256503 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -14229,6 +14426,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -14236,6 +14434,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &722451597 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -14466,6 +14666,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &734171092
 =======
 --- !u!1 &733502809 stripped
@@ -14506,6 +14707,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &734461043 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -208595431880416365, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -14560,6 +14763,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1879900250216117662, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14718,6 +14922,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &739268799 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -14748,6 +14954,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -14755,6 +14962,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &739547153
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15899,6 +16108,7 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -153830957423991239, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!64 &802931893
 MeshCollider:
@@ -15923,6 +16133,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &807007476
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16341,6 +16553,9 @@ PrefabInstance:
       addedObject: {fileID: 835405744}
   m_SourcePrefab: {fileID: 100100000, guid: 2004fedb3fb029a429b1cbdcf9569f67, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &835405737 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8403869422011412883, guid: 2004fedb3fb029a429b1cbdcf9569f67, type: 3}
@@ -16374,8 +16589,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6605dce9f9b9956448729fda88499e15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GuardTouch
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &846505474 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2705461115413539101, guid: ecfc688227674de42ad9a34edf39f3ac, type: 3}
@@ -16889,7 +17107,11 @@ PrefabInstance:
     serializedVersion: 3
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 267588411}
+=======
+    m_TransformParent: {fileID: 0}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
@@ -16904,6 +17126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
       propertyPath: m_LocalPosition.z
+<<<<<<< HEAD
 <<<<<<< HEAD
       value: -53.69
 =======
@@ -16921,6 +17144,9 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -51.85
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
+=======
+      value: -51.85
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
       value: -51.85
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
@@ -17109,6 +17335,7 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &880503518 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
@@ -17145,6 +17372,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -7513367144353359745, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &880932021
@@ -18435,6 +18664,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &918114012
 =======
 --- !u!1 &917645117 stripped
@@ -18475,6 +18705,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &918772400
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18962,8 +19194,11 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &977609432
 =======
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &984045492 stripped
@@ -18972,6 +19207,7 @@ GameObject:
   m_PrefabInstance: {fileID: 1540923574}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &984045496
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
@@ -18984,11 +19220,14 @@ GameObject:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18999,6 +19238,9 @@ MeshCollider:
 =======
   m_GameObject: {fileID: 975842240}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 984045492}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
   m_GameObject: {fileID: 984045492}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
@@ -19016,6 +19258,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19287,6 +19530,9 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &991264726
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19824,6 +20070,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &1019729988 stripped
@@ -19880,6 +20127,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1027673214 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -19910,6 +20159,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -19917,6 +20167,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1032339785
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20508,6 +20760,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1063725530
 =======
 --- !u!1 &1066562043 stripped
@@ -20518,12 +20771,17 @@ GameObject:
 --- !u!64 &1066562047
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1071218925 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1920939218}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1071218929
+<<<<<<< HEAD
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20531,7 +20789,11 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1066562043}
+=======
+  m_GameObject: {fileID: 1071218925}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
   m_GameObject: {fileID: 1071218925}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
@@ -20549,6 +20811,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Mesh: {fileID: -7396129288610326617, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
@@ -20603,6 +20866,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!64 &1071595705
 MeshCollider:
@@ -20736,6 +21001,7 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -2088970726989647527, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!4 &1086738093 stripped
 Transform:
@@ -20743,6 +21009,8 @@ Transform:
   m_PrefabInstance: {fileID: 1727354567}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1089389568
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20845,8 +21113,11 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1096641093
 =======
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1096948605 stripped
@@ -20855,6 +21126,7 @@ GameObject:
   m_PrefabInstance: {fileID: 1861373357}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1096948609
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
@@ -20867,11 +21139,14 @@ GameObject:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20882,6 +21157,9 @@ MeshCollider:
 =======
   m_GameObject: {fileID: 1095988953}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 1096948605}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
   m_GameObject: {fileID: 1096948605}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
@@ -20899,6 +21177,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20941,6 +21220,9 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1102277612
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21015,6 +21297,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1110583130
 =======
 --- !u!1 &1111971580 stripped
@@ -21051,6 +21334,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -2865104911859505335, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1117281334 stripped
@@ -22301,6 +22586,9 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1176663029 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -22328,8 +22616,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1179169211
 GameObject:
   m_ObjectHideFlags: 0
@@ -22554,6 +22845,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1190433419
 =======
 --- !u!1 &1195186124 stripped
@@ -22616,6 +22908,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1196183331
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22895,6 +23189,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_Mesh: {fileID: 6055277006425145491, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 --- !u!1 &1198724237 stripped
@@ -22924,6 +23219,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!1001 &1204231755
 PrefabInstance:
@@ -23080,6 +23377,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8393883867462108715, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23270,6 +23568,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1217441753
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23428,6 +23728,7 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c9ea39c72682d64a80fdc2462e3ece1, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!64 &1221192136
 MeshCollider:
@@ -23452,6 +23753,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -2088970726989647527, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1222824831
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23587,6 +23890,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: -257278029260952120, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 --- !u!64 &1220572293
 =======
@@ -23601,6 +23905,8 @@ GameObject:
 =======
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: 0}
 --- !u!1 &1223378558 stripped
 GameObject:
@@ -23608,6 +23914,7 @@ GameObject:
   m_PrefabInstance: {fileID: 1540923574}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1223378562
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
@@ -23655,6 +23962,8 @@ GameObject:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -23676,10 +23985,13 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!1 &1223879638 stripped
 GameObject:
@@ -24221,6 +24533,9 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1272350486 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -24248,8 +24563,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1280680214 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -25021,6 +25339,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1302348150
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25453,6 +25772,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1310005209
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -25854,6 +26175,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &1319565282 stripped
@@ -25886,6 +26208,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1320014361
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -25910,9 +26234,12 @@ MeshCollider:
   m_Mesh: {fileID: -1955250334344427881, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1326065552
@@ -25937,6 +26264,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -924150478991432722, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -26025,6 +26353,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1333476940 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6763858364670572316, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -26105,6 +26435,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -26112,6 +26443,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1337755617 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -26139,6 +26472,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -26176,6 +26510,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1341251851
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -26486,6 +26822,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1354530362
 =======
 --- !u!1 &1352010607 stripped
@@ -26656,6 +26993,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1370504212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26753,6 +27092,9 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1371614092 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5623969286492013067, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -26780,8 +27122,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1380891319 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4933914631476903451, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -27186,6 +27531,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &1405236914 stripped
@@ -27220,6 +27566,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1405259966 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -27250,6 +27598,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -27257,6 +27606,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1408371038
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27336,6 +27687,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1419904751
 =======
 --- !u!64 &1423556589
@@ -27343,6 +27695,9 @@ MeshCollider:
 =======
 --- !u!64 &1417979209
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+--- !u!64 &1423556589
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 --- !u!64 &1423556589
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
@@ -27354,6 +27709,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1539750287}
 =======
   m_GameObject: {fileID: 100005747}
@@ -27361,6 +27717,9 @@ MeshCollider:
 =======
   m_GameObject: {fileID: 630176356}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+  m_GameObject: {fileID: 100005747}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
   m_GameObject: {fileID: 100005747}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
@@ -27378,6 +27737,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27410,6 +27770,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: 1589274349101557545, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 --- !u!64 &1429651380
 MeshCollider:
@@ -27433,6 +27795,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 5140531814272895464, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -27639,6 +28002,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1436248679 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -27669,6 +28034,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -27676,6 +28042,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1436671608 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4391526179608513852, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -28508,9 +28876,12 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1491074845
@@ -28535,6 +28906,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -924150478991432722, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -28562,6 +28934,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 1353746659569323740, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1494496213 stripped
@@ -28619,6 +28993,9 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -2746142260806068395, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1497353598 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7648502956408741331, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -28646,8 +29023,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1497364994
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28745,6 +29125,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1515711799
 =======
 --- !u!64 &1508401748
@@ -28807,6 +29188,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1518572793
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29020,6 +29403,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -29027,6 +29411,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1527218437 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -29054,6 +29440,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -29118,6 +29505,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1531490248 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9141816029861474070, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -29341,6 +29730,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -29348,6 +29738,8 @@ Transform:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1533265772 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -29375,6 +29767,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -29412,6 +29805,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1534362503
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29535,6 +29930,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5053925668127403250, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -29829,6 +30225,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1540847573 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6217272446109910477, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -30009,6 +30407,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1546165542
 =======
 --- !u!1 &1547246171 stripped
@@ -30045,6 +30444,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -7396129288610326617, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1547590173
@@ -30569,6 +30970,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!64 &1566429893
@@ -30625,6 +31027,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1571006159 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -30652,6 +31056,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -30689,6 +31094,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1575392533 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ecfc688227674de42ad9a34edf39f3ac, type: 3}
@@ -30794,7 +31201,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1579140696
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -30816,6 +31226,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1587577241
 >>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
@@ -30877,6 +31288,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
   m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1594345628 stripped
 GameObject:
@@ -31648,7 +32061,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1637696985
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -31670,6 +32086,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3874432442672741690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1643575317
 >>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
@@ -31693,6 +32110,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3874432442672741690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1646301975 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5981722475187972325, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -31878,6 +32297,7 @@ GameObject:
   m_PrefabInstance: {fileID: 1247350072}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1683137688 stripped
 GameObject:
@@ -31885,6 +32305,8 @@ GameObject:
   m_PrefabInstance: {fileID: 1247350072}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1683137692
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -32294,9 +32716,12 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1688706001 stripped
@@ -32326,6 +32751,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -32358,6 +32784,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -5928785198427282456, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1689717093
@@ -32457,6 +32885,7 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1690903059
 =======
 --- !u!1 &1699253095 stripped
@@ -32466,16 +32895,23 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1699253099
 >>>>>>> parent of 5cc7856 (halo)
+=======
+--- !u!64 &1690903059
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 100005740}
 =======
   m_GameObject: {fileID: 1699253095}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_GameObject: {fileID: 100005740}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -32490,6 +32926,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -32530,6 +32967,9 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -2088970726989647527, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_Mesh: {fileID: -2088970726989647527, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1699253095 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7648502956408741331, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -32559,6 +32999,7 @@ MeshCollider:
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -32567,6 +33008,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1708318446
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32636,7 +33079,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1711762343
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -32658,6 +33104,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1712687945
 >>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
@@ -32681,6 +33128,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1713412260
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -32703,6 +33152,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8330597847695362845, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -32769,6 +33219,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 7807538432633192378, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1720838642 stripped
@@ -32851,6 +33303,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33037,6 +33490,9 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1732263166 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5335380687693457104, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -33557,6 +34013,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1766423037
 =======
 --- !u!1 &1759811129 stripped
@@ -33620,6 +34077,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 1353746659569323740, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1766829342
@@ -34758,6 +35217,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!64 &1787842105
@@ -34787,6 +35247,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1788483423 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -34814,6 +35276,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -34850,6 +35313,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1793129218 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -34877,6 +35342,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35036,6 +35502,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1799351606
 GameObject:
   m_ObjectHideFlags: 0
@@ -35181,6 +35649,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1812269291
 =======
 --- !u!1 &1811187815 stripped
@@ -35268,6 +35737,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1821367495 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 281855664364225751, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -35295,6 +35766,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8552134717624371188, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35361,6 +35833,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1832246826
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36304,6 +36778,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1853157753
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36476,6 +36951,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: 1353746659569323740, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1857118969 stripped
@@ -37018,6 +37495,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -37025,6 +37503,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1889093668 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -37052,6 +37532,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37084,6 +37565,8 @@ MeshCollider:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &1895817508
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -37213,6 +37696,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1908446399
 =======
 --- !u!1 &1906652748 stripped
@@ -37225,6 +37709,8 @@ GameObject:
 =======
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1910565155 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -37232,14 +37718,18 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1910565159
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1906652748}
@@ -37249,6 +37739,9 @@ MeshCollider:
 =======
   m_GameObject: {fileID: 1910565155}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_GameObject: {fileID: 1910565155}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -37263,6 +37756,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37305,6 +37799,8 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -37573,18 +38069,22 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1928479978
 =======
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1935203771 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3173062973112833046, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1222824831}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1935203775
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -37600,11 +38100,14 @@ GameObject:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37622,6 +38125,9 @@ MeshCollider:
 =======
   m_GameObject: {fileID: 1935203771}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_GameObject: {fileID: 1935203771}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -37636,6 +38142,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37700,6 +38207,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   m_Mesh: {fileID: -7798368160509152756, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!64 &1935246716
 MeshCollider:
@@ -37725,6 +38234,7 @@ MeshCollider:
   m_Mesh: {fileID: 7978969065813625844, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
@@ -37733,6 +38243,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -7798368160509152756, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1001 &1936566924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39437,11 +39949,14 @@ Transform:
   m_PrefabInstance: {fileID: 2110422934}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!54 &1986688489 stripped
 Rigidbody:
   m_CorrespondingSourceObject: {fileID: 3646750581906029759, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
   m_PrefabInstance: {fileID: 2110422934}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &1993447253 stripped
@@ -39471,6 +39986,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!64 &2000072901
 MeshCollider:
@@ -39516,6 +40032,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -5928785198427282456, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &2001682543 stripped
@@ -39572,6 +40090,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -39638,6 +40157,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -1770597475651483410, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &2003433800 stripped
@@ -39887,6 +40408,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: 3925360246919112806, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 <<<<<<< HEAD
 =======
@@ -39936,6 +40458,9 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &2031678322
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -40255,6 +40780,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &2078042892
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40427,6 +40953,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -3541629673168548286, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!64 &2086250486
@@ -41319,6 +41847,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2113106620 stripped
 =======
 --- !u!1001 &2114574803
@@ -41476,6 +42005,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 --- !u!1 &2114796408 stripped
@@ -41999,6 +42530,7 @@ SceneRoots:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 525128661}
   - {fileID: 1302348150}
   - {fileID: 272301373}
@@ -42009,6 +42541,8 @@ SceneRoots:
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
   - {fileID: 879084095}
@@ -42022,6 +42556,7 @@ SceneRoots:
   - {fileID: 1778605125}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 458947420}
   - {fileID: 878883835}
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -42033,3 +42568,7 @@ SceneRoots:
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 =======
 >>>>>>> parent of 5cc7856 (halo)
+=======
+  - {fileID: 458947420}
+  - {fileID: 878883835}
+>>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
