@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 using TMPro;
-using UnityEngine.UI;
+using UnityEngine.UIElements;
 
 public class NPCDialogue : MonoBehaviour
 {
@@ -9,7 +9,6 @@ public class NPCDialogue : MonoBehaviour
 <<<<<<< HEAD
 <<<<<<< HEAD
     //UI References
-    [SerializeField] private GameObject Canvas;
     [SerializeField] private GameObject InteractArrow;
     [SerializeField] private TMP_Text speakerText;
     [SerializeField] private TMP_Text dialogueText;
@@ -17,13 +16,20 @@ public class NPCDialogue : MonoBehaviour
 
     //Dialogue content
     [SerializeField] private string[] speaker;
-    [SerializeField][TextArea] private string[] dialogueWords;
-    [SerializeField] private Sprite[] portait;
+    [SerializeField] private string[] dialogueWords;
+    [SerializeField] private Sprite portait;
 
+<<<<<<< HEAD
     private bool dialogueActive;
     private int step;
 =======
     public List<string> DialogueLines = new List<string>();
+=======
+    private void Start()
+    {
+
+    }
+>>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 
     private GameObject DialogueBox;
     private TextMeshProUGUI DialogueText;
@@ -62,25 +68,8 @@ public class NPCDialogue : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && dialogueActive)
-        {
-            if(step >= dialogueWords.Length)
-            {
-                Canvas.SetActive(false);
-                step = 0;
-            }
-            else
-            {
-                Canvas.SetActive(true);
-                speakerText.text = speaker[step];
-                dialogueText.text = dialogueWords[step];
-                portaitImage.sprite = portait[step];
-                step++;
-            }
-            
-        }
-    }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
     private void OnTriggerEnter(Collider other)
 =======
@@ -105,9 +94,10 @@ public class NPCDialogue : MonoBehaviour
             InteractArrow.SetActive(false);
             Canvas.SetActive(false);
         }
+=======
+>>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
     }
 }
-
 
 
 

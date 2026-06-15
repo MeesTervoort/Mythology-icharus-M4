@@ -21,10 +21,14 @@ public class PatrolScript : MonoBehaviour
     [SerializeField] private float losePlayerTime = 3f;
 
     private NavMeshAgent agent;
+<<<<<<< HEAD
     //private Animator animator;
 =======
     public Transform[] waypoints;
 >>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
+=======
+    private Animator animator;
+>>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
     private int currentWaypointIndex = 0;
     private float speed = 2f;
 
@@ -62,7 +66,7 @@ public class PatrolScript : MonoBehaviour
 <<<<<<< HEAD
 <<<<<<< HEAD
         agent = GetComponent<NavMeshAgent>();
-        //animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
     }
 
     private void Start()
@@ -117,6 +121,7 @@ public class PatrolScript : MonoBehaviour
     private void UpdateAnimations()
     {
         var isMoving = agent.velocity.sqrMagnitude > 0.01f;
+<<<<<<< HEAD
         //animator.SetBool("IsWalking", isMoving);
 =======
 >>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
@@ -124,6 +129,9 @@ public class PatrolScript : MonoBehaviour
 >>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
 =======
 >>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
+=======
+        animator.SetBool("IsWalking", isMoving);
+>>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
     }
     private void OnTriggerEnter(Collider other)
     {
