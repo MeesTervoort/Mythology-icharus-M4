@@ -1513,11 +1513,41 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!4 &84184005 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1247350072}
   m_PrefabAsset: {fileID: 0}
+=======
+--- !u!64 &79509616
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539750285}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7238408657503670587, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+--- !u!4 &84184005 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1247350072}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &90301125
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2463,6 +2493,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &121119824 stripped
@@ -2571,6 +2602,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &129516582 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -2600,11 +2633,14 @@ MeshCollider:
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &130910821
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2949,6 +2985,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &162277899
 =======
 --- !u!1 &162556264 stripped
@@ -2987,6 +3024,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &164549721 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2576021064111563508, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -3994,6 +4033,14 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1920939218}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &227037426 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &227037430
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4015,6 +4062,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4055,6 +4103,9 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &234431544 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2178253527174597848, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -4227,6 +4278,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!4 &245413494 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+  m_PrefabInstance: {fileID: 524252400}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &247291645
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291164178}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7798368160509152756, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &255914716 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5623969286492013067, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -4310,8 +4391,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< HEAD
   - {fileID: 725041923}
   - {fileID: 1145146385}
+=======
+>>>>>>> parent of 5cc7856 (halo)
   - {fileID: 957090038}
   - {fileID: 1228720015}
   - {fileID: 1204231756}
@@ -4320,6 +4404,7 @@ Transform:
   - {fileID: 111212236}
   - {fileID: 1315321104}
   - {fileID: 1287971747}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4333,6 +4418,9 @@ Transform:
 =======
   - {fileID: 84184005}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  - {fileID: 84184005}
+>>>>>>> parent of 5cc7856 (halo)
   - {fileID: 339602049}
   - {fileID: 1283983543}
   - {fileID: 899420200}
@@ -4513,6 +4601,36 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &288481149 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &288481153
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 288481149}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &291041905
 =======
 =======
@@ -4864,6 +4982,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!1 &300121018 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2040254050740271484, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -4891,6 +5010,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &303800560
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5012,6 +5133,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Mesh: {fileID: -1955250334344427881, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+<<<<<<< HEAD
 =======
   m_Mesh: {fileID: -8998893779124827485, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 =======
@@ -5047,6 +5169,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -8998893779124827485, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &312168426 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -5076,11 +5200,14 @@ MeshCollider:
   m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &312632964 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4356877828898064976, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -5157,18 +5284,26 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3329902420748629119, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!1 &318470162 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2040254050740271484, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1861373357}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &318470166
+=======
+--- !u!64 &316691729
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 318470162}
+=======
+  m_GameObject: {fileID: 272301384}
+>>>>>>> parent of 5cc7856 (halo)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -5183,7 +5318,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+=======
+  m_Mesh: {fileID: 1192423352174412749, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &320012169 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6544207043104339812, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -5214,11 +5353,14 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &320328151 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 26844662620191305, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -5246,6 +5388,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3874432442672741690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -5280,6 +5423,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &327375794
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6289,6 +6434,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &361153580 stripped
@@ -6321,6 +6467,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &361635205 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -6350,11 +6498,14 @@ MeshCollider:
   m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &363758391 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -6407,6 +6558,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &367451272 stripped
@@ -6439,6 +6591,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &367820051 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5623969286492013067, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -6468,11 +6622,14 @@ MeshCollider:
   m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &370488751 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4933914631476903451, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -6635,18 +6792,31 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -3537709356157935800, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
 --- !u!1 &379162848 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1145146384}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &379162852
+=======
+--- !u!1 &380479745 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8947803200616961874, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &380479749
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 379162848}
+=======
+  m_GameObject: {fileID: 380479745}
+>>>>>>> parent of 5cc7856 (halo)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -6661,6 +6831,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!1 &380479745 stripped
 GameObject:
@@ -6688,6 +6859,8 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+=======
+>>>>>>> parent of 5cc7856 (halo)
   m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!1 &383582838 stripped
 GameObject:
@@ -8793,6 +8966,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
   m_PrefabInstance: {fileID: 2111957847}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!64 &456863794
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8821,6 +8995,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &458947420
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9360,6 +9536,155 @@ GameObject:
 --- !u!64 &491537641
 MeshCollider:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 267588411}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.253267
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -100.9
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 43.09
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00000004470348
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8604321314202381195, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -6093592463355912122, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -4375488822868083662, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -47.416
+      objectReference: {fileID: 0}
+    - target: {fileID: -4375488822868083662, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.663
+      objectReference: {fileID: 0}
+    - target: {fileID: -4253290534349801166, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -3784592932490300619, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -3608340210879303276, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -1806680513116206669, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -1120989108687609925, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -859728192063803928, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -804731622281664130, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -678588488315902003, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: -100168241753272476, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: 919132149155446097, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: m_Name
+      value: huis3 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1192040053619798532, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: 3540711129706331577, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: 3693311584976698943, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: 3789516760185670988, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: 5401280008487056880, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: 6103075041998876539, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    - target: {fileID: 6745302439343835087, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 38631695ad8afbd418d7a4ebfbc25bfc, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+--- !u!1 &491537637 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1540923574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &491537641
+MeshCollider:
+  m_ObjectHideFlags: 0
+>>>>>>> parent of 5cc7856 (halo)
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9379,6 +9704,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!64 &492885576
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9401,6 +9727,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4277242549075389340, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &494877469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10880,13 +11208,18 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4493585093827132993, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
---- !u!64 &529293313
+--- !u!1 &527914862 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &527914866
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 581985461}
+  m_GameObject: {fileID: 527914862}
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -10901,6 +11234,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: 6055277006425145491, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 =======
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -10911,6 +11245,9 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &543783562
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11030,6 +11367,36 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
+=======
+  m_Mesh: {fileID: 7978969065813625844, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+--- !u!1 &550384161 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1540923574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &550384165
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 550384161}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+>>>>>>> parent of 5cc7856 (halo)
   m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!64 &550809766
 MeshCollider:
@@ -11575,6 +11942,36 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!4 &579683721 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+  m_PrefabInstance: {fileID: 502420315}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &580899596
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291164180}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3688387683569199778, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &586502176
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11975,6 +12372,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &602748993
 =======
 --- !u!64 &600260400
@@ -12008,6 +12406,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &606427279
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13707,6 +14107,7 @@ MeshCollider:
   m_CookingOptions: 30
 <<<<<<< HEAD
   m_Mesh: {fileID: 0}
+<<<<<<< HEAD
 --- !u!64 &701442529
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13736,6 +14137,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &711592288 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8826385435969320149, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -13766,6 +14169,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!64 &719682639
@@ -13793,6 +14197,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &722256503 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -13822,11 +14228,14 @@ MeshCollider:
   m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &722451597 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -14056,6 +14465,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &734171092
 =======
 --- !u!1 &733502809 stripped
@@ -14094,6 +14504,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &734461043 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -208595431880416365, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -14148,6 +14560,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1879900250216117662, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14303,6 +14716,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &739268799 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -14332,11 +14747,14 @@ MeshCollider:
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &739547153
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15480,6 +15898,31 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -153830957423991239, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!64 &802931893
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291164185}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6055277006425145491, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &807007476
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15897,6 +16340,7 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 835405744}
   m_SourcePrefab: {fileID: 100100000, guid: 2004fedb3fb029a429b1cbdcf9569f67, type: 3}
+<<<<<<< HEAD
 --- !u!1 &835405737 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8403869422011412883, guid: 2004fedb3fb029a429b1cbdcf9569f67, type: 3}
@@ -15930,6 +16374,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6605dce9f9b9956448729fda88499e15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GuardTouch
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &846505474 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2705461115413539101, guid: ecfc688227674de42ad9a34edf39f3ac, type: 3}
@@ -17988,6 +18434,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &918114012
 =======
 --- !u!1 &917645117 stripped
@@ -18026,6 +18473,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &918772400
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18571,6 +19020,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Mesh: {fileID: 1192423352174412749, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+<<<<<<< HEAD
 =======
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -18630,6 +19080,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8777160440245519021, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &984045492 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7648502956408741331, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -18657,6 +19109,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!64 &988020106
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18832,6 +19285,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &991264726
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19368,6 +19823,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &1019729988 stripped
@@ -19422,6 +19878,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1027673214 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -19451,11 +19909,14 @@ MeshCollider:
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1032339785
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20108,6 +20569,14 @@ GameObject:
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &1071218925 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3756473180518285571, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1920939218}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1071218929
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20129,8 +20598,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
   m_Mesh: {fileID: 8314571269056883277, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!64 &1071595705
 MeshCollider:
@@ -20263,6 +20735,14 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2088970726989647527, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!4 &1086738093 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+  m_PrefabInstance: {fileID: 1727354567}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1089389568
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20364,6 +20844,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1096641093
 =======
 =======
@@ -20458,6 +20939,8 @@ MeshCollider:
 =======
   m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1102277612
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21817,6 +22300,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1176663029 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -21844,6 +22328,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1179169211
 GameObject:
   m_ObjectHideFlags: 0
@@ -22067,6 +22553,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1190433419
 =======
 --- !u!1 &1195186124 stripped
@@ -22127,6 +22614,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &1196183331
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22405,6 +22894,36 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
+=======
+  m_Mesh: {fileID: 6055277006425145491, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+--- !u!1 &1198724237 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1247350072}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1198724241
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1198724237}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+>>>>>>> parent of 5cc7856 (halo)
   m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!1001 &1204231755
 PrefabInstance:
@@ -22908,6 +23427,31 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c9ea39c72682d64a80fdc2462e3ece1, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!64 &1221192136
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1302348156}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2088970726989647527, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &1222824831
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23042,6 +23586,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: -257278029260952120, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 --- !u!64 &1220572293
 =======
@@ -23054,6 +23599,8 @@ GameObject:
 --- !u!64 &1223059859
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
+=======
+>>>>>>> parent of 5cc7856 (halo)
   m_Mesh: {fileID: 0}
 --- !u!1 &1223378558 stripped
 GameObject:
@@ -23061,6 +23608,7 @@ GameObject:
   m_PrefabInstance: {fileID: 1540923574}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1223378562
+<<<<<<< HEAD
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -23105,6 +23653,8 @@ GameObject:
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -23125,8 +23675,11 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
   m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!1 &1223879638 stripped
 GameObject:
@@ -23667,6 +24220,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1272350486 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -23694,6 +24248,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1280680214 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -25437,6 +25993,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1026995632136015755, guid: 5a8b33698fa8a2a41b051731e320532e, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1331751756
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -25466,6 +26023,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1333476940 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6763858364670572316, guid: 3e2ad4b4f70437a4bb59d42e0b88711c, type: 3}
@@ -25545,11 +26104,14 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1337755617 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -25577,6 +26139,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -25611,6 +26174,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1341251851
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -25920,6 +26485,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1354530362
 =======
 --- !u!1 &1352010607 stripped
@@ -26088,6 +26654,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &1370504212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26184,6 +26752,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1371614092 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5623969286492013067, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -26211,6 +26780,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1380891319 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4933914631476903451, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -26614,6 +27185,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!1 &1405236914 stripped
@@ -26646,6 +27218,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1405259966 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -26675,11 +27249,14 @@ MeshCollider:
   m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1408371038
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -26805,6 +27382,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Mesh: {fileID: 2205851368675907929, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+<<<<<<< HEAD
 =======
 =======
   m_Mesh: {fileID: -3541629673168548286, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
@@ -27059,6 +27637,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1436248679 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7515429101286732190, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -27088,11 +27668,14 @@ MeshCollider:
   m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1436671608 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4391526179608513852, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -28035,6 +28618,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2746142260806068395, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1497353598 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7648502956408741331, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -28062,6 +28646,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1497364994
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28158,6 +28744,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1515711799
 =======
 --- !u!64 &1508401748
@@ -28218,6 +28805,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &1518572793
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28430,11 +29019,14 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1527218437 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6953967006396375246, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -28462,6 +29054,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -554992355478085690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -28523,6 +29116,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1531490248 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9141816029861474070, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -28745,11 +29340,14 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1533265772 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -28777,6 +29375,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -28811,6 +29410,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &1534362503
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29967,6 +30568,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!64 &1566429893
@@ -30021,6 +30623,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1571006159 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -30048,6 +30652,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -30082,6 +30687,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1575392533 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ecfc688227674de42ad9a34edf39f3ac, type: 3}
@@ -30186,6 +30793,31 @@ GameObject:
   m_PrefabInstance: {fileID: 1540923574}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1579140696
+<<<<<<< HEAD
+=======
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579140692}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -257278029260952120, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+--- !u!64 &1587577241
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -31015,6 +31647,31 @@ GameObject:
   m_PrefabInstance: {fileID: 1920939218}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1637696985
+<<<<<<< HEAD
+=======
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1637696981}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3874432442672741690, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+--- !u!64 &1643575317
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -31220,6 +31877,14 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: -3173062973112833046, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1247350072}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &1683137688 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3173062973112833046, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1247350072}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1683137692
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -31791,13 +32456,26 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1550514412580984892, guid: 34540e698c2b89c4484c5e67d7653e43, type: 3}
+<<<<<<< HEAD
 --- !u!64 &1690903059
+=======
+--- !u!1 &1699253095 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7648502956408741331, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1699253099
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 100005740}
+=======
+  m_GameObject: {fileID: 1699253095}
+>>>>>>> parent of 5cc7856 (halo)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -31812,6 +32490,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -31885,6 +32564,9 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_Mesh: {fileID: 3925360246919112806, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &1708318446
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31953,6 +32635,31 @@ GameObject:
   m_PrefabInstance: {fileID: 1540923574}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1711762343
+<<<<<<< HEAD
+=======
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1711762339}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -8003059199577345462, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+--- !u!64 &1712687945
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -32147,6 +32854,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: -7798368160509152756, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
 =======
   m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -32184,6 +32892,151 @@ MeshCollider:
 =======
   m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_Mesh: {fileID: 2205851368675907929, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+--- !u!1001 &1727354567
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 267588411}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.41
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -101.71
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -39.99
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.18179196
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.98333704
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -200.948
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8604321314202381195, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -7664728788398519507, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -5363424281805771908, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -4791300549530949414, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -4665567867290727090, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -4253290534349801166, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -3784592932490300619, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -1806680513116206669, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -654411453731296898, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: -100168241753272476, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 919132149155446097, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: m_Name
+      value: house2 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1192040053619798532, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 2329223404933081274, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 3540711129706331577, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 3789516760185670988, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 4321514657177891973, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 5401280008487056880, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 5735063596664806891, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 6103075041998876539, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 6745302439343835087, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    - target: {fileID: 8567717000986892130, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8fb6460032733234fa383d4d3197f890, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 4184237605492049976, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e6fbf1be226a9649b333befe25796c8, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1732263166 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5335380687693457104, guid: 3d17b196a02c88b4d97970af4d0baaed, type: 3}
@@ -33904,6 +34757,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 --- !u!64 &1787842105
@@ -33931,6 +34785,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1788483423 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2787153014208329535, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -33958,6 +34814,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238408657503670587, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -33991,6 +34848,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1793129218 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -652209905907201759, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -34018,6 +34877,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 6055277006425145491, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
@@ -34174,6 +35034,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1799351606
 GameObject:
   m_ObjectHideFlags: 0
@@ -34436,6 +35298,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1828143196
 =======
 --- !u!1 &1822034359 stripped
@@ -34496,6 +35359,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &1832246826
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36152,11 +37017,14 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1889093668 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5233112405309087440, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
@@ -36186,6 +37054,7 @@ MeshCollider:
   m_Mesh: {fileID: -2124705421725058983, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
 --- !u!64 &1891475765
@@ -36213,6 +37082,8 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1895817508
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -36341,6 +37212,7 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1908446399
 =======
 --- !u!1 &1906652748 stripped
@@ -36351,23 +37223,32 @@ GameObject:
 --- !u!64 &1906652752
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1910565155 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7481667555096229618, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1222824831}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1910565159
+<<<<<<< HEAD
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1906652748}
 =======
   m_GameObject: {fileID: 1910565155}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_GameObject: {fileID: 1910565155}
+>>>>>>> parent of 5cc7856 (halo)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -36384,7 +37265,11 @@ MeshCollider:
   m_CookingOptions: 30
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: 0}
+=======
+  m_Mesh: {fileID: 3688387683569199778, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &1916968607
 =======
 =======
@@ -36687,16 +37572,20 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &1928479978
 =======
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1 &1935203771 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3173062973112833046, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
   m_PrefabInstance: {fileID: 1222824831}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1935203775
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
@@ -36709,11 +37598,14 @@ GameObject:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -36727,6 +37619,9 @@ MeshCollider:
 =======
   m_GameObject: {fileID: 1935203771}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_GameObject: {fileID: 1935203771}
+>>>>>>> parent of 5cc7856 (halo)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -36741,6 +37636,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -36834,6 +37730,9 @@ MeshCollider:
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_Mesh: {fileID: -7798368160509152756, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!1001 &1936566924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38989,18 +39888,31 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Mesh: {fileID: 3925360246919112806, guid: bb0dfb6e8c88a3b4fa3d8fab6953fbd0, type: 3}
+<<<<<<< HEAD
 =======
   m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal)
 =======
   m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 --- !u!64 &2028173823
+=======
+--- !u!1 &2024771690 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2040254050740271484, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+  m_PrefabInstance: {fileID: 1222824831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &2024771694
+>>>>>>> parent of 5cc7856 (halo)
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 405113033}
+=======
+  m_GameObject: {fileID: 2024771690}
+>>>>>>> parent of 5cc7856 (halo)
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -39015,11 +39927,15 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< HEAD
   m_Mesh: {fileID: -7396129288610326617, guid: e06807bab8423b64aa7de27ff4acc38b, type: 3}
 >>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
 =======
   m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+  m_Mesh: {fileID: -7771613508976059695, guid: f2b053b7e3413f245abff7e1150e350b, type: 3}
+>>>>>>> parent of 5cc7856 (halo)
 --- !u!64 &2031678322
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -41087,10 +42003,8 @@ SceneRoots:
   - {fileID: 1302348150}
   - {fileID: 272301373}
   - {fileID: 1539750280}
-  - {fileID: 581985450}
-  - {fileID: 1255182038}
-  - {fileID: 1542583292}
   - {fileID: 1291164174}
+<<<<<<< HEAD
   - {fileID: 1220572276}
 =======
 =======
@@ -41117,3 +42031,5 @@ SceneRoots:
   - {fileID: 458947420}
   - {fileID: 878883835}
 >>>>>>> parent of 03e0d51 (Merge branch 'ValerieK' into Development)
+=======
+>>>>>>> parent of 5cc7856 (halo)
