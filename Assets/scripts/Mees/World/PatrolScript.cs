@@ -6,6 +6,7 @@ public class PatrolScript : MonoBehaviour
 {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     [Header("references")]
     [SerializeField] private Transform Player;
@@ -30,12 +31,23 @@ public class PatrolScript : MonoBehaviour
     private float waitTimer = 0f;
     private bool waiting = false;
 
+=======
+    public Transform[] waypoints;
+    private int currentWaypointIndex = 0;
+    private float speed = 2f;
+
+    private float waitTime = 1f;
+    private float waitTimer = 0f;
+    private bool waiting = false;
+
+>>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
     private bool playerSpotted = false;
     [SerializeField] Vector3 Player;
 
 
     void Update()
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
         agent = GetComponent<NavMeshAgent>();
         //animator = GetComponent<Animator>();
@@ -51,6 +63,9 @@ public class PatrolScript : MonoBehaviour
         var distanceToPlayer = Vector3.Distance(Player.position, transform.position);
 
         switch (state)
+=======
+        if (playerSpotted == false)
+>>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
 =======
         if (playerSpotted == false)
 >>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
@@ -82,10 +97,13 @@ public class PatrolScript : MonoBehaviour
         
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     private void UpdateAnimations()
     {
         var isMoving = agent.velocity.sqrMagnitude > 0.01f;
         //animator.SetBool("IsWalking", isMoving);
+=======
+>>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
 =======
 >>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
     }
