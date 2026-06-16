@@ -1,7 +1,12 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Prefabs_mees/PatrolEnemy.prefab.meta
+guid: 3505c278f941d6546aca85f416414182
+PrefabImporter:
+=======
 guid: 178a882d2db9b46409c561a75a18c70f
 folderAsset: yes
 DefaultImporter:
+>>>>>>> parent of 3c7fa75 (Merge branch 'Valerie' into Pascal):Assets/Materials/Linda.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
