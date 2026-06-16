@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "myth pascal last working.slnx"
+    "dotnet.defaultSolution": "Mythology-icharus-M4.slnx"
 }
