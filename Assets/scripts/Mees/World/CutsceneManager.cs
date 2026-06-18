@@ -1,16 +1,29 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CutsceneManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    [SerializeField] private GameObject Canvas;
+    [SerializeField] private Image Image;
 
-    // Update is called once per frame
+    [SerializeField] private Sprite[] CutsceneImage;
+    private int step;
+
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (step >= CutsceneImage.Length)
+            {
+                UnityEngine.SceneManagement.SceneManager.LoadScene("main");
+                step = 0;
+            }
+            else
+            {
+                Canvas.SetActive(true);
+                Image.sprite = CutsceneImage[step];
+                step++;
+            }
+        }
     }
 }
