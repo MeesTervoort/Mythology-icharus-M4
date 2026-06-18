@@ -21,36 +21,30 @@ public class NPCDialogue : MonoBehaviour
     private bool dialogueActive;
     private int step;
 
-    public List<string> DialogueLines = new List<string>();
-
-    private GameObject DialogueBox;
-    private TextMeshProUGUI DialogueText;
-    public GameObject InteractArrow;
-
-    private int currentline = 0;
-    private bool playerInRange = false;
-    private bool talking = false;
-
-    void Start()
+    private void Start()
     {
-        DialogueBox = GameObject.FindWithTag("DialogueBox");
-        DialogueText = GameObject.FindWithTag("DialogueText").GetComponent<TextMeshProUGUI>();
-        DialogueBox.SetActive(false);
-
-    }
-
-    private void OnTriggerEnter(Collider other)
-    {
-
+        Canvas.SetActive(false);
+        step = 0;
     }
 
     void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E) && dialogueActive == true)
+        {
+            Canvas.SetActive(true);
+            speakerText.text = speaker[step];
+            dialogueText.text = dialogueWords[step];
+            portaitImage.sprite = portait[step];
+            step++;
+        }
+    }
 
+    private void OnTriggerEnter(UnityEngine.Collider other)
     {
         if (other.gameObject.tag == "Player")
         {
-            InteractArrow.SetActive(true);
             dialogueActive = true;
+            InteractArrow.SetActive(true);
         }
     }
 
