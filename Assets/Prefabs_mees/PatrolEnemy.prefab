@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 7395265005180291289}
   - component: {fileID: 2148828856910781328}
   - component: {fileID: 3373721701444766290}
-  - component: {fileID: 2792624974016613953}
+  - component: {fileID: 4309696723551039239}
+  - component: {fileID: 7574655369568368419}
   m_Layer: 0
   m_Name: PatrolEnemy
   m_TagString: Untagged
@@ -156,29 +157,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 86e22084aca767a47a9c749e21211d48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PatrolScript
+  Player: {fileID: 0}
   waypoints:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
---- !u!65 &2792624974016613953
-BoxCollider:
+  patrolWaitTime: 2
+  StopAtDistance: 0.5
+  detectionRange: 5
+  viewAngle: 90
+  losePlayerTime: 3
+--- !u!114 &4309696723551039239
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5597596829900019060}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 6.447066, y: 2, z: 10.532389}
-  m_Center: {x: 0.3580544, y: 0, z: 4.7661943}
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6605dce9f9b9956448729fda88499e15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GuardTouch
+--- !u!195 &7574655369568368419
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5597596829900019060}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 1
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
