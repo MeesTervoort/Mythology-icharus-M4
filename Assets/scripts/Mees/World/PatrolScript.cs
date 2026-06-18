@@ -4,11 +4,6 @@ using System.Collections;
 
 public class PatrolScript : MonoBehaviour
 {
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
     [Header("references")]
     [SerializeField] private Transform Player;
     [SerializeField] private Transform[] waypoints;
@@ -20,74 +15,35 @@ public class PatrolScript : MonoBehaviour
     [SerializeField] private float viewAngle = 90f;
     [SerializeField] private float losePlayerTime = 3f;
 
-    private NavMeshAgent agent;
-<<<<<<< HEAD
-    //private Animator animator;
-=======
-    public Transform[] waypoints;
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
-=======
+    private UnityEngine.AI.NavMeshAgent agent;
+
+
     private Animator animator;
->>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+
     private int currentWaypointIndex = 0;
     private float speed = 2f;
 
     private float waitTime = 1f;
     private float waitTimer = 0f;
     private bool waiting = false;
-
-=======
-    public Transform[] waypoints;
-    private int currentWaypointIndex = 0;
-    private float speed = 2f;
-
-    private float waitTime = 1f;
-    private float waitTimer = 0f;
-    private bool waiting = false;
-
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
-=======
-    public Transform[] waypoints;
-    private int currentWaypointIndex = 0;
-    private float speed = 2f;
-
-    private float waitTime = 1f;
-    private float waitTimer = 0f;
-    private bool waiting = false;
-
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
     private bool playerSpotted = false;
-    [SerializeField] Vector3 Player;
+    private float losePlayerTimer = 0f;
 
-
-    void Update()
-    {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-        agent = GetComponent<NavMeshAgent>();
-        animator = GetComponent<Animator>();
-    }
 
     private void Start()
     {
-        GoToNextWayPoint();
+        agent = GetComponent<UnityEngine.AI.NavMeshAgent>();
+        animator = GetComponent<Animator>();
+        //GoToNextWayPoint();
     }
 
     private void Update()
     {
         var distanceToPlayer = Vector3.Distance(Player.position, transform.position);
 
-        switch (state)
-=======
+        
+
         if (playerSpotted == false)
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
-=======
-        if (playerSpotted == false)
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
-=======
-        if (playerSpotted == false)
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
         {
             if (waiting)
             {
@@ -112,33 +68,24 @@ public class PatrolScript : MonoBehaviour
             }
         }
 
-        
+    }
         
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     private void UpdateAnimations()
     {
         var isMoving = agent.velocity.sqrMagnitude > 0.01f;
-<<<<<<< HEAD
-        //animator.SetBool("IsWalking", isMoving);
-=======
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
-=======
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
-=======
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
-=======
+
+
         animator.SetBool("IsWalking", isMoving);
->>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
+
     }
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
         {
             playerSpotted = true;
-            transform.position = Vector3.MoveTowards(transform.position, Player, speed * Time.deltaTime);
+            transform.position = Vector3.MoveTowards(transform.position, Player.position, speed * Time.deltaTime);
         }
 
     }
