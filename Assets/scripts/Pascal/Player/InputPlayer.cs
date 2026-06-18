@@ -35,11 +35,6 @@ public class InputPlayer : MonoBehaviour
         map.Disable();
     }
 
-    void Start()
-    {
-        
-    }
-
     void Update()
     {
 
