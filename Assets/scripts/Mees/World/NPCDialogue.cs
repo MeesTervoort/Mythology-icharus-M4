@@ -31,11 +31,19 @@ public class NPCDialogue : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E) && dialogueActive == true)
         {
-            Canvas.SetActive(true);
-            speakerText.text = speaker[step];
-            dialogueText.text = dialogueWords[step];
-            portaitImage.sprite = portait[step];
-            step++;
+            if (step >= speaker.Length)
+            {
+                Canvas.SetActive(false);
+                step = 0;
+            }
+            else
+            {
+                Canvas.SetActive(true);
+                speakerText.text = speaker[step];
+                dialogueText.text = dialogueWords[step];
+                portaitImage.sprite = portait[step];
+                step += 1;
+            }
         }
     }
 
