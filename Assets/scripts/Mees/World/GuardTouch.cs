@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class GuardTouch : MonoBehaviour
 {
+<<<<<<< HEAD
     void Start()
     {
 
@@ -13,6 +14,8 @@ public class GuardTouch : MonoBehaviour
 
     }
 
+=======
+>>>>>>> Development
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Player"))
@@ -28,7 +31,12 @@ public class GuardTouch : MonoBehaviour
 
     public void Die()
     {
+<<<<<<< HEAD
         SceneManager.LoadScene("DeathScreen");
+=======
+        UnityEngine.SceneManagement.SceneManager.LoadScene("DeathScreen");
+        //UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
+>>>>>>> Development
     }
 }
 
