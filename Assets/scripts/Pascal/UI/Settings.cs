@@ -1,11 +1,11 @@
 using UnityEngine;
 
-public class Settings : MonoBehaviour
+public class Setting : MonoBehaviour
 {
+    
     public GameObject container;
     void Start()
     {
-        Time.timeScale = 0f;
         container.SetActive(false);
     }
 
@@ -15,23 +15,34 @@ public class Settings : MonoBehaviour
         
     }
 
+    public void EnterButton()
+    {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+        container.SetActive(true);
+        Time.timeScale = 0f;
+    }
+
     public void ExitButton()
     {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         container.SetActive(false);
         Time.timeScale = 1f;
-        Cursor.visible = false;
     }
     public void BrightnessButton()
     {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         container.SetActive(false);
         Time.timeScale = 1f;
-        Cursor.visible = false;
     }
     public void VolumeButton()
     {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         container.SetActive(false);
         Time.timeScale = 1f;
-        Cursor.visible = false;
     }
-
+    
 }
