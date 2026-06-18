@@ -1,42 +1,33 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
-    [SerializeField]private InputActionAsset inputAsset;
+    [SerializeField]private InputActionAsset input;
     [SerializeField]private string actionMapName = "Player";
     [SerializeField] public static float WalkSpeed = 5f;
-    [SerializeField] private float rotationSpeed = 150f;
+    [SerializeField] private float turnSpeed = 150f;
     [SerializeField] public static float jumpForce = 5f;
-    [SerializeField] public float gravity = -20f;
 
 
     private InputAction moveAction;
     private InputAction jumpAction;
     private InputAction sprintAction;
-
-    private CharacterController characterController;
-    private Animator animator;
     private InputActionMap map; 
-    private float verticalVelocity;
 
-    public Image healthBar;
-    public static int Feathers = 0;
+    private Rigidbody rb;
+    private bool isGrounded = false;
+    
     public static int Coins = 0;
     public static int Health = 10;
-    public static int Strength = 5;
 
     private void Awake()
     {
-        characterController = GetComponent<CharacterController>();
-        animator = GetComponentInChildren<Animator>();
-
-        map = inputAsset.FindActionMap(actionMapName);
+        map = input.FindActionMap(actionMapName);
         moveAction = map.FindAction("Move");
         jumpAction = map.FindAction("Jump");
         sprintAction = map.FindAction("Sprint");
-        //rb = GetComponent<Rigidbody>();
+        rb = GetComponent<Rigidbody>();
     }
 
     void OnEnable()
@@ -57,49 +48,59 @@ public class Player : MonoBehaviour
     void Update()
     {
 
-        Vector2 movementInput = moveAction.ReadValue<Vector2>();
+        Vector2 moveInput = moveAction.ReadValue<Vector2>();
 
          //bepalen wat de snelheid is
-        float speed =  movementInput.y * WalkSpeed;
+        float speed = WalkSpeed * moveInput.y;
 
         //sprinten
         if (sprintAction.IsPressed())
             speed *= 2f;
 
         //bewegen van de speler
-        Vector3 move = transform.forward * speed * Time.deltaTime;
+        Vector3 movement = transform.forward * speed * Time.deltaTime;
+        transform.Translate(movement, Space.World);
 
         //draaien van de speler
-         transform.Rotate(Vector3.up * movementInput.x * rotationSpeed * Time.deltaTime);
+        float angle = moveInput.x * turnSpeed * Time.deltaTime;
+        transform.Rotate(0f, angle, 0f, Space.World);
 
-        
-        // Springen Zwaartekracht toepassen
-        if (characterController.isGrounded)
-        {
-            verticalVelocity = -10f; // kleine downward force om grounded te blijven
 
-            if (jumpAction.WasPressedThisFrame())
-            {
-                // Sprong-formule: v = sqrt(2 * |g| * h)
-                verticalVelocity = Mathf.Sqrt(2f * Mathf.Abs(gravity) * jumpForce);
-                animator.SetTrigger("Jumptrigger");
-                Debug.Log("Jump!");
-            }
-        }
-        else
+        // Springen
+        if (jumpAction.WasPressedThisFrame() && isGrounded)
         {
-            // Niet op de grond: zwaartekracht toepassen
-            verticalVelocity += gravity * Time.deltaTime;
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            isGrounded = false;
         }
 
-        move.y = verticalVelocity * Time.deltaTime;
 
-        healthBar.fillAmount = Health / 10f;
+        Vector2 JoystickInput = moveAction.ReadValue<Vector2>();
+        Debug.Log("Move: " + JoystickInput.x);
+        Debug.Log("Move: " + JoystickInput.y);
 
-        characterController.Move(move);
-
-        animator.SetFloat("speed", speed);
-        animator.SetBool("IsGrounded", characterController.isGrounded);
+        if(jumpAction.WasPressedThisFrame())
+        {
+            Debug.Log("Jump!");
+        }
+        if(jumpAction.WasReleasedThisFrame())
+        {
+            Debug.Log("Stop Jumping!");
+        }
+        if(sprintAction.IsInProgress())
+        {
+            Debug.Log("Sprint holding");
+        }
     }
 
+    void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+            isGrounded = true;
+    }
+
+    void OnCollisionExit(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+            isGrounded = false;
+    }
 }
