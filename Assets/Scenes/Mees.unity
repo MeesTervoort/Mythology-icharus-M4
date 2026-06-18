@@ -193,11 +193,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4976767106935774103, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}
   m_PrefabInstance: {fileID: 613745826}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &235611245 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7586630560027081578, guid: 9c9ea39c72682d64a80fdc2462e3ece1, type: 3}
-  m_PrefabInstance: {fileID: 6136781166553728750}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &426834477
 GameObject:
   m_ObjectHideFlags: 0
@@ -1082,7 +1077,7 @@ MonoBehaviour:
   character: {fileID: 5472109408065966455, guid: 0d5fa37ca2f25da4da133489f8476361, type: 3}
   enemy: {fileID: 3532171525363040777, guid: 2004fedb3fb029a429b1cbdcf9569f67, type: 3}
   Rat: {fileID: 5494002314216854063, guid: 999ff7048c8ebef49b2397a96241e8ec, type: 3}
-  WinUI: {fileID: 235611245}
+  WinUI: {fileID: 0}
 --- !u!4 &1019091546
 Transform:
   m_ObjectHideFlags: 0
@@ -2142,7 +2137,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5057786991901578047, guid: 9c9ea39c72682d64a80fdc2462e3ece1, type: 3}
       propertyPath: m_Name
-      value: Canvas
+      value: Dialogue Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 5057786991901578047, guid: 9c9ea39c72682d64a80fdc2462e3ece1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5549550121471053910, guid: 9c9ea39c72682d64a80fdc2462e3ece1, type: 3}
       propertyPath: m_Pivot.x
