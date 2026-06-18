@@ -5,9 +5,6 @@ using UnityEngine.UIElements;
 
 public class NPCDialogue : MonoBehaviour
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     //UI References
     [SerializeField] private GameObject InteractArrow;
     [SerializeField] private TMP_Text speakerText;
@@ -19,38 +16,16 @@ public class NPCDialogue : MonoBehaviour
     [SerializeField] private string[] dialogueWords;
     [SerializeField] private Sprite portait;
 
-<<<<<<< HEAD
+
     private bool dialogueActive;
     private int step;
-=======
-    public List<string> DialogueLines = new List<string>();
-=======
-    private void Start()
-    {
 
-    }
->>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
-
-    private GameObject DialogueBox;
-    private TextMeshProUGUI DialogueText;
-    public GameObject InteractArrow;
-
-=======
     public List<string> DialogueLines = new List<string>();
 
     private GameObject DialogueBox;
     private TextMeshProUGUI DialogueText;
     public GameObject InteractArrow;
 
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
-=======
-    public List<string> DialogueLines = new List<string>();
-
-    private GameObject DialogueBox;
-    private TextMeshProUGUI DialogueText;
-    public GameObject InteractArrow;
-
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
     private int currentline = 0;
     private bool playerInRange = false;
     private bool talking = false;
@@ -59,24 +34,17 @@ public class NPCDialogue : MonoBehaviour
     {
         DialogueBox = GameObject.FindWithTag("DialogueBox");
         DialogueText = GameObject.FindWithTag("DialogueText").GetComponent<TextMeshProUGUI>();
-
         DialogueBox.SetActive(false);
-<<<<<<< HEAD
-<<<<<<< HEAD
-    }
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
 
-    void Update()
+    }
+
+    private void OnTriggerEnter(Collider other)
     {
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    private void OnTriggerEnter(Collider other)
-=======
     }
 
     void Update()
->>>>>>> parent of b716d37 (Merge branch 'Mees' into Pascal)
+
     {
         if (other.gameObject.tag == "Player")
         {
@@ -85,7 +53,7 @@ public class NPCDialogue : MonoBehaviour
         }
     }
 
-<<<<<<< HEAD
+
     private void OnTriggerExit(Collider other)
     {
         if (other.gameObject.tag == "Player")
@@ -94,8 +62,6 @@ public class NPCDialogue : MonoBehaviour
             InteractArrow.SetActive(false);
             Canvas.SetActive(false);
         }
-=======
->>>>>>> parent of 34b328b (Merge branch 'Development' into Pascal)
     }
 }
 
