@@ -7,7 +7,7 @@ public class Titlescreen : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        container1.SetActive(false);
     }
 
     // Update is called once per frame
@@ -20,7 +20,7 @@ public class Titlescreen : MonoBehaviour
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Main");
     }
-    public void settings()
+    public void Settings()
     {
         container1.SetActive(true);
         container2.SetActive(false);

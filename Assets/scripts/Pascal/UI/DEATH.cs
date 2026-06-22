@@ -23,6 +23,12 @@ public class DEATH : MonoBehaviour
 
     public void RespawnButton()
     {
+        container.SetActive(false);
+        Time.timeScale = 1f;
         UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name); 
+    }
+    public void exitGame()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("TitleScreen");
     }
 }
