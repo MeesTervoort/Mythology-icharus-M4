@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     [SerializeField] public static float WalkSpeed = 5f;
     [SerializeField] private float turnSpeed = 150f;
     [SerializeField] public static float jumpForce = 5f;
+    [SerializeField] public static float Strength = 5f;
     public UnityEngine.UI.Image healthImage;
 
 
