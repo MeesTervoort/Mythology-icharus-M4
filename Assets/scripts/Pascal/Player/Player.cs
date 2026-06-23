@@ -1,5 +1,7 @@
+using Microsoft.Unity.VisualStudio.Editor;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -8,6 +10,7 @@ public class Player : MonoBehaviour
     [SerializeField] public static float WalkSpeed = 5f;
     [SerializeField] private float turnSpeed = 150f;
     [SerializeField] public static float jumpForce = 5f;
+    public UnityEngine.UI.Image healthImage;
 
 
     private InputAction moveAction;
@@ -90,12 +93,23 @@ public class Player : MonoBehaviour
         {
             Debug.Log("Sprint holding");
         }
+
+        healthImage.fillAmount = Health / 10f;
+
+       
     }
 
     void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
             isGrounded = true;
+
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Health -= 2;
+            Debug.Log("Player Health: " + Health);
+        }
+        
     }
 
     void OnCollisionExit(Collision collision)
