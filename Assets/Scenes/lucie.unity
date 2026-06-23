@@ -1924,7 +1924,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a170188da797f3b458135362cd46d36a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2943896df979f474e8c32fb7394b4e7d, type: 2}
+      objectReference: {fileID: 2100000, guid: 0a4f0ca7a0f7f634ab320b2e8a1d9e3a, type: 2}
     - target: {fileID: 919132149155446097, guid: a170188da797f3b458135362cd46d36a, type: 3}
       propertyPath: m_Name
       value: eiland
