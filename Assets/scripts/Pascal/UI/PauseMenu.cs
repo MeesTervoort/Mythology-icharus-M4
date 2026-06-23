@@ -23,6 +23,6 @@ public class PauseMenu : MonoBehaviour
     public void MainMenuButton()
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("TitleScreen");
-        Time.timeScale = 1f; 
+         
     }
 }
