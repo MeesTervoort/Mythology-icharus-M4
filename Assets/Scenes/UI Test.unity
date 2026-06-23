@@ -343,9 +343,10 @@ GameObject:
   - component: {fileID: 1663088550}
   - component: {fileID: 1663088549}
   - component: {fileID: 1663088548}
+  - component: {fileID: 1663088552}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Enemy
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -365,7 +366,7 @@ CapsuleCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -445,6 +446,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1663088552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1663088547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e2739a1c19ed674098d19c128626245, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CollectScript
+  respawnTime: 3
+  feedbackText: {fileID: 0}
+  coinsText: {fileID: 0}
+  coinsToGive: 1
 --- !u!1 &1911622753
 GameObject:
   m_ObjectHideFlags: 0
@@ -919,7 +936,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1939073674755687164, guid: fed0a6f449a22de42a253bf1dd496d6b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2361226556501905819, guid: fed0a6f449a22de42a253bf1dd496d6b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1079,7 +1096,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8535406604036203217, guid: fed0a6f449a22de42a253bf1dd496d6b, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8922338144669579926, guid: fed0a6f449a22de42a253bf1dd496d6b, type: 3}
       propertyPath: m_Name

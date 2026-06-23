@@ -1746,6 +1746,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Setting
   container: {fileID: 0}
+  container2: {fileID: 0}
 --- !u!1 &3386381506757803413
 GameObject:
   m_ObjectHideFlags: 0
