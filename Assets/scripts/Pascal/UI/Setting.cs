@@ -1,10 +1,11 @@
 using UnityEngine;
 
-public class Setting : MonoBehaviour
+public class Settings : MonoBehaviour
 {
     public GameObject container;
     void Start()
     {
+        Time.timeScale = 0f;
         container.SetActive(false);
     }
 
@@ -14,11 +15,23 @@ public class Setting : MonoBehaviour
         
     }
 
-    public void ResumeButton()
+    public void ExitButton()
     {
         container.SetActive(false);
         Time.timeScale = 1f;
         Cursor.visible = false;
     }
-    
+    public void BrightnessButton()
+    {
+        container.SetActive(false);
+        Time.timeScale = 1f;
+        Cursor.visible = false;
+    }
+    public void VolumeButton()
+    {
+        container.SetActive(false);
+        Time.timeScale = 1f;
+        Cursor.visible = false;
+    }
+
 }

@@ -1,0 +1,34 @@
+using UnityEngine;
+
+
+public class DEATH : MonoBehaviour
+{
+    public GameObject container;
+    void Start()
+    {
+        container.SetActive(false);
+    }
+
+    void Update()
+    {
+        if (Player.Health <= 0)
+        {
+            container.SetActive(true);
+            Time.timeScale = 0f;
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+        }
+        
+    }
+
+    public void RespawnButton()
+    {
+        container.SetActive(false);
+        Time.timeScale = 1f;
+        UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name); 
+    }
+    public void exitGame()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("TitleScreen");
+    }
+}
