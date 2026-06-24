@@ -18,6 +18,7 @@ public class Player : MonoBehaviour
     private InputAction jumpAction;
     private InputAction sprintAction;
     private InputActionMap map; 
+    private Animator animator;
 
     private Rigidbody rb;
     private bool isGrounded = false;
@@ -32,6 +33,7 @@ public class Player : MonoBehaviour
         jumpAction = map.FindAction("Jump");
         sprintAction = map.FindAction("Sprint");
         rb = GetComponent<Rigidbody>();
+        animator = GetComponent<Animator>();
     }
 
     void OnEnable()
@@ -75,7 +77,11 @@ public class Player : MonoBehaviour
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isGrounded = false;
+            animator.SetTrigger("Jump");
         }
+
+        animator.SetFloat("Speed", speed);
+        animator.SetBool("Grounded", isGrounded);
 
 
         Vector2 JoystickInput = moveAction.ReadValue<Vector2>();
