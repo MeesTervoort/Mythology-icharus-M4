@@ -11,7 +11,6 @@ public class Player : MonoBehaviour
     [SerializeField] private float turnSpeed = 150f;
     [SerializeField] public static float jumpForce = 5f;
     [SerializeField] public static float Strength = 5f;
-    [SerializeField] public static int Feathers = 0;
     public UnityEngine.UI.Image healthImage;
 
 
@@ -26,6 +25,7 @@ public class Player : MonoBehaviour
     
     public static int Coins = 0;
     public static int Health = 10;
+    [SerializeField] public static int Feathers = 0;
 
     private void Awake()
     {
