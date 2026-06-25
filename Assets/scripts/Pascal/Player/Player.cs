@@ -25,6 +25,7 @@ public class Player : MonoBehaviour
     
     public static int Coins = 0;
     public static int Health = 10;
+    public static int Feathers = 0;
 
     private void Awake()
     {
