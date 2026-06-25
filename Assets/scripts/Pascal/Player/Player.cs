@@ -27,7 +27,6 @@ public class Player : MonoBehaviour
     public static int Coins = 0;
     public static int Health = 10;
 
-
     private void Awake()
     {
         map = input.FindActionMap(actionMapName);
