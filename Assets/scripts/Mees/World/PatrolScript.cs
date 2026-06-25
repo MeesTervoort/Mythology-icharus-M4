@@ -155,7 +155,7 @@ public class PatrolScript : MonoBehaviour
     private bool IsFacingPlayer()
     {
         Vector3 dirToPlayer = (Player.position - transform.position).normalized;
-        return Vector3.Angle(transform.forward, dirToPlayer) < viewAngle / 2f;
+        return Vector3.Angle(transform.forward, dirToPlayer) < viewAngle / 1.25f;
     }
 
     private bool HasClearPathToPlayer()

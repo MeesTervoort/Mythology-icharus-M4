@@ -17,14 +17,21 @@ public class NPCDialogue : MonoBehaviour
     [SerializeField][TextArea] private string[] dialogueWords;
     [SerializeField] private Sprite[] portait;
 
+
     private bool dialogueActive;
     private int step;
 
-    private void Update()
+    private void Start()
     {
-        if (Input.GetKeyDown(KeyCode.E) && dialogueActive)
+        Canvas.SetActive(false);
+        step = 0;
+    }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E) && dialogueActive == true)
         {
-            if(step >= dialogueWords.Length)
+            if (step >= speaker.Length)
             {
                 Canvas.SetActive(false);
                 step = 0;
@@ -35,18 +42,17 @@ public class NPCDialogue : MonoBehaviour
                 speakerText.text = speaker[step];
                 dialogueText.text = dialogueWords[step];
                 portaitImage.sprite = portait[step];
-                step++;
+                step += 1;
             }
-            
         }
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(UnityEngine.Collider other)
     {
         if (other.gameObject.tag == "Player")
         {
-            InteractArrow.SetActive(true);
             dialogueActive = true;
+            InteractArrow.SetActive(true);
         }
     }
 
