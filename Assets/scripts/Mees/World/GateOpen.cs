@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class GateOpen : MonoBehaviour
 {
-    
     public bool ShouldOpen = false;
     Animator animator;
     void Start()
@@ -12,9 +11,19 @@ public class GateOpen : MonoBehaviour
 
     void Update()
     {
-        animator.SetInteger("Feathers", Player.Feathers);
+        if(Player.Coins <= 3)
+        {
+            ShouldOpen = true;
+        }
 
+        if (ShouldOpen == true)
+        {
+            OpenGate();
+        }
     }
 
-    
+    public void OpenGate()
+    {
+        animator.SetTrigger("Open");
+    }
 }
