@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class GateOpen : MonoBehaviour
 {
-    [SerializeField] private bool ShouldOpen = false;
+    public bool ShouldOpen = false;
     Animator animator;
     void Start()
     {
@@ -16,7 +16,7 @@ public class GateOpen : MonoBehaviour
             ShouldOpen = true;
         }
 
-        if (ShouldOpen)
+        if (ShouldOpen == true)
         {
             OpenGate();
         }

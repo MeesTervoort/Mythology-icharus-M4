@@ -1818,7 +1818,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af7524804d28ad04e921176450a8c982, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GateOpen
+  Player: {fileID: 0}
   ShouldOpen: 0
+  Feathers: 0
 --- !u!95 &1501671151
 Animator:
   serializedVersion: 7
