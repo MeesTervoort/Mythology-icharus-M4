@@ -35,10 +35,10 @@ public class ChooseMenu : MonoBehaviour
         container.SetActive(false);
         Time.timeScale = 1f;
     }
-     public void StrengthButton()
+     public void HealthButton()
     {
         Player.Coins -= 1;
-        Player.Strength += 2f;
+        Player.Health += 2;
         container.SetActive(false);
         Time.timeScale = 1f;
     }

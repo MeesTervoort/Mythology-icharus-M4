@@ -156,7 +156,7 @@ MonoBehaviour:
   CutsceneImage:
   - {fileID: 21300000, guid: acf05d4a28a7c814eac222e90cc677d9, type: 3}
   - {fileID: 21300000, guid: 4e69263fa42f9a34fb085445defc742b, type: 3}
-  - {fileID: 21300000, guid: 2feff013a8318ca479aadc69f7006f4e, type: 3}
+  - {fileID: 21300000, guid: 31aa430a6c7ca674497d4fbee8a0033a, type: 3}
   - {fileID: 21300000, guid: 2af460ca3f7965c4884a9467234ee969, type: 3}
 --- !u!114 &1065648414
 MonoBehaviour:

@@ -3,9 +3,8 @@ using TMPro;
 
 public class UIScript : MonoBehaviour
 {
-    public TextMeshProUGUI SpeedText;
-    public TextMeshProUGUI JumpText;
-    public TextMeshProUGUI StrengthText;
+    public TextMeshProUGUI CoinText;
+    public TextMeshProUGUI HealthText;
     void Start()
     {
         
@@ -13,8 +12,7 @@ public class UIScript : MonoBehaviour
 
     void Update()
     {
-        SpeedText.text = Player.WalkSpeed.ToString();
-        JumpText.text = Player.jumpForce.ToString();
-        StrengthText.text = Player.Strength.ToString();
+        CoinText.text = Player.Coins.ToString();
+        HealthText.text = Player.Health.ToString();
     }
 }
