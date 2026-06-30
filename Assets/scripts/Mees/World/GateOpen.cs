@@ -24,6 +24,6 @@ public class GateOpen : MonoBehaviour
 
     public void OpenGate()
     {
-        animator.SetTrigger("Open");
+        animator.SetBool("OpenGate", true);
     }
 }
