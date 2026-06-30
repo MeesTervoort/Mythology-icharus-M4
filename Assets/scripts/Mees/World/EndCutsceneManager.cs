@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class CutsceneManager : MonoBehaviour
+public class EndCutsceneManager : MonoBehaviour
 {
     [SerializeField] private GameObject Canvas;
     [SerializeField] private GameObject Cover;
@@ -23,7 +23,6 @@ public class CutsceneManager : MonoBehaviour
         {
             if (step >= CutsceneImage.Length)
             {
-                UnityEngine.SceneManagement.SceneManager.LoadScene("main");
                 step = 0;
             }
             else
