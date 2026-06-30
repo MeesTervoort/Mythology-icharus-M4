@@ -191,6 +191,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 677025871474928568, guid: 314cefad84db46948bae521b3cefa923, type: 3}
+      propertyPath: feathersText
+      value: 
+      objectReference: {fileID: 1044400007}
+    - target: {fileID: 677025871474928568, guid: 314cefad84db46948bae521b3cefa923, type: 3}
+      propertyPath: feedbackText
+      value: 
+      objectReference: {fileID: 2035651752}
     - target: {fileID: 4141316852343881922, guid: 314cefad84db46948bae521b3cefa923, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.812304
@@ -386,6 +394,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 677025871474928568, guid: 314cefad84db46948bae521b3cefa923, type: 3}
+      propertyPath: feathersText
+      value: 
+      objectReference: {fileID: 1044400007}
+    - target: {fileID: 677025871474928568, guid: 314cefad84db46948bae521b3cefa923, type: 3}
+      propertyPath: feedbackText
+      value: 
+      objectReference: {fileID: 2035651752}
     - target: {fileID: 4141316852343881922, guid: 314cefad84db46948bae521b3cefa923, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.068359
@@ -1308,6 +1324,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 677025871474928568, guid: 314cefad84db46948bae521b3cefa923, type: 3}
+      propertyPath: feathersText
+      value: 
+      objectReference: {fileID: 1044400007}
+    - target: {fileID: 677025871474928568, guid: 314cefad84db46948bae521b3cefa923, type: 3}
+      propertyPath: feedbackText
+      value: 
+      objectReference: {fileID: 2035651752}
     - target: {fileID: 4141316852343881922, guid: 314cefad84db46948bae521b3cefa923, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.7009945
@@ -1410,6 +1434,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1044400007 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8249519731509811792, guid: fed0a6f449a22de42a253bf1dd496d6b, type: 3}
+  m_PrefabInstance: {fileID: 1288290070}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1 &1093590698
 GameObject:
   m_ObjectHideFlags: 0
@@ -2148,6 +2183,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6605dce9f9b9956448729fda88499e15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GuardTouch
+--- !u!114 &2035651752 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5467039782444176610, guid: fed0a6f449a22de42a253bf1dd496d6b, type: 3}
+  m_PrefabInstance: {fileID: 1288290070}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1 &2095005802 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4940140692068441280, guid: 434d5817599e60f41a96bb9d9b08516b, type: 3}

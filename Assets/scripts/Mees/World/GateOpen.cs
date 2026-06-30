@@ -11,19 +11,16 @@ public class GateOpen : MonoBehaviour
 
     void Update()
     {
-        if(Player.Coins <= 3)
+        if(Player.Coins >= 3)
         {
-            ShouldOpen = true;
+            animator.SetInteger("Feathers", 3);
         }
 
-        if (ShouldOpen == true)
-        {
-            OpenGate();
-        }
+        
     }
 
     public void OpenGate()
     {
-        animator.SetBool("OpenGate", true);
+        
     }
 }
