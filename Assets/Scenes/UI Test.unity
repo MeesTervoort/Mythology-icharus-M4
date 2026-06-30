@@ -166,6 +166,7 @@ MonoBehaviour:
   feedbackText: {fileID: 0}
   feathersText: {fileID: 0}
   FeathersToGive: 1
+  coinsToGive: 1
 --- !u!136 &354148394
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -357,6 +358,7 @@ MonoBehaviour:
   feedbackText: {fileID: 0}
   feathersText: {fileID: 0}
   FeathersToGive: 1
+  coinsToGive: 1
 --- !u!136 &658252900
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -805,6 +807,7 @@ MonoBehaviour:
   feedbackText: {fileID: 0}
   feathersText: {fileID: 0}
   FeathersToGive: 1
+  coinsToGive: 1
 --- !u!1 &1800126386
 GameObject:
   m_ObjectHideFlags: 0
@@ -841,6 +844,7 @@ MonoBehaviour:
   feedbackText: {fileID: 0}
   feathersText: {fileID: 0}
   FeathersToGive: 1
+  coinsToGive: 1
 --- !u!136 &1800126388
 CapsuleCollider:
   m_ObjectHideFlags: 0
