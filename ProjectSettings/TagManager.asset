@@ -9,6 +9,9 @@ TagManager:
   - CoinText
   - Coin
   - Enemy
+  - DialogueBox
+  - DialogueText
+  - FeatherText
   layers:
   - Default
   - TransparentFX
