@@ -10,7 +10,6 @@ public class Player : MonoBehaviour
     [SerializeField] public static float WalkSpeed = 5f;
     [SerializeField] private float turnSpeed = 150f;
     [SerializeField] public static float jumpForce = 5f;
-    [SerializeField] public static float Strength = 5f;
     public UnityEngine.UI.Image healthImage;
 
 
@@ -18,13 +17,13 @@ public class Player : MonoBehaviour
     private InputAction jumpAction;
     private InputAction sprintAction;
     private InputActionMap map; 
-    private Animator animator;
 
     private Rigidbody rb;
     private bool isGrounded = false;
     
     public static int Coins = 0;
     public static int Health = 10;
+    [SerializeField] public static int Feathers = 0;
 
     private void Awake()
     {
@@ -33,7 +32,6 @@ public class Player : MonoBehaviour
         jumpAction = map.FindAction("Jump");
         sprintAction = map.FindAction("Sprint");
         rb = GetComponent<Rigidbody>();
-        animator = GetComponent<Animator>();
     }
 
     void OnEnable()
@@ -77,11 +75,7 @@ public class Player : MonoBehaviour
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isGrounded = false;
-            animator.SetTrigger("Jump");
         }
-
-        animator.SetFloat("Speed", speed);
-        animator.SetBool("Grounded", isGrounded);
 
 
         Vector2 JoystickInput = moveAction.ReadValue<Vector2>();

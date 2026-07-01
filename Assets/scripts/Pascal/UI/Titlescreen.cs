@@ -18,22 +18,20 @@ public class Titlescreen : MonoBehaviour
 
     public void StartGame()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Cutscene");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Main");
     }
-
     public void Settings()
     {
         container1.SetActive(true);
+        container2.SetActive(false);
         Time.timeScale = 1f;
     }
-
     public void back()
     {
-        container2.SetActive(true);
         container1.SetActive(false);
+        container2.SetActive(true);
         Time.timeScale = 1f;
     }
-
     public void QuitGame()
     {
         Application.Quit();
