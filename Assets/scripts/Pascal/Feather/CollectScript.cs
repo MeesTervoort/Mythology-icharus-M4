@@ -6,13 +6,12 @@ public class CollectScript : MonoBehaviour
 
     public float respawnTime = 3f;
     public TextMeshProUGUI feedbackText;
-    public TextMeshProUGUI feathersText;
-    public int FeathersToGive = 1;
+    public TextMeshProUGUI coinsText;
     public int coinsToGive = 1;
 
     private void Start()
     {
-        feathersText = GameObject.FindWithTag("FeatherText").GetComponent<TextMeshProUGUI>();
+        coinsText = GameObject.FindWithTag("CoinText").GetComponent<TextMeshProUGUI>();
     }
     void Update()
     {
@@ -25,9 +24,8 @@ public class CollectScript : MonoBehaviour
         if(collision.gameObject.tag == "Player")
         {
             Player player = collision.gameObject.GetComponent<Player>();
-            Player.Feathers += FeathersToGive;
             Player.Coins += coinsToGive;
-            feathersText.text = Player.Feathers.ToString();
+            coinsText.text = Player.Coins.ToString();
             Destroy(gameObject);
         }
     }

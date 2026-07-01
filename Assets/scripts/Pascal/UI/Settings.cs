@@ -4,6 +4,7 @@ public class Setting : MonoBehaviour
 {
     
     public GameObject container;
+    public GameObject container2;
     void Start()
     {
         container.SetActive(false);
@@ -28,6 +29,7 @@ public class Setting : MonoBehaviour
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
         container.SetActive(false);
+        container2.SetActive(true);
         Time.timeScale = 1f;
     }
     public void BrightnessButton()
