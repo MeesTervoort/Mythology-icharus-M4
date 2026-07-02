@@ -154,9 +154,19 @@ MonoBehaviour:
   Canvas: {fileID: 1065648412}
   Image: {fileID: 1167345374}
   CutsceneImage:
+  - {fileID: 21300000, guid: 955ac5057719d5445a37f9d8f524c97f, type: 3}
+  - {fileID: 21300000, guid: b67a91fa4b3c38b4ca4b76edb12ea7a6, type: 3}
+  - {fileID: 21300000, guid: c87dddb16e003254883454c51cd7e82f, type: 3}
+  - {fileID: 21300000, guid: 544d5483f0f5eb0448078271485e6e76, type: 3}
+  - {fileID: 21300000, guid: cab01786eb315a041bb66f23215953c4, type: 3}
+  - {fileID: 21300000, guid: 540817348877d644f91a71bb60b771bd, type: 3}
+  - {fileID: 21300000, guid: 5ee619849029c0b43bdce227e9e63992, type: 3}
+  - {fileID: 21300000, guid: edbfcdba71d4aaf4da2fbe5c7087f659, type: 3}
   - {fileID: 21300000, guid: acf05d4a28a7c814eac222e90cc677d9, type: 3}
+  - {fileID: 21300000, guid: fdc7b3c7959e34e478e90c316be98665, type: 3}
   - {fileID: 21300000, guid: 4e69263fa42f9a34fb085445defc742b, type: 3}
   - {fileID: 21300000, guid: 2feff013a8318ca479aadc69f7006f4e, type: 3}
+  - {fileID: 21300000, guid: 639df21dcfaa59049b58feb8e62d4e58, type: 3}
 --- !u!114 &1065648414
 MonoBehaviour:
   m_ObjectHideFlags: 0
